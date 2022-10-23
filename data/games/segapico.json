@@ -1,0 +1,3252 @@
+{
+  "segapico_27bb0b0a": {
+    "id": "segapico_27bb0b0a",
+    "name": "101-piki Wan-chan - Wan-chan Daikoushin! (Japan).md",
+    "cid": "QmWdVKKax1pFETLtorG9dxqGp2JJNYTC4wLmXkDLngnU6h",
+    "crc": "27bb0b0a",
+    "md5": "d44ae5430b809b6380fe5f28e6311e77",
+    "sha1": "f9e2bde5351f34cd565c03a1cad3d1baedd8c7c3",
+    "sha256": "88ed81202ee6e1157e260ce3be12add9ebf6ccd969fc868310841b65d421bc3f",
+    "size": 1048576
+  },
+  "segapico_238dd68a": {
+    "id": "segapico_238dd68a",
+    "name": "3-choume no Tama - Momo-chan wa Doko! (Japan) (Rev 1).md",
+    "cid": "QmYH9JmDxWRZZ5Bg1GYMxEUQCwGC4wBRvBu9SvN3iSStn4",
+    "crc": "238dd68a",
+    "md5": "6e006385b2cf89123e0fe17de19e6a67",
+    "sha1": "c8a5aeab3451617a11b4ecb7e43d78ad9d0daaa2",
+    "sha256": "f64b168b4a44bb3ab5129e7152105d84ff0a6f5ca68816a86ab52d014b3b30c5",
+    "size": 524288
+  },
+  "segapico_d62e3372": {
+    "id": "segapico_d62e3372",
+    "name": "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1 (Japan).md",
+    "cid": "QmXzGABqmMEAPMsBrFJiVGEc9wb2D3DX2ZiPKqCDEf9SiT",
+    "crc": "d62e3372",
+    "md5": "175f8ba083df54257afafe941735d018",
+    "sha1": "71804b391ca24d6de1775cfdf0d5a21f7d90b768",
+    "sha256": "a85facb233613bd7eb652016321273eee15f3dd2f32dda6edfdae82d388fcd42",
+    "size": 2097152
+  },
+  "segapico_9c058e95": {
+    "id": "segapico_9c058e95",
+    "name": "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 (Japan).md",
+    "cid": "QmXgtNxEXS5c7L6gBCcMXtruSRMUSYN1TY5bzmS3NhXfiv",
+    "crc": "9c058e95",
+    "md5": "28e57ea429c957da9f2d6e108cd09f6d",
+    "sha1": "2dd8b5e6510a71b75494ff9f3bf9963a21b2c7a9",
+    "sha256": "6ae2a34132809c9df471591c36915718d638749a2dc9f3f507197ccc1271b708",
+    "size": 2097152
+  },
+  "segapico_e846858b": {
+    "id": "segapico_e846858b",
+    "name": "Adventures in Letter Land with Jack & Jill (USA).md",
+    "cid": "QmPcVRqrvGu7F3NWQXxNedBinPQZ1GxnPo1ctRXGSvuYcB",
+    "crc": "e846858b",
+    "md5": "3960b1a060675f59d0be6c035e6664e1",
+    "sha1": "fe4412ba81673894167841f47780a3f67d93c4e7",
+    "sha256": "5b64adb3c9eb64af792cb0ab88a978bcc2110751f88549ae04a7c19e7d583182",
+    "size": 1048576
+  },
+  "segapico_b7f5a628": {
+    "id": "segapico_b7f5a628",
+    "name": "Aendiwa Billieui Suhaktamheom (Korea).md",
+    "cid": "QmapGZYmirdS3ytvp65aR8LHTxbDsiHQheoMkcrebkqkKy",
+    "crc": "b7f5a628",
+    "md5": "fb23750cc8fbdf5a2690ac81fc4ec469",
+    "sha1": "5682e8714f8b48959962cc885ead9b1cb6012fbc",
+    "sha256": "c7faec94aabc17b5f67d4a5b1cc87888bcc81e89c46e7dc2633690d6104a8c7c",
+    "size": 1048576
+  },
+  "segapico_6859c975": {
+    "id": "segapico_6859c975",
+    "name": "Ai to Yume no Kuni Sanrio Puroland - Asobinagara Oboeyou! Hiragana Katakana (Japan).md",
+    "cid": "QmYbckh7hfJouFnH6cxX2Ece8S4o4QjiHR1XnQyC7L8dAB",
+    "crc": "6859c975",
+    "md5": "894a7018d1480ee843d44db36324b539",
+    "sha1": "5df847c8140f0c8762d6959ecfdb5f53c70ee0bc",
+    "sha256": "c5b290958ce4ceb9d252bb325578f9c52db2dc4e9f00277977aae063652f25d9",
+    "size": 1048576
+  },
+  "segapico_0087112a": {
+    "id": "segapico_0087112a",
+    "name": "Ai to Yume no Kuni Sanrio Puroland - Chanto Dekiru Kana Minna to Tanoshii Oyuugikai (Japan).md",
+    "cid": "QmanrB6MHCG6aowHLPbaJ9yHMdMBpYGErA7EX3dgvRKo6g",
+    "crc": "0087112a",
+    "md5": "f989c5bb5b88a2770610b867abc9d032",
+    "sha1": "ce47f2a5d941597475ea1565d76d7d6c0fbf1338",
+    "sha256": "b84025533235ec970e46b6c22121d2ee41d7edb74c33a915a770084bf1d1edd0",
+    "size": 1048576
+  },
+  "segapico_6befd952": {
+    "id": "segapico_6befd952",
+    "name": "Ai to Yume to Bouken Sanrio Puroland (Japan).md",
+    "cid": "QmVxXi3QbEZft713cLDBxzkR5WmHBZDpniTLmxh4YEtbhj",
+    "crc": "6befd952",
+    "md5": "1a6abaeb03f89c8acaa5c645ccecf014",
+    "sha1": "3da7124a74f53330d87d25eb5032b41eca022ff1",
+    "sha256": "23323c6a1c084d70afcd413e693a03410afd852e45a624028a12ab0334007cf4",
+    "size": 1048576
+  },
+  "segapico_68bc6c65": {
+    "id": "segapico_68bc6c65",
+    "name": "Allowa Pongka (Korea).md",
+    "cid": "QmTqGDzEA8SnUnkKGivPyWAcAgumxwdJ988JPtCp4gohD9",
+    "crc": "68bc6c65",
+    "md5": "fb1d61ff048e41c59d8e50e3b57982ad",
+    "sha1": "94d3c164524fd9b5667bcba7a6533993b673366a",
+    "sha256": "5e30d3a8e2dba411f25a188d5aee7693d7cb51b39f53aab8299ea9226f8f08b7",
+    "size": 1048576
+  },
+  "segapico_4e4c17bc": {
+    "id": "segapico_4e4c17bc",
+    "name": "Annee en Compagnie de Winnie l'Ourson, Une (France).md",
+    "cid": "QmVitapy1VedLtYyH3GVwKQ5j7F1Xwttk83JAsWS7MmGCx",
+    "crc": "4e4c17bc",
+    "md5": "73922db11a14d272658312a380e4a3b5",
+    "sha1": "e07a568f90a5db13bae314bfd310488320122439",
+    "sha256": "adeeda4897876d875946522be5690d5cadadef03ba2fb02ee1ead8671d502364",
+    "size": 524288
+  },
+  "segapico_b9594101": {
+    "id": "segapico_b9594101",
+    "name": "Anno con Winny Puh, Un (Italy).md",
+    "cid": "QmPTHnaoLqxJDicvKTzdsHcgDAYTkq3XsFCaGHamzum18v",
+    "crc": "b9594101",
+    "md5": "4feb0036ad5ccaa86369cd9dc14590d7",
+    "sha1": "f03ed21a23a7777dbcd9d816712542730b6968cf",
+    "sha256": "fd9c61896f1b000c74b0c3b7b5e320fc83f342ba031bf0c7604eb1be252fda17",
+    "size": 524288
+  },
+  "segapico_804448bb": {
+    "id": "segapico_804448bb",
+    "name": "Ano en la Esquina de Pooh, Un (Spain).md",
+    "cid": "QmUFQpYCuUmWNvt4QSS2H2VVZmyZVJJLnSfcs5zii1n8Wd",
+    "crc": "804448bb",
+    "md5": "0e022d39bb163368a38c15e8328cfd7b",
+    "sha1": "826800f8edd285cd156ea53989b634a7881d6354",
+    "sha256": "2eb3ee7370decfbf041f7e14dbe674e49124914096781f0d384334f7b639eaeb",
+    "size": 524288
+  },
+  "segapico_d2f15d6f": {
+    "id": "segapico_d2f15d6f",
+    "name": "Anpanman Eigo - Tanosii Kanibaru (Taiwan).md",
+    "cid": "QmZQSjrqKo5GxSDJUxZBwSJfXQ5RMqNbQHyWUFjowdEQNz",
+    "crc": "d2f15d6f",
+    "md5": "87ae8e5422b3f1aa7bbac2fd4206889f",
+    "sha1": "a2014920d3c255130738f687c49c2ade3cd37331",
+    "sha256": "ea36266702d7bb2fd8c3cd45e60ba2e42c75af33621fa87f8dc9d628e481163b",
+    "size": 1048576
+  },
+  "segapico_7080cc7a": {
+    "id": "segapico_7080cc7a",
+    "name": "Anpanman no Hajimete Mouse Pico - Anpanman to PC Renshuu! (Japan).md",
+    "cid": "QmQ2QHYv5T7WL4aTmAHYKpN76Evfzxnh3fm6QUBNBkwfAw",
+    "crc": "7080cc7a",
+    "md5": "74b6be7337a1a0748710fc3eddaec007",
+    "sha1": "0df483eaa1ab7d1c56b0a2ede6b385ed14393e46",
+    "sha256": "18d5469ac8ce427da090f38caad1f1842003eb15f256576af45349cc0cc8c39b",
+    "size": 2097152
+  },
+  "segapico_a10118a5": {
+    "id": "segapico_a10118a5",
+    "name": "Anpanman Pico - Waku Waku Pan Koujou (Japan) (Rev 1).md",
+    "cid": "QmWN1vH5z8VH3yUvsBHXp15VSwhrwA7W3RbpjckswNoPs5",
+    "crc": "a10118a5",
+    "md5": "0a96d8d2acd8870cddd64b8dd13314dd",
+    "sha1": "b9fce10b2558f73048d30398410b0e3340e87610",
+    "sha256": "a3a0b12b97515af7e9b0162320d1d79914c19e52196001f5ccac214df0049e7a",
+    "size": 1048576
+  },
+  "segapico_2a8da73b": {
+    "id": "segapico_2a8da73b",
+    "name": "Anpanman to Chinou Up! (Japan).md",
+    "cid": "QmfAgU54kzqpTmn7NYwCbLngQGyvFYhpANoyxAd1An99S8",
+    "crc": "2a8da73b",
+    "md5": "8b93282d7b35219998b39795cfb109c9",
+    "sha1": "eff1447d20fa7532af948df8267261e51d14589c",
+    "sha256": "b70f31b4caa43b79d9e7f68c81f8e32a44ef364e7835c0b3dba5c69a2ae3579b",
+    "size": 2097152
+  },
+  "segapico_0a48bbb9": {
+    "id": "segapico_0a48bbb9",
+    "name": "Ar Med Nalle Puh, Ett (Sweden).md",
+    "cid": "QmR2znmi2pNMc8yTuPPnbt2xBuUQY68kngizisFxsf8Kao",
+    "crc": "0a48bbb9",
+    "md5": "554186d6823641384669b72ef76d79df",
+    "sha1": "a702d91a72066bea72e7cff9013f1b94f2623761",
+    "sha256": "2bfdba9b0adfb015b231796c2ab5d86e204aade5057dc8454d16d3638dd15f7c",
+    "size": 524288
+  },
+  "segapico_0a7f07cc": {
+    "id": "segapico_0a7f07cc",
+    "name": "Ashita no Nadja (Japan).md",
+    "cid": "QmQgWk2PBsXHjfw3Y9odCbL47WJLxB5eEwE5dUGfEF9w7P",
+    "crc": "0a7f07cc",
+    "md5": "dd9e81f5b113c50e69d7a1be48184c70",
+    "sha1": "19dd2e42ee1d785dfe52ec334ab5b226259f9ba5",
+    "sha256": "f6480b345c2add6af0a66579082056ed970e18667eee367b9da1cbcd5d5d8b85",
+    "size": 2097152
+  },
+  "segapico_f8a95177": {
+    "id": "segapico_f8a95177",
+    "name": "Aventures du Roi Lion, Les (France).md",
+    "cid": "QmS5xzyteJ22NY6iM5MC4aCCczbsBFLqFkoGTCzVKxWFEa",
+    "crc": "f8a95177",
+    "md5": "aa1ea874328bacab73be1e7c9d4733e5",
+    "sha1": "8c1853e1c6eba378cb2efc71039462cbb021c0ed",
+    "sha256": "c2342bada0c7e2f17f586c394c36b9796becd360725d717805739d04468feb56",
+    "size": 1048576
+  },
+  "segapico_88c8e104": {
+    "id": "segapico_88c8e104",
+    "name": "B-Fighter Kabuto (Japan).md",
+    "cid": "QmbBgphdfHUzhQddBQnrqE7WpNTXGQE347DLLPDSrmt23c",
+    "crc": "88c8e104",
+    "md5": "5097c897a7b7db75f16a186efacdbc70",
+    "sha1": "d40e1d4daf6fc7ed8f07e362033c329204ba5553",
+    "sha256": "4a2b7d1e4c6e8a657f84a9a856cec9f5ece2c5277aa966757f80d09f2864e190",
+    "size": 524288
+  },
+  "segapico_df504ee6": {
+    "id": "segapico_df504ee6",
+    "name": "B-Robo Kabutack (Japan).md",
+    "cid": "QmXfXAAnPW6PuBMJRtyGd7r2kqeu7z8tw2jVaNConsCmC3",
+    "crc": "df504ee6",
+    "md5": "f6306fa5c278218ae969c70b67b7a4f5",
+    "sha1": "392128b92f38b7aabb59c0253bc2a85b34ab677c",
+    "sha256": "664657b1477e1e26457c12056f2da4e5d5d20bf0a81f6a3bc41ec752945e8872",
+    "size": 524288
+  },
+  "segapico_0bd73cf6": {
+    "id": "segapico_0bd73cf6",
+    "name": "Bakuryuu Sentai Abaranger (Japan).md",
+    "cid": "QmeLe7b5a4uNyMcGAGWAvp5KsMkxZ7YxRyb4Rm6SnzFbfT",
+    "crc": "0bd73cf6",
+    "md5": "022693669340e0e89a8b0f2289221d8f",
+    "sha1": "df12e28a2f1e49f51d2d8968d38993f2f93b648c",
+    "sha256": "60835ea7ff3d2c95af0fd8a57f5caf483f28b9925c4d835cba11fe9cd89b600c",
+    "size": 2097152
+  },
+  "segapico_63e37ab9": {
+    "id": "segapico_63e37ab9",
+    "name": "Beogseu Laipeu (Korea).md",
+    "cid": "QmRbEeW9GcTADLXB8aG2ZsrB655QUA8uzJCe5AZ2KHPQ8E",
+    "crc": "63e37ab9",
+    "md5": "ca15300cd6f94bc3261962af0409260f",
+    "sha1": "a7ff319deaffbb27d732d86ad42458f26e4fcb12",
+    "sha256": "44f04f0d47d8b0694f9f7650821d4600f8149bbe36e5d2579b824e37160f47bb",
+    "size": 2097152
+  },
+  "segapico_e92af9f1": {
+    "id": "segapico_e92af9f1",
+    "name": "Berenstain Bears, The - A School Day (USA).md",
+    "cid": "QmNfMFU9HFiUVSVompg4gkACeWuinMgasBXZR489pPpYkW",
+    "crc": "e92af9f1",
+    "md5": "d84c7f5ebdb96e282dca16731b1b852b",
+    "sha1": "f4ae09a8a0e11cd8bec95ec3ac3908ce6da7a30f",
+    "sha256": "060ac9424567d6ef6fc01028621537af0834766a7832e12c1d261a77a0f6ff80",
+    "size": 1048576,
+    "status": "verified"
+  },
+  "segapico_d074b19e": {
+    "id": "segapico_d074b19e",
+    "name": "Bioneun Nal (Korea).md",
+    "cid": "QmZT4GVPDsDsatjNzZ6t3ea1grT2yXN84GXBDCAL6DXZKC",
+    "crc": "d074b19e",
+    "md5": "d33b489570be7e74ed68ffaf92a60da1",
+    "sha1": "970d04fd31f7a1ac88531a0df7ce3cd6453628d8",
+    "sha256": "3def0f81ec7de06caf454f9e6d25842f3340ed42da7de95344249a291204dcba",
+    "size": 1048576
+  },
+  "segapico_44502cc9": {
+    "id": "segapico_44502cc9",
+    "name": "Bishoujo Senshi Sailor Moon S (Japan).md",
+    "cid": "Qmb78kjY4pgqwtpoyWMz2tpPVtRJyVC5jx9vYYdfBwKVxL",
+    "crc": "44502cc9",
+    "md5": "cf1b80451761a1c5ae228c9ebf8f2d24",
+    "sha1": "2706bd45dafe7470e5504485877d23864caf7277",
+    "sha256": "3ca71bea20cce5f54cb5162fae96cb2d4c5d54c8eb2ffdbc576467488f13ec77",
+    "size": 524288
+  },
+  "segapico_a503503d": {
+    "id": "segapico_a503503d",
+    "name": "Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party (Japan).md",
+    "cid": "QmeV82Syr5aoNaZgwdBkheGkSwN7kRyCxeHKGyuxYDdSuw",
+    "crc": "a503503d",
+    "md5": "017ad0dde768a4a377a25b1c440e5e68",
+    "sha1": "6737ba2590e6dc48b125ff9725a55430465f707c",
+    "sha256": "8d99648e0cee0848fe58a78cdcab671bf4f9467318b692cf20e6663e94e5bf45",
+    "size": 524288
+  },
+  "segapico_a616e7b3": {
+    "id": "segapico_a616e7b3",
+    "name": "Bishoujo Senshi Sailor Moon SuperS (Japan).md",
+    "cid": "QmRUp5nDJGu5vEyf9e6gADDH3uDHBta6135Yjmnn85Xm6o",
+    "crc": "a616e7b3",
+    "md5": "978dc0c74e915ac4f31bfca2e784584a",
+    "sha1": "773ca5ef704a17227f25318d6e5113c0a72bf5e8",
+    "sha256": "f3fe415797710ec286a56f7f8143ec120d9f61df50765cd0ff9cfbb7ecb8ee24",
+    "size": 524288
+  },
+  "segapico_96ee02a2": {
+    "id": "segapico_96ee02a2",
+    "name": "Bug's Life, A (Japan).md",
+    "cid": "QmbWPGP26fQoBodWBkSMMnySqhfownbsnYzQCFMTNvCEvR",
+    "crc": "96ee02a2",
+    "md5": "7f24b0c2092155aef0f7adcac8f52842",
+    "sha1": "aff437671cbfa0119b1828c47e538ff32db3a0db",
+    "sha256": "10ef82345a2ee403f0d2310782c336a32443f1cc0c0220854b0b3e3d209667eb",
+    "size": 2097152
+  },
+  "segapico_c81acb46": {
+    "id": "segapico_c81acb46",
+    "name": "Chibi Maruko-chan - Issho ni Asobou yo (Japan).md",
+    "cid": "QmcLxYnJ5S2fX39jHKpxRSWsw21bp4DGu3wmQewVXJ93qU",
+    "crc": "c81acb46",
+    "md5": "6620043bcc0672eb8e0b6e2511980da5",
+    "sha1": "d4a51f8894157dc8ef845931366d2ab482d43839",
+    "sha256": "aa255bba2dbc3bf9cdcb8f455fef7a106f6e9deb8485cf61d49a9b9074253a63",
+    "size": 524288
+  },
+  "segapico_763cbcf4": {
+    "id": "segapico_763cbcf4",
+    "name": "Choukou Senshi Changerion (Japan).md",
+    "cid": "QmSXP3NNPuNNt7unDgTR79UJ8NmVbU2CnA7mfkfHRadnQZ",
+    "crc": "763cbcf4",
+    "md5": "52e7d06f9940a0d6530c3a3c576a9b4f",
+    "sha1": "68a592ebe972a984eb6c631a363bd60c384ed5af",
+    "sha256": "0fa03af8779acd4de77e9830c76430f329e14985380eaae1cb4ec6a90542add9",
+    "size": 524288
+  },
+  "segapico_c95a4ef3": {
+    "id": "segapico_c95a4ef3",
+    "name": "Conveni de Okaimono! (Japan).md",
+    "cid": "Qmaq4pk63BtAfcGmsMVVLBKss4PGRt5mCqjaEtn1VWHWAr",
+    "crc": "c95a4ef3",
+    "md5": "2379c2b1309765719a03347fb6214772",
+    "sha1": "24d03589c4192e139f0eb33ce6e4b4a87c949a9b",
+    "sha256": "eb19c16a54815fa2a72c004ac4837c48fec0a1683d5c1deb75f66722d318148b",
+    "size": 2097152
+  },
+  "segapico_b94f7d54": {
+    "id": "segapico_b94f7d54",
+    "name": "Cooking Pico - Minna to Issho ni Hajimete Cooking! (Japan).md",
+    "cid": "Qmaixfo7UvFNjuDHvJrcmghHqKr21143P4bTWXxJNiod5K",
+    "crc": "b94f7d54",
+    "md5": "850a977da3ccc1a9cd839420f33bde00",
+    "sha1": "dabeb440adbb7477cc880c51fb0cfc1e5f99d23b",
+    "sha256": "488bad1b3cc46f186d9415b1d9adeceee0f5d80c92bfbe2272f8c4468f20a314",
+    "size": 2097152
+  },
+  "segapico_c8fd3ad4": {
+    "id": "segapico_c8fd3ad4",
+    "name": "Cooking Pico (Korea).md",
+    "cid": "QmW4xqvsZNDzBYn9REiKSm32wtcE6ZSKCiXbeQsgTm5aG7",
+    "crc": "c8fd3ad4",
+    "md5": "2c579cf7728aab08b89c0709052e6ce9",
+    "sha1": "6d35b3411df37222acb3a36e4c7830e92a8e3fba",
+    "sha256": "4042ee3e360f7ee2cb71e405f7802194d80c98bd351e13c5eb637aea58a95e89",
+    "size": 2097152
+  },
+  "segapico_9a5dd562": {
+    "id": "segapico_9a5dd562",
+    "name": "Copera no Chikyuu Daisuki (Japan) (Copera).md",
+    "cid": "QmYgiA616QFbRq8S4E5ht2iH9NtjxzAfhtez4L2TiDATNn",
+    "crc": "9a5dd562",
+    "md5": "9d56e4ed21d91630fb7a94090a8d6ac5",
+    "sha1": "730195fc41efb923a4f8e8acd5228d1ae8b16c16",
+    "sha256": "4cca7cc24a79e985c081cbf5a7a939aab2c6cec6efe114a3e51f12af764ea4c7",
+    "size": 1048576
+  },
+  "segapico_1041e52a": {
+    "id": "segapico_1041e52a",
+    "name": "Copera no Kono Oto Naani (Japan) (Copera).md",
+    "cid": "QmVBBGYyThVJxeS99g267CHCKDHeTKYi83XCCFZuajgA5U",
+    "crc": "1041e52a",
+    "md5": "b5a6e6d8236e04f644599c51e8b26992",
+    "sha1": "422f46d670a5f8094267984051ed6f90babe2dce",
+    "sha256": "739e7395cf3e51a274ac05e0dec20c26b90b2d4f4e01b20f90368ef5a0c338a6",
+    "size": 1048576
+  },
+  "segapico_a7d33072": {
+    "id": "segapico_a7d33072",
+    "name": "Copera no Time Machine (Japan) (Copera).md",
+    "cid": "QmZZ5pbGxtaf9BTQqbzhbB9tDus9Rof2Gp61UuX2hyieLo",
+    "crc": "a7d33072",
+    "md5": "cc13b093f0bfa16ea55d3e1525a0008d",
+    "sha1": "081c61e35478ffdda6eda58f40be056732f35595",
+    "sha256": "3e44fb91768d1eb659f997d516aa0bb105b4693e0bdf563c673c90677fbb332f",
+    "size": 1048576
+  },
+  "segapico_81046d4d": {
+    "id": "segapico_81046d4d",
+    "name": "Cores Magicas (Brazil).md",
+    "cid": "QmNWgussav5QXj4Mmb3itHTqABzu8iMxkqfkd8ybwuPiJf",
+    "crc": "81046d4d",
+    "md5": "88e227deb63122c35175b4688bac5366",
+    "sha1": "ca2ffba211e088a9b1f0047e86013e65e2948b04",
+    "sha256": "1c345b489322fceee79e8195e7cd4a3b59604fb6988bfc61c68e40d8239303d7",
+    "size": 524288
+  },
+  "segapico_04fc1c21": {
+    "id": "segapico_04fc1c21",
+    "name": "Crayola Crayons - Create a World (USA).md",
+    "cid": "QmeShekCVhuZef7LHAuNyAcjUy18nkTeqaLfhrrinkNdup",
+    "crc": "04fc1c21",
+    "md5": "117a260f12ca604247f35681ee2eb029",
+    "sha1": "88738c2b5b6302385fbaad60af1221cf70cf0f93",
+    "sha256": "687d423f570ad679778845f8031386e6a7eca8de7393dcd10df3500ee5d4097f",
+    "size": 524288
+  },
+  "segapico_843c3af4": {
+    "id": "segapico_843c3af4",
+    "name": "Crayon Shin-chan no Oekaki Note (Japan).md",
+    "cid": "QmYMzAURMwpTEkx8L2XtmMYHFWWKrf9YiGk7SWhnoR7bbt",
+    "crc": "843c3af4",
+    "md5": "c91c1f60ca33ab70342bf635aa299879",
+    "sha1": "878733ffb5b0464f82f102f8500650bfe0b4add4",
+    "sha256": "3a6f210ca4fcebf224255b786a2ab4113cafc84fb337e79b57427f816b561ce3",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_966002fb": {
+    "id": "segapico_966002fb",
+    "name": "Crayon Shin-chan no Ora to Issho ni Asobou yo! (Japan).md",
+    "cid": "QmTLS4HK4vydMmEmUeUNjo86VUEJuqtCLWhxrXvT75yTm3",
+    "crc": "966002fb",
+    "md5": "989d596683c2a88f2611f80ce9d43976",
+    "sha1": "07c0acdc0871a962d9bfcc79178a1c8e8fec4953",
+    "sha256": "d0404f4307cd50c5c891f3a81ff679764cef61fe052c6b5bdb40eb2c2c1ca36c",
+    "size": 524288
+  },
+  "segapico_dc2aeb72": {
+    "id": "segapico_dc2aeb72",
+    "name": "Crayons Magiques (France).md",
+    "cid": "QmWobSWzFtevH7S8NevTkw2TmkWf4cfxBTBxQ24x7NCxyF",
+    "crc": "dc2aeb72",
+    "md5": "709105305d5e4c9d5da8b707d8c9727f",
+    "sha1": "34ff47646eb90f243b4a793ecff3591ee85a71d0",
+    "sha256": "7913c5e88f52d9f017387f8230d9ef51b0b9f875f5c03f73a65bd4cc76845b6c",
+    "size": 524288
+  },
+  "segapico_f5c3fe17": {
+    "id": "segapico_f5c3fe17",
+    "name": "Cutey Honey F (Japan).md",
+    "cid": "QmQhdEjNrWJ72jhJ3uL1NJBJHAyB2veRr2oSNfEpegu55R",
+    "crc": "f5c3fe17",
+    "md5": "cf43c99a78a0d38266d609473503aa79",
+    "sha1": "02aa1df927a9a1ffed62ad042f348afe2810a509",
+    "sha256": "06db4b4e7be5e37ca28e3c6ae7e8a56823fa1f1db8c2b8872f7aeae1b4f176ff",
+    "size": 524288
+  },
+  "segapico_412f06fc": {
+    "id": "segapico_412f06fc",
+    "name": "Dance Pico - Hashitte Odotte Chou Happy! (Japan).md",
+    "cid": "Qmc6Rvn7qFvsG6kLJmJffU7Vz8EmUbd8edraWdaQyBNZjX",
+    "crc": "412f06fc",
+    "md5": "19633b006956281a39364d2b37e4401e",
+    "sha1": "e53362675c66762c3046bc03d03c22cf2c745c01",
+    "sha256": "a2fee79df800f18f2d70b1a95b56c1705be3fd8befa452e316950049b963e881",
+    "size": 2097152
+  },
+  "segapico_b69b31ba": {
+    "id": "segapico_b69b31ba",
+    "name": "Denji Sentai Megaranger (Japan).md",
+    "cid": "QmXmNaVZeD2a29LM8VXbZKhDJJHEn91HE3ZeBTkvyMLwAA",
+    "crc": "b69b31ba",
+    "md5": "9fca8984fabecc5e2295d9e3889c32a1",
+    "sha1": "f1fd7787e6bcbba207dbb8b0a43960fe8618c2e4",
+    "sha256": "ee2b989104b9e98d2f74e28e99c899b3bdae0ec127f0c728fec2718a04cbfe0a",
+    "size": 524288
+  },
+  "segapico_faee3efa": {
+    "id": "segapico_faee3efa",
+    "name": "Densha Daishuugou! (Japan).md",
+    "cid": "QmPNEsfyvBVrvETC5CddsbkbxAeP8prC6U5QTrfC2mUrcp",
+    "crc": "faee3efa",
+    "md5": "d72b5873f0b1ce62efcecbaad655332a",
+    "sha1": "3c4d76549cefb8ac8aa66f24ad347198b819ee1a",
+    "sha256": "414f169df2f5b17eb7676a8e4ff856aef70dda46ce1a5fe63ab809906c8d53b4",
+    "size": 524288
+  },
+  "segapico_0ec21b68": {
+    "id": "segapico_0ec21b68",
+    "name": "Dia en la Escuela con los Ositos Berenstain, Un (Spain).md",
+    "cid": "QmcvFLUkTyN27VDGyYQo1FnjhC1cakc8uZGFPFGvQUBxvA",
+    "crc": "0ec21b68",
+    "md5": "1734f11ed092feb50c4215343a5467a6",
+    "sha1": "06bb9053e3a9a6eb3e56475964ad4d745f92617f",
+    "sha256": "ff10b201c4985f61c02b55d5d58448cf7a0a27b6cd9ae94dc75f21b561b070e1",
+    "size": 1048576
+  },
+  "segapico_581361f7": {
+    "id": "segapico_581361f7",
+    "name": "Disney Princess - Ariel (Japan).md",
+    "cid": "QmR4RBirxa5EBiH8kXdsVvXnFrrkURYJor5wYNSBeMvnKc",
+    "crc": "581361f7",
+    "md5": "de8ea03fa42bfefad5eb692f27900341",
+    "sha1": "921ad22eee062dd053c24590cbf05a9c4d591882",
+    "sha256": "a36d2302d56d61333cba82b6705f24b0f952e962bcf5a6f38a0e2c50699e7092",
+    "size": 2097152
+  },
+  "segapico_5d8d1eda": {
+    "id": "segapico_5d8d1eda",
+    "name": "Disney Princess - Princess ni Naritai! (Japan) (Rev 1).md",
+    "cid": "Qmdar4HWkRZkwQCeWLznrsXgbRnTGdYHWZEbZxY2c7yg8i",
+    "crc": "5d8d1eda",
+    "md5": "efdcc7e4026494a44fd5b697bcde1f3c",
+    "sha1": "31d47cad551aa46d78565a17a78914dab3ab58ed",
+    "sha256": "26b5f056b17ce3d0f50a8acf527350a8a3a028b261695e7e601376c8a0395d05",
+    "size": 2097152
+  },
+  "segapico_761e7d3c": {
+    "id": "segapico_761e7d3c",
+    "name": "Disney Princess - Suteki ni Lesson! Hiragana-Katakana (Japan).md",
+    "cid": "QmYRsap5UGm41EJZs3yv4fXp4THuqMtsTA59V9e2qyWrCD",
+    "crc": "761e7d3c",
+    "md5": "bcd2677b40fffdb54d7b3e609a2bc074",
+    "sha1": "f7e35cb1084130b95ca5add40e263d15dc54b6a5",
+    "sha256": "494682e5f47ccb9fe5cb94e6646b7a3a5ea3d52d338268ba47bb7c35f5ca9d3b",
+    "size": 2097152
+  },
+  "segapico_7048409f": {
+    "id": "segapico_7048409f",
+    "name": "Do Re Mi Fa - Animals no Tanoshii Ensoukai (Japan).md",
+    "cid": "QmPUA4UYNM8NcDCxULiQTHWmSkj7oTytxKHotj4ZTdCiT7",
+    "crc": "7048409f",
+    "md5": "a50584e2f68477bfebb54f6104bbc627",
+    "sha1": "e79b11753822a14b6abe5654cdd768ec144e3ca9",
+    "sha256": "7fcb086b0db2c025f3768d700deb0430d7f0c5f73c94359b1e43f95c177e0bb2",
+    "size": 524288
+  },
+  "segapico_24aa1251": {
+    "id": "segapico_24aa1251",
+    "name": "Do Re Mi Fa Densetsu (Japan) (Copera).md",
+    "cid": "QmYvYm3csn45gwr9ngKp5CUFUi7PayNzmY4VqGbmWEgQbZ",
+    "crc": "24aa1251",
+    "md5": "4613aad140e70f206ba1fe70dd8bc44b",
+    "sha1": "1a7d5156aa3f2ffba168bce1bbd9436cb0c11510",
+    "sha256": "8b1c821b248092c0c9cd7851c4ba5a26689d00d7803fbdd17b1a37d88f085f9d",
+    "size": 1048576
+  },
+  "segapico_e3a5db51": {
+    "id": "segapico_e3a5db51",
+    "name": "Donald no Obake Taiji (Japan) (Hajimema Series 1).md",
+    "cid": "Qmdy1GeXmJU8H8HbWF8iaJcLLXpmhR3t3MDDEdBbcgJfa1",
+    "crc": "e3a5db51",
+    "md5": "bcf3fe467e6cc277c12e306f548de1aa",
+    "sha1": "568c7a64bec6e88f0b4d8366861f779c48d8f120",
+    "sha256": "7bca7b30560c13812d607882fbc13e90bc97d85175d64f82410ec2395ea2ee02",
+    "size": 524288
+  },
+  "segapico_d660d6fa": {
+    "id": "segapico_d660d6fa",
+    "name": "Donald no Obake Taiji (Japan).md",
+    "cid": "QmdAKpkdUFLzPe9qZhcZKqAwNP9E9KaG5qtWwJ7wEguDYh",
+    "crc": "d660d6fa",
+    "md5": "fe238a9d488efe6bde241367b737c9d5",
+    "sha1": "342916b5f08e90fae7ee9bd77a3ffd98286bf2f8",
+    "sha256": "d4544092caca44cb33aa1761d03692fccef14e757bc4d94e5d415c0afb9394b3",
+    "size": 524288
+  },
+  "segapico_c11a2b37": {
+    "id": "segapico_c11a2b37",
+    "name": "Donald no TV Show (Japan) (Rev 2).md",
+    "cid": "QmTzMbFqwLegZjm4Wmv7S8Fpv7ax1xFkAxHMHoFMybx6kX",
+    "crc": "c11a2b37",
+    "md5": "863dde676071d7bfa273eb21680b662d",
+    "sha1": "9d3d17c0ec4798730bba4670bef1723ed6a46b98",
+    "sha256": "a3ca1b651b6c90b9fb18c8a282ed44a70aa00a8ed320625b1fcc8a92579c9e64",
+    "size": 1048576
+  },
+  "segapico_45c2177a": {
+    "id": "segapico_45c2177a",
+    "name": "Donalds Gespensterjagd (Germany) (Proto).md",
+    "cid": "QmXY8w6cba9HTEnnUo8nmXjv1cZ23GxVbpRyvTLasraADx",
+    "crc": "45c2177a",
+    "md5": "9869ae7aff96491b0491636c891e3774",
+    "sha1": "2d8591fc2e1e90033faebc0c0670e981c695daf9",
+    "sha256": "be11ea4f8a64b55175b0d83967f4be77362b6a0fccd892aae41f1d8706173d24",
+    "size": 524288
+  },
+  "segapico_a83470ca": {
+    "id": "segapico_a83470ca",
+    "name": "Doraemon - Chiiku Asobi Dora-Land (Japan).md",
+    "cid": "QmPz9zxTgnWGAoM3mfWqjTHXQbfWRLCfezJ5nvPiKaruvY",
+    "crc": "a83470ca",
+    "md5": "4d0eb335a74758ecc0fc558db4e7032c",
+    "sha1": "e37f722d4c04cb965bbebd3da22b9f97f836c315",
+    "sha256": "22f21f468ce65a86183a0256ee7c9acd6b84e554940f94ac3da77ab3d1af2897",
+    "size": 2097152
+  },
+  "segapico_efd5d261": {
+    "id": "segapico_efd5d261",
+    "name": "Doraemon - Eigo de Asobou ABC (Japan).md",
+    "cid": "QmZqKF8CmcpfqMhkka3vxb17JQvf7FiRKdmJLrz2fDviKm",
+    "crc": "efd5d261",
+    "md5": "1cda4a05111701d231f0121e06443fe8",
+    "sha1": "5addf4ea6cd6c022286a7979f758478eec0331f0",
+    "sha256": "218ace97a2a2c0ac5f8c7384839563299cb552a3b1227bafe7e2f941e32a833e",
+    "size": 2097152
+  },
+  "segapico_7d9ebcee": {
+    "id": "segapico_7d9ebcee",
+    "name": "Doraemon - Ensoku, Imohori, Undoukai (Japan).md",
+    "cid": "QmTHLcx99TKj5jvVG3nBJ1tiXbuD7AwGw5zNZh6FBUyWSD",
+    "crc": "7d9ebcee",
+    "md5": "86f0d2bfd7d76511278b30c88417fa41",
+    "sha1": "cf626fe6f25435e42ce0c4cdfc8a4d335f64fe76",
+    "sha256": "e2cc5f7ed3e64ecfeadc18e67dd47e825500e0a70047432e50134ce4bace50c9",
+    "size": 1048576
+  },
+  "segapico_c603fb1b": {
+    "id": "segapico_c603fb1b",
+    "name": "Doraemon - Kazoete, Kantan Kazu Tokei (Japan).md",
+    "cid": "QmPnd1s66qbV8wwfNiosNPahFsyAv8dzVuFGnxQcbrBSD1",
+    "crc": "c603fb1b",
+    "md5": "293ebf8db1370d676fccd45c48b34990",
+    "sha1": "44ab8ac936683446a9b2a438ab22e878521ec32c",
+    "sha256": "e01702bf8fc983ab5bdec656237ea9acd568dd04e8a0cc81cd74894d953784c4",
+    "size": 2097152
+  },
+  "segapico_314f6cb4": {
+    "id": "segapico_314f6cb4",
+    "name": "Doraemon - Nobita no Machinaka Dokidoki Tanken! (Japan).md",
+    "cid": "QmXP8wE7xBAULHpMtmNRpfPWFmy8ce1jtreBMPwmH2iHie",
+    "crc": "314f6cb4",
+    "md5": "5aace15fe8cf5baf99772b0c182442a1",
+    "sha1": "69d3c5754ccbcde0737455bf7bf0eee4ec610972",
+    "sha256": "71db78418b2fcf138a4709696026b1f2d3165e2da7cd8a6853e0362497715f12",
+    "size": 524288
+  },
+  "segapico_190dadbe": {
+    "id": "segapico_190dadbe",
+    "name": "Doraemon - Nobita to Maigo no Kyouryuu (Japan) (Rev 2).md",
+    "cid": "QmW3Ck8rvPbVSxJ3dEEGUkyAZDf2i7L9diJ2tLqvnE9BDo",
+    "crc": "190dadbe",
+    "md5": "67c12e20045c0088aa63b2592dc89ade",
+    "sha1": "4ba7a3b30033f1c5b5adfd3ec7a1500ac912790d",
+    "sha256": "470181d072e01afc96aff8a0672ce972eab1ce0b691655b354778174f337a4de",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_7010775a": {
+    "id": "segapico_7010775a",
+    "name": "Doraemon - Time Machine de Daibouken (Japan).md",
+    "cid": "QmTmCjvwqf3bUsgEETLU1eKfDwtnNMqGioqTwqaPcygPTH",
+    "crc": "7010775a",
+    "md5": "fcc3a3f7b8fbd8e3d53d6aafcb69a21b",
+    "sha1": "acfa501eddbad82dffbc75a988c7413b97b952c2",
+    "sha256": "585e0516f0f15cea53f2ea46581a495f16a26df9195b82a5cdf763b915f80e13",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_67eae2d0": {
+    "id": "segapico_67eae2d0",
+    "name": "Doraemon - Yometa yo, Kaketa yo Hiragana Katakana (Japan).md",
+    "cid": "QmYLSo2C8KPaSZTgG5EhsuTD4jtXKQVKqR7HMWoUtCiQ5R",
+    "crc": "67eae2d0",
+    "md5": "74178c932883a011a6cd0787c47d7cb6",
+    "sha1": "7c1d2f216ebcb28261e3a28e119266318b834ff1",
+    "sha256": "601bc73a19d981b610c2a6779d13ddba98f3f484d2a8827c7042c6150cc67cff",
+    "size": 2097152
+  },
+  "segapico_c68c35c0": {
+    "id": "segapico_c68c35c0",
+    "name": "Doraemon - Youchien wa Tanoshii na (Japan).md",
+    "cid": "QmUontuDUaqqHipZi1nRJafCXYW2eHFRqxQ6qvSpELCxk7",
+    "crc": "c68c35c0",
+    "md5": "54ea60b4ff81eb16adac0f0efd8cc279",
+    "sha1": "df2a97a73cff3c097d16a18cd673177d6824c7ab",
+    "sha256": "10afc01a7598683373d4f3ee17a976b1eb7904bd7e74ceafebb6527060405470",
+    "size": 1048576,
+    "status": "verified"
+  },
+  "segapico_cdc2855a": {
+    "id": "segapico_cdc2855a",
+    "name": "Doraemon Machinaka (Taiwan).md",
+    "cid": "QmPFWPsgoGzitk2aA7shcP6s6RvX1WXyj3ZkQkotCSkHMi",
+    "crc": "cdc2855a",
+    "md5": "ed7543cd150054756ddcfe9d8d576b1f",
+    "sha1": "c9f8da3b87491543f9b9784136dbd433b2970978",
+    "sha256": "fecf7d6f8464d0b5bf995566c247997643baecdfda5dec78504548d153e9a8b2",
+    "size": 524288
+  },
+  "segapico_17d36259": {
+    "id": "segapico_17d36259",
+    "name": "Doraemon no Utatte Pico - Issho ni Utaou! Doraemon! Waku Waku Karaoke (Japan).md",
+    "cid": "QmTznAhwo3K4F2FtafU9D5t1fCo3tePumysNkRYrs62tHY",
+    "crc": "17d36259",
+    "md5": "09daba3865f06f738d63b91aa16be489",
+    "sha1": "69f191db6bccb53c81561a5d3c3e47d7fcc45da9",
+    "sha256": "b9ed19c107294c9011c9f7205effd2b1412845a9efeb2eda7a69aebdcab1f02f",
+    "size": 2097152
+  },
+  "segapico_9c4af8d8": {
+    "id": "segapico_9c4af8d8",
+    "name": "Dorehmipa Dongmooleumakhwoe (Korea).md",
+    "cid": "QmPhp4LV3g7FXbXb9R3MExpsqwppK8UgRksRLbZFpBEFWx",
+    "crc": "9c4af8d8",
+    "md5": "f5ba3851bc40b68d42ad0811b2f00d32",
+    "sha1": "73ea5de987b3bc7c66c2e7f53a930eb2d36dc1f4",
+    "sha256": "f0160736488c12dbff20e645149fc0d223ed9a10ca62495b7da24941677d7092",
+    "size": 524288
+  },
+  "segapico_8ff36cde": {
+    "id": "segapico_8ff36cde",
+    "name": "Doubutsu Pico - Hamster Land (Japan).md",
+    "cid": "QmStAJT8eyeaqSDNmZJtCoH3PSN7MZ1BQznhuigQqjFiJT",
+    "crc": "8ff36cde",
+    "md5": "2a34b173dae75aad415208ad9da04c40",
+    "sha1": "07ceac76997cb9442be45ffb8e23c226f699359b",
+    "sha256": "f295ec77e5b24ecf73eb0b05dc8152b11ccdb2743a59897631da64abb01c8f98",
+    "size": 1048576
+  },
+  "segapico_e29f2af2": {
+    "id": "segapico_e29f2af2",
+    "name": "Drive Pico - Go Go! Car Navi Touring! (Japan).md",
+    "cid": "QmNVETksrBbVGHW1Ls7nn58upBmwZUN5gDfpfRiWRczfzK",
+    "crc": "e29f2af2",
+    "md5": "91a1f8a9e3f29a74533c8451b4070b89",
+    "sha1": "8149b48140515b12d466181a45819b043caaf0ca",
+    "sha256": "1c23929238d7c1745f44c3c149a171d07730315e26b3310b853e57a4fbba47c4",
+    "size": 2097152
+  },
+  "segapico_2650e0c1": {
+    "id": "segapico_2650e0c1",
+    "name": "ECC Junior no Hajimete Eigo Vol. 1 - Patty-chan Family (Japan) (Rev 1).md",
+    "cid": "QmXg7avToonhrUvWYVxn1sTwk9to7Kvk5zHbpAfVJ3LfTc",
+    "crc": "2650e0c1",
+    "md5": "6ddad3be86d31663809d46348c8a62c6",
+    "sha1": "2e69a43afe121ad394667fb784bc7203d9df2a12",
+    "sha256": "1079948909f68bb833c9218af0cea266705f0fe38f193cfed43e6a9bd7827a78",
+    "size": 4194304
+  },
+  "segapico_c867237a": {
+    "id": "segapico_c867237a",
+    "name": "ECC Junior no Hajimete Eigo Vol. 2 - Patty-chan no Picnic (Japan).md",
+    "cid": "QmeSMDZtxvnfRn9wsq5ht1HFDWXbkitM4mEMomrF7p5f1N",
+    "crc": "c867237a",
+    "md5": "731b72bf4aec104e090dd8691cbfaa22",
+    "sha1": "f69cc420cc178d1efd9c76c853a9aa8d8cc24091",
+    "sha256": "ef3baf371611a648461f7079f6afea4e3cb525d901b260e9875a6581c35c2738",
+    "size": 4194304
+  },
+  "segapico_a7faf67c": {
+    "id": "segapico_a7faf67c",
+    "name": "ECC Junior no Hajimete Eigo Vol. 3 - Patty-chan no Otanjoubi (Japan).md",
+    "cid": "QmRKTGWL5VryYHKpGAALrpGbQXBn9y7Y5ZQSJ6uQpunyFn",
+    "crc": "a7faf67c",
+    "md5": "e4a2686d2b5f5a0afd159f16b72b4e76",
+    "sha1": "25527816ebea51395b1abf011e3784eb24662d78",
+    "sha256": "439cb7d3ceda11d61690656ac8181e8d7d8b6a1a4081e0abd1214c29ba56674b",
+    "size": 4194304
+  },
+  "segapico_d412c517": {
+    "id": "segapico_d412c517",
+    "name": "ECC Junior no Hajimete Eigo Vol. 4 - Doubutsu Daisuki, Patty-chan (Japan).md",
+    "cid": "QmWFaqPdypSDPWpMPTsYSkkG1mmmoaKZfBUuX7Ka3uoLgC",
+    "crc": "d412c517",
+    "md5": "7b38c0a394d9e01d8ccecfb3ada434a4",
+    "sha1": "9cd14906040c3c5f5e4232bbd91daba5bfe2670a",
+    "sha256": "33a239872d34f6d3bee6bb171f3c8a69b31fb94710a3abf23c45c851a3efc908",
+    "size": 4194304
+  },
+  "segapico_7aed02a7": {
+    "id": "segapico_7aed02a7",
+    "name": "ECC Junior no Hajimete Eigo Vol. 5 - Merry Christmas, Patty-chan (Japan).md",
+    "cid": "QmUAtdqk2JQvHLA7C8FZY8QbvXZjm6SkaMR2LWrACpjhsL",
+    "crc": "7aed02a7",
+    "md5": "39a0530811a558a876696c5d2d510016",
+    "sha1": "9a4f2b0a0c0c8ae0bbb5977c6743e18bc65c39e0",
+    "sha256": "57007ff3204236afdfaf530c690b671be4c1277c73eb5a39fc0d510149714b15",
+    "size": 4194304
+  },
+  "segapico_8f3335a8": {
+    "id": "segapico_8f3335a8",
+    "name": "ECC Junior no Hajimete Eigo Vol. 6 - Patty-chan Yuuenchi ni Iku (Japan).md",
+    "cid": "QmYFThzko1s8iewjnHqH2cmDKg5ccSxfm4bQ8UGygFoG4D",
+    "crc": "8f3335a8",
+    "md5": "3aa4da64b9026bbda7e592067cb6290f",
+    "sha1": "7a9910d88c25197ae31f70b80f9a336dd133cba7",
+    "sha256": "5784fa22aa4102f6266f3851a2b4dae039608441685e0bd22266f466a195125e",
+    "size": 4194304
+  },
+  "segapico_557670cf": {
+    "id": "segapico_557670cf",
+    "name": "Ecco Jr. - No fundo do mar! (Brazil).md",
+    "cid": "QmbXZBNsry4Bu3mGr2fUxk2B3HGs8vdV77kCqQCF753QVX",
+    "crc": "557670cf",
+    "md5": "293ee04e1702b61afb5c0af9d67bee75",
+    "sha1": "fc8936611b4fb868838fd1ad60fba4944e4f8822",
+    "sha256": "7ed29e9c499878be7b8fe866782165bbb889e423235f8d398e04740e649acb4c",
+    "size": 524288
+  },
+  "segapico_c8862213": {
+    "id": "segapico_c8862213",
+    "name": "Ecco Jr. and the Great Ocean Treasure Hunt! (USA).md",
+    "cid": "QmRgyDe6MJVSAC3w3uH2CVZpahui7MWLiCaZtsBZrrFSKt",
+    "crc": "c8862213",
+    "md5": "e6cb49d4333edd2715779c89b04ccc95",
+    "sha1": "0eaa54e3e67469efbdb3737c8dee3b1f11fd04ed",
+    "sha256": "02e0cae06b24c45c831a670948501deccf7e48a9fb544e8db09701d1e72ff5da",
+    "size": 524288
+  },
+  "segapico_03ca1014": {
+    "id": "segapico_03ca1014",
+    "name": "Ecco Jr. e la Grande Caccia al Tesoro nell'Oceano! (Italy).md",
+    "cid": "QmRHJGE7qunNXCAKHr2ENFJ6TiLXW1M9jkpEVi7hyCaiM7",
+    "crc": "03ca1014",
+    "md5": "7452382b8c6bad64dc13b3aad5553d20",
+    "sha1": "64e5d8f749e9e6c839b3655c9e8cf38e699c058d",
+    "sha256": "fdcfb63ec73da0a7388088175a70e649969519623be4b0d8207073eaab469cdf",
+    "size": 524288
+  },
+  "segapico_1b7b3825": {
+    "id": "segapico_1b7b3825",
+    "name": "Ecco Jr. et la Chasse au Tresor Sous-Marine! (France).md",
+    "cid": "QmYBoP2gy5bdEKUtbKf9ZEUFTXGsAB8fMcQXMPwyLVUMgQ",
+    "crc": "1b7b3825",
+    "md5": "1c4163aef7aec0d2289aa996e97ce0f2",
+    "sha1": "64706b5f1240941a4989db96dab432aed6009e0a",
+    "sha256": "e885ca069ef3b6e5b2a968f6d1f1c5e7cff50bd7f8eca8c64725abfe095cf613",
+    "size": 524288
+  },
+  "segapico_470af94e": {
+    "id": "segapico_470af94e",
+    "name": "Ecco Jr. und die Grosse Schatzsuche im Ozean! (Germany).md",
+    "cid": "Qmc7YzFcNa9Pq58ojfkEWxjR26PVMehhpSkuK2sDkiHvLf",
+    "crc": "470af94e",
+    "md5": "1642ebacc49c792ab9a469bd56b9508f",
+    "sha1": "f57b18e13d44eb1a1dc85701757e5cdafcf43faa",
+    "sha256": "01d854c97a442ff361faf0d62679f18d45519125f0dc35322978ea3d8e5deb12",
+    "size": 524288
+  },
+  "segapico_f11b9f3f": {
+    "id": "segapico_f11b9f3f",
+    "name": "Ecco Jr. y la Gran Busqueda del Tesoro en el Oceano! (Spain).md",
+    "cid": "QmZmsFutGVEADSbQUrCWY5xsuAcavFNwgwc548Afmr9wLb",
+    "crc": "f11b9f3f",
+    "md5": "56977b55a1183165a5cd4e4f2c1320ad",
+    "sha1": "7b518e8c6b97cc68958084b65cbe3a74f34df914",
+    "sha256": "d16d277d24c15edd04a0ef7a13276da2db9eee9866cacebacc26fa1ec9884656",
+    "size": 524288
+  },
+  "segapico_989f59cc": {
+    "id": "segapico_989f59cc",
+    "name": "Ehko Junieoeui Shinbiroun Badayeohaeng (Korea).md",
+    "cid": "QmRmgwAuemNkAB4YEkG98q5zyN6P25yxsZUwYcww1MEYQx",
+    "crc": "989f59cc",
+    "md5": "6c7b5b3f2f45af736cf554f9cf9e707b",
+    "sha1": "83572706b7fc6a5fbece845f51425179442b184a",
+    "sha256": "f030f2a507d391efec7dfb9df08a12438932cbc7860e4b6a2f61a26643df2115",
+    "size": 524288
+  },
+  "segapico_eaf2b204": {
+    "id": "segapico_eaf2b204",
+    "name": "Exciting! Hataraku Norimono-tachi (Japan).md",
+    "cid": "QmbLdg97N1iAq6dftYwtHrnpJCmQqYQumHmbyuR7r5FR97",
+    "crc": "eaf2b204",
+    "md5": "9d7fde07895cb58b8e945f4a672d5a2e",
+    "sha1": "3d572469af1e38b748452894a55566ac23892523",
+    "sha256": "375641ff40066d567febe039ae03c8c4f24d23b8acf90d520e3ff56c17ed56ff",
+    "size": 1048576
+  },
+  "segapico_5bc3be15": {
+    "id": "segapico_5bc3be15",
+    "name": "Fishing Pico - Donald no Adventure Fishing (Japan).md",
+    "cid": "QmU2dACWaGU38cYytsxebN7iqjPpTJECHkk1HnyEfohrzQ",
+    "crc": "5bc3be15",
+    "md5": "c48e4fe3eb951cf2c6047b665bcec776",
+    "sha1": "2bbdce0aabf19ce1bde30efd39de83b1ad4b9970",
+    "sha256": "5c5a9b0f1f6608f04765e3156530c9f7e6d805a1d7363d83d8eb07388280ec7c",
+    "size": 2097152
+  },
+  "segapico_9b99dc02": {
+    "id": "segapico_9b99dc02",
+    "name": "Futari wa Pretty Cure (Japan).md",
+    "cid": "QmdEn73ebHccWUz2WowRGxjkZerukDEpKrvGerN4TGnkxQ",
+    "crc": "9b99dc02",
+    "md5": "9296ba4a76961832a305d43722130917",
+    "sha1": "a57f509065126118abf065edf2c4189631aeeb73",
+    "sha256": "5cf15f544d93424215f2bb8b0ffc042daf03a97fcbccf02b6be057e37e8fee5a",
+    "size": 2097152
+  },
+  "segapico_33a61b64": {
+    "id": "segapico_33a61b64",
+    "name": "Gabutcho Tsuri Gakkou - Yatta ne! Boku wa Tsuri Meijn (Japan).md",
+    "cid": "QmUZNkUzGJngzv3DfMAzXs6nqJf83oPJzBtDATpMGPh91G",
+    "crc": "33a61b64",
+    "md5": "69b6fd487055287bae0b9d2c813bd43f",
+    "sha1": "9f0a87a6baf060323b1f7b08fa905ce76cf5c1c9",
+    "sha256": "4079ac430c1fb720ea198190f5579835a85095de1f321cf4665177ed8d4e589a",
+    "size": 1048576
+  },
+  "segapico_e1f3f407": {
+    "id": "segapico_e1f3f407",
+    "name": "Gakken Hajimete no Moji, Kotoba (Japan).md",
+    "cid": "QmNYKpLXp74sMmHDPW7gD4q9T8Cj6h1PCcM25iBgNw3Gm4",
+    "crc": "e1f3f407",
+    "md5": "59f994b0103141218c80f7355b76cebd",
+    "sha1": "948685170cb41200e255d10db23e73d33f92b92a",
+    "sha256": "34affd5ef7630ae6467c4d5b9ecd33351635ea3090124ea8e5b592d1bba4495d",
+    "size": 2097152
+  },
+  "segapico_1259f360": {
+    "id": "segapico_1259f360",
+    "name": "Gakken no o-Benkyou Soft - Eigo ABC (Japan).md",
+    "cid": "QmPk8oo461hh7vX68aRLL5Cnx5H76bondt5wpbo3sCpnHH",
+    "crc": "1259f360",
+    "md5": "e52dc6345de3d678f39cd42b204204c0",
+    "sha1": "82ffe0b0b6b0131f06e4f4cb6b535ee45559f0f4",
+    "sha256": "309a60cf7fae20fd1b1790e456a880f8a430e8aba0a6c7d28808849cff54ce4b",
+    "size": 1048576
+  },
+  "segapico_1eb0ba1c": {
+    "id": "segapico_1eb0ba1c",
+    "name": "Gakken no o-Benkyou Soft - Hiragana (Japan) (Rev 1).md",
+    "cid": "QmVuPUFpfbuMdkGHGtMm2M2RgggrChe4LY1Yj2EPWntznH",
+    "crc": "1eb0ba1c",
+    "md5": "6b05007c96cbf2d9a6415f4a35c170b7",
+    "sha1": "8ab5239a99ce2c97cfe0c4ec786538c8a153a71d",
+    "sha256": "16322cb1cfc5c8ac5da50ae79cd50dd1ce40252e7a9d86320d5b8f1d2d2dd45a",
+    "size": 1048576
+  },
+  "segapico_6470b56e": {
+    "id": "segapico_6470b56e",
+    "name": "Gakken no o-Benkyou Soft - Kakezan Kuku (Japan).md",
+    "cid": "QmZXqbuqDu5GJXA2pRqx4xeYRPxdyMKHjpZkYhRMnw5MVk",
+    "crc": "6470b56e",
+    "md5": "a696e56e562e4af4571d061d06c6266f",
+    "sha1": "6f5af8dfcdcea5f79a451e611e23b3e88432ef81",
+    "sha256": "131d6946d76694b4d501029297369b0be4c763c3478c9f547b7e235b55e62827",
+    "size": 1048576
+  },
+  "segapico_68aacb63": {
+    "id": "segapico_68aacb63",
+    "name": "Gakken no o-Benkyou Soft - Kanji (Japan).md",
+    "cid": "QmbrsnX1UCqSkWbGe9az2ZW1urff3fAtx5pCeoAUjKywPR",
+    "crc": "68aacb63",
+    "md5": "c66c2ff389b38e900a9b48fe1f62286b",
+    "sha1": "40ae0e0b6f644511e8864acd1d1965de8151c7a6",
+    "sha256": "e7dcaa43bbac29d19af71bbe0ab473199faf669e92f0866e2fb07a1a956f35c5",
+    "size": 524288
+  },
+  "segapico_1c828987": {
+    "id": "segapico_1c828987",
+    "name": "Gakken no o-Benkyou Soft - Kazu, Suuji (Japan).md",
+    "cid": "QmarsgQopRBKQgc1b8FqK8k5cPyj9wAZXWqR15bst8kN3w",
+    "crc": "1c828987",
+    "md5": "52cf14358fb584884a45cc6581a1cf57",
+    "sha1": "c12f22a7d2a99c01cd0fb70154eee07b41420d30",
+    "sha256": "9d737d875ecc4b0d3951ca066ae572a0019e0496122e4f520a29f330545b43ae",
+    "size": 1048576
+  },
+  "segapico_25639a73": {
+    "id": "segapico_25639a73",
+    "name": "Gakken no o-Benkyou Soft - Tashizan Hikizan (Japan).md",
+    "cid": "QmdgzbaRNksdms4faLUVUrTzdEx9P52XvfBjX5dMt9FRwU",
+    "crc": "25639a73",
+    "md5": "a8a6e60096955d31b8badc2e4526ce1b",
+    "sha1": "d0a768236e21d05ea1734691ab9031ea7a4b3e47",
+    "sha256": "ad9173b9da9a8d4f61254650bc4f4395ed7b72e537cb8a2ca9b37737f92b38e2",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_242172ff": {
+    "id": "segapico_242172ff",
+    "name": "Gakken Pico de Gakushuu 1-nensei (Japan).md",
+    "cid": "QmPesW9xSh3QB11N79F6gSyKi6oykNmKzjRTAdUteqhNAv",
+    "crc": "242172ff",
+    "md5": "a2c298851689e1980db5772a9104080c",
+    "sha1": "bd3695ea269ebb584129d59d18ff14cb46246003",
+    "sha256": "f34788d48d66d13fb7e4ccae0825b28e1026f4c37ffa328353bf27d19efa35d3",
+    "size": 2097152
+  },
+  "segapico_26029ad3": {
+    "id": "segapico_26029ad3",
+    "name": "Gakken Pico de Kagaku 1 - Hakken Mushi no Himitsu (Japan).md",
+    "cid": "QmYzo1bqBoo9CAS7QzTA6nD6w5yGankXWAfUHpYSBR1gGM",
+    "crc": "26029ad3",
+    "md5": "2370482c72821fd63c20a79f96f934f6",
+    "sha1": "6c01cf26acc58307ac2f0f74a6c64a96318db3bb",
+    "sha256": "27f4ad35df4f5b23cd8eded8679f24754fc1aa377178502114fdfee2338d4e9e",
+    "size": 2097152
+  },
+  "segapico_bbae26f2": {
+    "id": "segapico_bbae26f2",
+    "name": "Ganbare! Bokura no Compati Heroes (Japan).md",
+    "cid": "QmSSUf6qaxmPAs2AZRVG1JmdTEwuNtZbfybbHucAdFHEsn",
+    "crc": "bbae26f2",
+    "md5": "033f7ae900e35b9bec00563cdb772d06",
+    "sha1": "eb28ad4558efd2b20e5b26ba0ccd81781a275fe0",
+    "sha256": "050f3a0e829c8b6d59d5e41dbad383d9dff2b9ac72cc012e3540b1f800616ad5",
+    "size": 524288
+  },
+  "segapico_f1e31a7b": {
+    "id": "segapico_f1e31a7b",
+    "name": "Gegege no Kitarou (Japan).md",
+    "cid": "QmT1Xq5tKq8V7tMJ82WuzsWpFxDsLdKzM2xHmrzmgPLufP",
+    "crc": "f1e31a7b",
+    "md5": "2bb40bb2e3ab70a55d2b4e4bc1337c85",
+    "sha1": "8f4636e2181132715e068a4251064cf120e91d66",
+    "sha256": "7cf9f59d5294fe606e6b8bde1313b27b7754d34a27024feb763e878d94f9e0b7",
+    "size": 524288
+  },
+  "segapico_8ed536bc": {
+    "id": "segapico_8ed536bc",
+    "name": "Gekisou Sentai Carranger (Japan).md",
+    "cid": "QmcQ5EaniTQktPd1iMbR3DtdqDFHp4KKrPxwfWkGUsMGpU",
+    "crc": "8ed536bc",
+    "md5": "252335e0334fb1467323c848240082fa",
+    "sha1": "b4f276d4ecc300b38b73bf1d7030f6820786fe55",
+    "sha256": "df6f245a40074745f7ccfd3bff65ef59d37d75448cfa0ae85ec0e6cfc63128a2",
+    "size": 524288
+  },
+  "segapico_7fb65731": {
+    "id": "segapico_7fb65731",
+    "name": "Geuljanara Yeohaeng! (Korea).md",
+    "cid": "QmTuieqCL3HkH5pfPx5K7KhjxpVbQA5LnsuoC3SDciJwHR",
+    "crc": "7fb65731",
+    "md5": "d27211bc21f3b7038a3c41567e174823",
+    "sha1": "d31699afc125338eacbbbf8a0e45ce786888e2a8",
+    "sha256": "7bfbdcc928d72d72efd02a220ee0332a19a5bf5549efd25e4d9ccd0fd00d2e61",
+    "size": 1048576
+  },
+  "segapico_b27663e5": {
+    "id": "segapico_b27663e5",
+    "name": "Geumdokki Eundokki (Korea).md",
+    "cid": "QmeVAy5SKePdx2qpnYxHUWabnpuEQ8MPyxDyCWX2GB1isT",
+    "crc": "b27663e5",
+    "md5": "d75c7c64d438d54ecbb1acdc08f036f8",
+    "sha1": "9343306c6f021274e1fb67cfebf1b4b19587724e",
+    "sha256": "2907e57770fdfc848cff1b4086472ca6588dd9f793df0b21465cc37187ddb852",
+    "size": 1048576
+  },
+  "segapico_61b889a2": {
+    "id": "segapico_61b889a2",
+    "name": "Giorno di Scuola degli Orsi Berenstain, Un (Italy).md",
+    "cid": "QmXzdFKfDnYERaA638LU6wZS6WDRi7zceBgHtjoLKru1ZP",
+    "crc": "61b889a2",
+    "md5": "ee89111ff9a585b277135270a49dff19",
+    "sha1": "64b537616207b3e98dfb700f98b63e61284ced13",
+    "sha256": "ccbb2ee69e95674ec6ae03fc4a79602adab40a87174524fd6f32480e2178866f",
+    "size": 1048576
+  },
+  "segapico_b8d9a5cc": {
+    "id": "segapico_b8d9a5cc",
+    "name": "Go! Go! Connie-chan! Doki Doki World! (Japan).md",
+    "cid": "Qmdy2hHVVegxFi5eodgdn2PyF56qSnhDKbXcoymkqrAmVi",
+    "crc": "b8d9a5cc",
+    "md5": "4b8d9de570ecfd61e06ec2d6ed2fe902",
+    "sha1": "0727fe4c7050e9ef3baa74bf153258c435232ac6",
+    "sha256": "9c7938774b42121247223cc3ee0bd84b6448bf470e85e0ad104a0d3a16c97bd1",
+    "size": 524288
+  },
+  "segapico_fd8a2715": {
+    "id": "segapico_fd8a2715",
+    "name": "Gojira - Doki Doki Kaijuu-tou!! (Japan).md",
+    "cid": "QmQtVJA9izof3gcwkZz5ixxxHwx5PMPdACnitMFE7E2CT4",
+    "crc": "fd8a2715",
+    "md5": "8c22078dc3cccd09b47267feafe10ba4",
+    "sha1": "47c8357c16d76dd067063c4fe61e579c8bc0e13c",
+    "sha256": "42a6c908277d485e4db10f7a7efda509173ef3dd6535dd0a3344770636d51ad3",
+    "size": 1048576
+  },
+  "segapico_d0641699": {
+    "id": "segapico_d0641699",
+    "name": "Gomdori Puooeui Sagyejeol (Korea).md",
+    "cid": "QmSYAgLkTTqvdMrqsYoJmihv9UZ5Dp7n4tcnfMirxsMyZb",
+    "crc": "d0641699",
+    "md5": "04bc4ae462d5f5eaed7e180c861d1dc9",
+    "sha1": "66a746cdc3ca9afd6a0251daf97e608130deeb44",
+    "sha256": "68395767eb42f49343145a7bfb1f08f7821adaf9a1cee794582d8c20cbd562cc",
+    "size": 524288
+  },
+  "segapico_06dc8145": {
+    "id": "segapico_06dc8145",
+    "name": "Great Counting Caper with 3 Blind Mice, The (USA).md",
+    "cid": "QmNQkywLpiz1inYhQNNcPmpTPiZkUXHCbUmwfYY4KJThEz",
+    "crc": "06dc8145",
+    "md5": "176e15c6b26814e625ca7b1db7ca0c07",
+    "sha1": "76a27504a36f7d4b68892e56f7586a26326d0878",
+    "sha256": "9e825567cc6842ef5accb0003fd150b5b04ac98e651a5c057529ea5a327d2f22",
+    "size": 1048576
+  },
+  "segapico_70b7440e": {
+    "id": "segapico_70b7440e",
+    "name": "Gureumeun Yosuljaengi (Korea).md",
+    "cid": "Qmc7smBYjfX4WLCjG4c2ecoS3FLqfogvsShfoyVchqj2BX",
+    "crc": "70b7440e",
+    "md5": "f470d15bd3a3903e398933b36b12f898",
+    "sha1": "d6f7b9c9e5714afebfdb116480f73976eae23d17",
+    "sha256": "98b67a0d8e84dffbb3e19b1f43462dd8018fdf55511c582f44e6dc4a1258f02b",
+    "size": 1048576
+  },
+  "segapico_48ff9900": {
+    "id": "segapico_48ff9900",
+    "name": "Hataraku Kuruma - Diapet Daishuugou! (Japan).md",
+    "cid": "QmPCghkypD1ssqWNDtrQWbEM7brLUh6NpbkaZYgXtHcPMV",
+    "crc": "48ff9900",
+    "md5": "572a5d0f2ea0e24d7131b1d127da0136",
+    "sha1": "7bc48b393c815d7a596d8d8a422ed1e99172679e",
+    "sha256": "3b5021dd7c7681f9cd9bf65c85682b3714fb7282a2aca7009523780446b6c091",
+    "size": 524288
+  },
+  "segapico_8ba23bbe": {
+    "id": "segapico_8ba23bbe",
+    "name": "Heisei Kyouiku Iinkai Jr. Mezase Yuutousei (Japan).md",
+    "cid": "QmURbdbHi6oRj2SwmPtZq3zdf1pzNdHQdXFBycHg2k7CjV",
+    "crc": "8ba23bbe",
+    "md5": "c1976d4b6a8f06a9e070d91475d68e59",
+    "sha1": "85e6ed98f5e7bfa04c1b099bba79ddd34ccdd40e",
+    "sha256": "202f7f8a2de2db95fea13502396cf9e507cfe8cf9c9a1b490c33ba9d92edf1f3",
+    "size": 524288
+  },
+  "segapico_3656af85": {
+    "id": "segapico_3656af85",
+    "name": "Heisei Tensai Bakabon - Minna de Family Resturant ni Iku no da! (Japan).md",
+    "cid": "QmS1Ki1uYAB7H7VaSRGExdhNi183wY7FtcRM9UK9Sf68D4",
+    "crc": "3656af85",
+    "md5": "901c10d53bc5a3880f19dd5597b7fc98",
+    "sha1": "708cd58d6182a4f2448be3d2db97943c063a04f9",
+    "sha256": "430c2e9368f2372dfd262df0b997c85af9bf965c0c68bce189722ddade2db5bf",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_788de189": {
+    "id": "segapico_788de189",
+    "name": "Hello Kitty no Castelo (Brazil).md",
+    "cid": "QmQ4MXNo19hRG7kFU13FZCLYT3ayuT3d4Z615bU3bm9b9q",
+    "crc": "788de189",
+    "md5": "f46ed729b5908480177d80c8e461e599",
+    "sha1": "c58a8b64d6372e85199b03c379aae2cfb0308a62",
+    "sha256": "e1a8202b64fdb47ae830e73a383cbcaf27d4e3a66cc02a7aee18ff29612cabbb",
+    "size": 524288
+  },
+  "segapico_45ded176": {
+    "id": "segapico_45ded176",
+    "name": "Hello Kitty no Suteki na Otanjoubi (Japan).md",
+    "cid": "QmZsi653vGMyE1g64fZ5VXGiomiZmGNkaphi8SQALB182S",
+    "crc": "45ded176",
+    "md5": "5ac3ad77ad766135854ab79756cf9be1",
+    "sha1": "a451d2674a3d7aa88b8a0befb96f48b55ff77bc1",
+    "sha256": "314545d0cad39ab1595bebf457fe4aa2fecd220ccfcc82f0324660a59a8fb8f4",
+    "size": 1048576
+  },
+  "segapico_18256466": {
+    "id": "segapico_18256466",
+    "name": "Hello Kitty no Tanoshii Butoukai (Japan).md",
+    "cid": "QmUQgqmiFoDMtTyQdry4Wp4QENMGivYfHLqaoGRf2CX5yZ",
+    "crc": "18256466",
+    "md5": "6dc0250ebe206184fcb2b9d8eba6aab1",
+    "sha1": "1dffea9f1087cdf4c92c1091f9033bd97f2e28e3",
+    "sha256": "24155bf9ce80da11dfb037ac752b5bff022cf944ff31826c22cc827c0437e43a",
+    "size": 524288
+  },
+  "segapico_d56d174d": {
+    "id": "segapico_d56d174d",
+    "name": "Hello Kitty no Tanoshii Omiseyasan (Japan).md",
+    "cid": "QmWcbWAgdQ7CC6M1kD4Sq2JJq3P7KwjrYZcRapE4TjeSNV",
+    "crc": "d56d174d",
+    "md5": "016218df8939a12dc6e840491dee2b51",
+    "sha1": "b563b40f5b8975c01cbf468e6398930fd1830643",
+    "sha256": "00000484d9bebc59ca0cdbc0b91274d7681cdf5cd3dda65a17092588a38ec42d",
+    "size": 2097152
+  },
+  "segapico_829a4ec5": {
+    "id": "segapico_829a4ec5",
+    "name": "Hello Kitty to McDonald's de Asobo! (Japan).md",
+    "cid": "QmUDtPcbvCr5SnyHqFzwtqNR2jWPGucwtM4A2R73uXeVNW",
+    "crc": "829a4ec5",
+    "md5": "7591a7265f42f450b4a8e9f65342b45c",
+    "sha1": "22b8a709f88cd9a7d22c5538fd39d253af3f98c1",
+    "sha256": "d33fb99e8106008a0d1f2f1b7183fc45bdf8970a01317be9db60a67e83da25cb",
+    "size": 2097152
+  },
+  "segapico_c7eb7f24": {
+    "id": "segapico_c7eb7f24",
+    "name": "Heokulwa Rollineun Babbayo (Korea).md",
+    "cid": "QmYqm76oeKgWj4AdrtwhVPFSnNReURbjcbSd93TQKm8HQa",
+    "crc": "c7eb7f24",
+    "md5": "00a46c90ca01d5fde5aea3c385ec3141",
+    "sha1": "5058640eb70268345e6e630ac78958c99121e294",
+    "sha256": "9c01085c6c82ee90d6a6525cdec2ddb376d17bfd31a60db2c4cc665976e9e2fc",
+    "size": 1048576
+  },
+  "segapico_369d5e12": {
+    "id": "segapico_369d5e12",
+    "name": "Hirake! Ponkikki - Party o Hirakou! (Japan).md",
+    "cid": "QmaRRhUS4NG4zE7dD1rfaBj2i1YMXfNNAHTTAGkpnFtbu4",
+    "crc": "369d5e12",
+    "md5": "71da28da0e137c994a6c50cf205e9a5a",
+    "sha1": "13d3c6d97cd703a7450272b44ad37e38c5339dee",
+    "sha256": "426bd2d2b187b02fd36f48f39f3fb326ad22e70556818a4d02bf91115ea0441c",
+    "size": 524288
+  },
+  "segapico_e5b93c6c": {
+    "id": "segapico_e5b93c6c",
+    "name": "Issho ni Hashirou Kikansha Thomas (Japan).md",
+    "cid": "QmUnHSGGCXyR2nSiLHYwosfijfNYM5yzMGZStLfVSpxwzB",
+    "crc": "e5b93c6c",
+    "md5": "c9f7973fd52c86b718afa9608ef57045",
+    "sha1": "bf542822f90bd5c5590b8ae637b85c5ea982688c",
+    "sha256": "02cf4e9de213436a2a370facf508e90a37942c800e55e5972f4a84e123969e8d",
+    "size": 524288
+  },
+  "segapico_da7e56dc": {
+    "id": "segapico_da7e56dc",
+    "name": "Issho ni Pico - Itsudemo Issho Doraemon (Japan).md",
+    "cid": "QmRB5vG37QjBPfpzBhTGZwonbVAnByZ1cevWJ4oKdcEZa6",
+    "crc": "da7e56dc",
+    "md5": "d27dbe6bed70e6836ade17526984d505",
+    "sha1": "fac2a89ed72a7fb85c6d02a46048a062de67486d",
+    "sha256": "d4ba9e5f7e9826b9995abbfbc5e0c7e94dc9e43f7e43d992fdf88208af3d52b8",
+    "size": 2097152
+  },
+  "segapico_b4120752": {
+    "id": "segapico_b4120752",
+    "name": "Jahr in Winnie Puuhs Leben, Ein (Germany).md",
+    "cid": "QmaEUwgVuPsFD2423oiCDfdyWnzfwizDyHZGMPsHyZVKrk",
+    "crc": "b4120752",
+    "md5": "f3c1fc7d6511f30707f2152ae5f999c6",
+    "sha1": "3c3af9d643060e5a5477210c67528923ff107751",
+    "sha256": "bcab6125df924555a3e17e76239a8d8ada138ea49226156d2afe35633757e720",
+    "size": 524288
+  },
+  "segapico_2a7574b6": {
+    "id": "segapico_2a7574b6",
+    "name": "Jeulgeoun Deuraibeu (Korea).md",
+    "cid": "Qmct2GAZAFwSBSterrgpAXKZELZhRTUCjVd847oKwzJYFa",
+    "crc": "2a7574b6",
+    "md5": "ddc79157a8831f5116495e7108b50678",
+    "sha1": "0d1a3b02f33b1fddc90ba70785873b148f0a8fd2",
+    "sha256": "7fa51ddc706b2674ffadf85a87a95e22823266b2224c229932c1f42e393d8da4",
+    "size": 1048576
+  },
+  "segapico_311a471e": {
+    "id": "segapico_311a471e",
+    "name": "Jeulgeoun Patireul Yeolja! (Korea).md",
+    "cid": "QmRAxoA76rQmAfM5LYpNopLAbVwNWSzte81aLT6LTYapT5",
+    "crc": "311a471e",
+    "md5": "018e76bfd4ddd36e48070fe61c1efc6a",
+    "sha1": "d89bcc9111e7a2fa2fb85b77ea6c79c622bbd440",
+    "sha256": "35bf0c2ede0892d9e07dfe18a39d6cc318597971e0b318d83e10d9df7e552cd4",
+    "size": 524288
+  },
+  "segapico_5ced9954": {
+    "id": "segapico_5ced9954",
+    "name": "Jidou Eiken Taiou - Moomin to Eigo - Tanjoubi no Okurimono (Japan) (Rev 2).md",
+    "cid": "QmTqF9UoqnAkyMTM3b1y394JrdHh71ZeHmcNCSzQytNcpP",
+    "crc": "5ced9954",
+    "md5": "39fd45939b4bf80279874fc4e0ab589d",
+    "sha1": "0c7fdafefac1cf2b536faaac8a551529ab171b29",
+    "sha256": "84518a6e7b6e487a54db6507e92595882294e92a3aacf8223322bf68572779f2",
+    "size": 1048576
+  },
+  "segapico_e1abf964": {
+    "id": "segapico_e1abf964",
+    "name": "Kaitou Saint Tail - Saint Tail to One, Two, Three! (Japan).md",
+    "cid": "Qmaw2M1Ye8R5jZexeUZvsz4vMTX8dKroP5USakyqSVB6GP",
+    "crc": "e1abf964",
+    "md5": "96d9bdf6bf4d6f874c48050c9f033d33",
+    "sha1": "174f46776f27d133e947ddd6dc8929f29b76d071",
+    "sha256": "2949eb91de7eea6c41aeae780613846a5f05a4790836f714a2efac6e641980d2",
+    "size": 1048576
+  },
+  "segapico_2194fad5": {
+    "id": "segapico_2194fad5",
+    "name": "Kamen Rider 555 (Japan).md",
+    "cid": "QmQBJKGq8K1Fnk4WXkVbgtM4RKCAfzRfj1qddRbfP5y2xQ",
+    "crc": "2194fad5",
+    "md5": "3aa789a325e290e921d69f6099458bfd",
+    "sha1": "944f588cc0bcf2311852e83dfc4a67387aada3af",
+    "sha256": "64acc2678ccbfe0b2843c977e77709cd187257f480c9baa4f33c1474e91d9707",
+    "size": 2097152
+  },
+  "segapico_316596dc": {
+    "id": "segapico_316596dc",
+    "name": "Kamen Rider Agito & Kuuga - Wild Battle (Japan).md",
+    "cid": "QmYnWzCwiiuuJ5FnpyH6CRabyjVRqc6fmhkoJwrCqPMZcz",
+    "crc": "316596dc",
+    "md5": "ccaea35fc8a7700374ffc2857a3eb053",
+    "sha1": "18dc0756e0c61a397fe88d06c5915d543440d16e",
+    "sha256": "42c81e7274333d3d7bba167d014ec4c5ee1d6dc0cf982d7e12d56120e7ce2797",
+    "size": 1048576
+  },
+  "segapico_a6dea807": {
+    "id": "segapico_a6dea807",
+    "name": "Kawaii Nakama o Sodateyou! - 3-tsu no Shippo (Japan).md",
+    "cid": "QmSkAG9ZgMoRTizQ3HL5xJ9g1aL2dYTs2jpqSKU6nrRRFC",
+    "crc": "a6dea807",
+    "md5": "20df6b0e0b42c2098de43cb2f7c2b963",
+    "sha1": "0a5cb3a917880b755465d3bd9d110dffcb52a2a3",
+    "sha256": "abec5b300726fa8ffb42434a0ac53945e81239af658f8d49da86dae8b9aaf20b",
+    "size": 2097152
+  },
+  "segapico_8386ab4c": {
+    "id": "segapico_8386ab4c",
+    "name": "Kero Kero Keroppi no Harikiri Undoukai (Japan).md",
+    "cid": "QmUjR5uCkorJfD475UsJuWrYhUrEZWYmpr64wAQ1TrVnmq",
+    "crc": "8386ab4c",
+    "md5": "e619b738b41f21502908e412b0ca2367",
+    "sha1": "6e424a9f3ce358b93a5dcd29315dd2db809c6989",
+    "sha256": "d9d725f10e6bbe1932f7caf45c0a803a410a603a2e1dd7627d1d2c470cd0631a",
+    "size": 524288
+  },
+  "segapico_57e973f7": {
+    "id": "segapico_57e973f7",
+    "name": "Keyboard Pico - Kantan Waku Waku Keyboard (Japan).md",
+    "cid": "QmUjXtFqneQqBrGQKunJG4orE1KSkhDe5cH7tTDXPbQGTF",
+    "crc": "57e973f7",
+    "md5": "6e609732b14e5cb61092982f3ec056d5",
+    "sha1": "ffd6289f41a95ed04cb04ef40041fa9fcc4f1661",
+    "sha256": "e8b104170eb849014d0f5ae88e47462e002c2cf10f614d0f03a62fb62fade9c7",
+    "size": 1048576
+  },
+  "segapico_01b0869e": {
+    "id": "segapico_01b0869e",
+    "name": "Keyboard Pico 2 - Sawattemiyou! Yoiko no Hajimete Keyboard (Japan).md",
+    "cid": "Qmf52GJTq13N8qvh1sGfZMqyvaeHwa6fSaqc9QCiK4wgoo",
+    "crc": "01b0869e",
+    "md5": "750d6afd48aba9d0c39971921bfb4c44",
+    "sha1": "95dd0c0517bfa468486a14959ebb1b10a70227d7",
+    "sha256": "827e04d66cb97cd1effa4054d806f3413da3105c52e4b0dc5ca5b49fefdaabb1",
+    "size": 1048576
+  },
+  "segapico_92f13c50": {
+    "id": "segapico_92f13c50",
+    "name": "Kibodeu Piko (Korea).md",
+    "cid": "QmU7ip1TzWwFkPxbQpQHTAAw6MUhMz5iST1VppCsu3YdE7",
+    "crc": "92f13c50",
+    "md5": "f028117fe417aab2cb5719e508ec6105",
+    "sha1": "5657fa083c1bc64aac721a97877c80cb40cb3172",
+    "sha256": "0aa1980ac5ddbcb77c2db5bfbc9e734dab667c6862cae54df96a67e044b28cb4",
+    "size": 1048576
+  },
+  "segapico_32f926ac": {
+    "id": "segapico_32f926ac",
+    "name": "Kikansha Thomas ni Notte (Japan).md",
+    "cid": "Qma7qpxv55u2hBciqEEVY1BUpg65w2aivhsCT5yw8dXWk3",
+    "crc": "32f926ac",
+    "md5": "be5f328df2427cc826b7c27dd0220787",
+    "sha1": "cf7cce404c013c57bfb0e80c5da3213af64dd505",
+    "sha256": "5549a33f448bb091cb6ae8a78fe34c6826ed686a370b2cbe07d66116d126a6ab",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_8250f8d6": {
+    "id": "segapico_8250f8d6",
+    "name": "Kiki & Lala - Hoshi no Kazu Asobi (Japan).md",
+    "cid": "QmeHGVE3X9NzngvvQGvhUH7od6iTxvwSWe4J7GyjKvKiUX",
+    "crc": "8250f8d6",
+    "md5": "31ee8ad055ba87ef17982488202f373e",
+    "sha1": "c1322828a22148cc678fa637f156cb56d49e50a4",
+    "sha256": "e8f093fe1b4ebc4e61ea800eda33346c855b42643f87ca791137715ebd317c3c",
+    "size": 2097152
+  },
+  "segapico_85f80871": {
+    "id": "segapico_85f80871",
+    "name": "Kiteretsu Daihyakka - Edo ni Itte Kiteretsusai-sama ni Au Nari (Japan).md",
+    "cid": "QmQk78Jx49AS46VKqKAh5Y62W8KdaDxdBSJ1hCRMA2DGN7",
+    "crc": "85f80871",
+    "md5": "acbe6c8f0c15963528074272419940c7",
+    "sha1": "e13ad62f7dbd270f74a4dbbe881d1ca619899d31",
+    "sha256": "b7bf99a79584695e69c888557cb26032462f840cb20e360364e13eac6d498513",
+    "size": 524288
+  },
+  "segapico_3df93ffe": {
+    "id": "segapico_3df93ffe",
+    "name": "Kitty to Minna no Keyboard Pico - Kitty to Minna no Hajimete no Keyboard! (Japan).md",
+    "cid": "QmcsZu4aMm1VQkBbNBY38xDrXB2Z6cp7C1J4Fc7vmtUPsd",
+    "crc": "3df93ffe",
+    "md5": "9664672558ad607f9c0630fdd0ec430f",
+    "sha1": "06df86055b9d4cd06d91406ad6639d9729ccde97",
+    "sha256": "caffa71cf4e711d7567c6a23e47fc8d51c735de40d55c79676d2214e4b584d37",
+    "size": 2097152
+  },
+  "segapico_7d2aaa9a": {
+    "id": "segapico_7d2aaa9a",
+    "name": "Kkumnara Yeohaeng (Korea).md",
+    "cid": "QmPkss4SrJsFmJoajvCh3kkhwmetkvzdtUpcm7zUCEmyMP",
+    "crc": "7d2aaa9a",
+    "md5": "308c82dc3863a41f2750569dbac2e34c",
+    "sha1": "17060b1d622fa8dffe0db2de748472c21aaac364",
+    "sha256": "8291d0f968e1e82bd6218366396cdb8d7ed586367b89146ddf00e31606a3df5e",
+    "size": 1048576
+  },
+  "segapico_1102c039": {
+    "id": "segapico_1102c039",
+    "name": "Koenig der Loewen, Der - Abenteuer (Germany).md",
+    "cid": "QmW18mw3JUMWvxitbmUvEKxXz7gcKRYeR7SPyc2UBsEfvW",
+    "crc": "1102c039",
+    "md5": "4eae3158285abaf71d65d29e92044396",
+    "sha1": "d0a352378c5ce9baacb9d161cb04f63d4913ce50",
+    "sha256": "bd2199db1f0cebcbb5fed744c1362038ec9c30e3e9c2b2b79a7376d7d92fa316",
+    "size": 1048576
+  },
+  "segapico_bfc8fa4b": {
+    "id": "segapico_bfc8fa4b",
+    "name": "Kosume Pico Motto Kawaiku Naritai na (Japan).md",
+    "cid": "QmbjWn44ksJLT7BtBLVYgyQfVDgM6L4kJwhTbVJQuf8imz",
+    "crc": "bfc8fa4b",
+    "md5": "dd07ea2eac1f8a96eb622d6079c2352e",
+    "sha1": "07c4ee9f8cd73ff64ea9c18fc8573e1bf57a4d5f",
+    "sha256": "f88000b12869a50b3114279d326679a8574d56ae338a6a386bbca8ab7188e55b",
+    "size": 2097152
+  },
+  "segapico_37c59a71": {
+    "id": "segapico_37c59a71",
+    "name": "Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan (Japan).md",
+    "cid": "QmRkAFemWem9C7vc3CCShwDBiANcgc8KhdS78fvLBRcRVu",
+    "crc": "37c59a71",
+    "md5": "8ca445c4099a5e6148722bef9218ed32",
+    "sha1": "2ba57037e9155d3537c2d204de5f873f67a8a3a6",
+    "sha256": "355d8dc982b8e898a1cc6e971059609a0779b8d0b9b52415fc0d747805e42ae1",
+    "size": 2097152
+  },
+  "segapico_40e2cdfc": {
+    "id": "segapico_40e2cdfc",
+    "name": "Kuma no Pooh-san - Christopher Robin wo Sagase! (Japan).md",
+    "cid": "QmQygDxbNQoXNvhrXvkgKLmJy495zHD1cXwvERsWugVAD8",
+    "crc": "40e2cdfc",
+    "md5": "97b56626bf23b5eec0457d5f0c8b108e",
+    "sha1": "14f757263f138cbe02e03c48748935224805edf1",
+    "sha256": "818e597771063cb6ca9f945a151c76dd0c6162fa00a7b8a27cb42d04b15ee966",
+    "size": 1048576
+  },
+  "segapico_eda6b93c": {
+    "id": "segapico_eda6b93c",
+    "name": "Kuma no Pooh-san - Tanoshii Tashizan Hikizan (Japan).md",
+    "cid": "QmaKahuTv6VtmE5sSQr4jNweLcPa4MbGwoeEMiohNr16on",
+    "crc": "eda6b93c",
+    "md5": "c6e042579b41ddcbbc635949f9d665bd",
+    "sha1": "5dc53a2b40bb3f11181862c819a9fd4d02e77d9c",
+    "sha256": "b6d7b989675b5cdfa9f94025743e2f5b929fc9a4bd7194a1432983819287deb0",
+    "size": 2097152
+  },
+  "segapico_2019bb5b": {
+    "id": "segapico_2019bb5b",
+    "name": "Kumon no Suku Suku Lesson - 1 kara 30 made no Suuji (Japan).md",
+    "cid": "QmYj9DM6dr6vV35iGR9hfu12GE5LTqH3ttBxDFsbxU8gjy",
+    "crc": "2019bb5b",
+    "md5": "4df3f13314f871cfef47786f3edc531e",
+    "sha1": "c8828068b6fb15cdcbd116860390241f5743c140",
+    "sha256": "0a2a0e668e751acb6ec78f1d3edd9040e8c7a02ee3fd4a301a7081d8889d2b5b",
+    "size": 4194304
+  },
+  "segapico_a89bf6cd": {
+    "id": "segapico_a89bf6cd",
+    "name": "Kurehyolla (Korea).md",
+    "cid": "QmYNLqGR4mLxrSbWnuEr94ChHVvgoy8v2FBw2qHcrZCsrs",
+    "crc": "a89bf6cd",
+    "md5": "2f946adc12c57ecb6f36ace52a8f8dc7",
+    "sha1": "22400747517689b90003f16407c8fde3e3d67ee6",
+    "sha256": "6d3f8578a9a4d1108f32222498261ed82fa99c909cea627dbb4382f3a54cad5c",
+    "size": 524288
+  },
+  "segapico_6e406f2c": {
+    "id": "segapico_6e406f2c",
+    "name": "Lancio di Topolino nel Passato (Italy).md",
+    "cid": "QmNyRCiaekyeMeRogwmXnhBDUddmTaeMZJUrkcGTRPEc87",
+    "crc": "6e406f2c",
+    "md5": "637be7f90a159c0683c5aa618fea9cf6",
+    "sha1": "16702ae751798a59e7c81c3e373ceb247b1ea0c3",
+    "sha256": "9cd90bbe848ade80cc23fa61b953f891251f4ed1562e15b266664048aa77e88b",
+    "size": 524288
+  },
+  "segapico_7fe5394e": {
+    "id": "segapico_7fe5394e",
+    "name": "Lapices de Colores Magicos (Spain).md",
+    "cid": "QmZZ7uuE9o9irMmU4NGv7JHSh7iixcZaXPusJTn86v61sG",
+    "crc": "7fe5394e",
+    "md5": "1939d9ea912ee4f0ca1310200a9c1c94",
+    "sha1": "5e40b09d2f14fdac6069c09118a6af8c76f488b8",
+    "sha256": "153da1da835ba093458067064fb745bde65e94c61fa32aa8ca6fca0aef572c78",
+    "size": 524288
+  },
+  "segapico_ca5534bc": {
+    "id": "segapico_ca5534bc",
+    "name": "Las Adventuras del Rey Leon (Spain).md",
+    "cid": "QmTjh7s7FwcYqStxR2GwnQPmPphsUkXbpzptPaScDcuARm",
+    "crc": "ca5534bc",
+    "md5": "9ddabc029cb16d4ec01a7dd759aad3d2",
+    "sha1": "f3eb0844b49329e2f522e595d887adee7171e88b",
+    "sha256": "db779c9ec11883114d7c230b3f166e534344f5edfe2b0d0cb2478a620b51ee06",
+    "size": 1048576
+  },
+  "segapico_cbcc377c": {
+    "id": "segapico_cbcc377c",
+    "name": "LEGO - Fun to Build (Japan).md",
+    "cid": "QmZJxbK55uWXUz4BfMnayCW7npRmzPiX9UBx8p14HE8n2b",
+    "crc": "cbcc377c",
+    "md5": "7762b91435746b6556c726158283c068",
+    "sha1": "2f269325deef0db0a14e3b0d3cdf9a0c06436a70",
+    "sha256": "93ab78214eda6eaddbe03949adddf620c1dffa942a95ff6a10a8e2b094f8a86f",
+    "size": 1048576
+  },
+  "segapico_c515eb6e": {
+    "id": "segapico_c515eb6e",
+    "name": "Lejonkungen Aventyr (Sweden).md",
+    "cid": "Qme2m4igY5GdFrpuTtp41wfVqgddxJhMXsmWrqU1eu4BRf",
+    "crc": "c515eb6e",
+    "md5": "091e4edf90ae0b5f3f1c248132ad660b",
+    "sha1": "f72f9037c7f21a6ba5bebd7f835ae74be352d29a",
+    "sha256": "5d491964f7abfef0f0580db8db4dc9f28124d0087a61f099bfaa7e3545c95a08",
+    "size": 1048576
+  },
+  "segapico_a0e18b3e": {
+    "id": "segapico_a0e18b3e",
+    "name": "Licca-chan ni Naritai! (Japan).md",
+    "cid": "QmY3vu99Z9SRXvLjPf6Asnj3CARu6DSd7inDU453kB6E5K",
+    "crc": "a0e18b3e",
+    "md5": "b24e4c838ebe0c5725daf0f10b3fd5ae",
+    "sha1": "a1ac56d43eeade0fa57ee3791f43a5447a8da824",
+    "sha256": "5e487e0f1878697e58eef5e3e2c537593b769a1c7cbdc17c84c5f3717b4f3a9b",
+    "size": 2097152
+  },
+  "segapico_2c0db3b9": {
+    "id": "segapico_2c0db3b9",
+    "name": "Lion King, The - Adventures at Pride Rock (USA).md",
+    "cid": "QmaaDTKu8cf9kWwbtJe9Furo1uZcbG71UfQpBSgiLJ9xDa",
+    "crc": "2c0db3b9",
+    "md5": "e0e810b4d2cbf85c41c5170bd484a6c6",
+    "sha1": "2da72b5ab41d95675163850bab11e38d7e8a098d",
+    "sha256": "f46d27e88a64b5a4c80b207a6a98613cf7da8be01c5c08175dde4bdfec9c4228",
+    "size": 1048576
+  },
+  "segapico_c567ea50": {
+    "id": "segapico_c567ea50",
+    "name": "Magic Crayons (USA).md",
+    "cid": "QmcjSP9v6rTekSzTyaR3NvaRsDccKfMqRnhMXGPFZjmch9",
+    "crc": "c567ea50",
+    "md5": "fb8b1cc2f2fbb7554e341af5f768b114",
+    "sha1": "8ac1cd4cd9af44bc35ce78bec20662860cc78822",
+    "sha256": "40656f0de5b034a601d5311fe38674555e8ab314132b4e9b6c3e5bc278eea1b8",
+    "size": 524288
+  },
+  "segapico_5e3762e2": {
+    "id": "segapico_5e3762e2",
+    "name": "Magic Knight Rayearth - Magic Knight Tanjou (Japan).md",
+    "cid": "QmPSaJuCoCiJ9DueKuk9phYQ4zr3H9JY3Ee7Jo1iyv2ieB",
+    "crc": "5e3762e2",
+    "md5": "cbfc096b7466ee78b9e69221cfa2dab8",
+    "sha1": "86ced0eb5329c1cebfffc5cd977f7988a6e0c0a9",
+    "sha256": "fa78888b303f61225767b0fd8a7dc8569571a4602ae1c520a39040fdd176bf4e",
+    "size": 1048576
+  },
+  "segapico_e6ef55f9": {
+    "id": "segapico_e6ef55f9",
+    "name": "Magic School Bus, The (USA).md",
+    "cid": "QmXfFtdi7EX8ZkXDotZra2UNYUz8Poov67UqrhUD7t65wS",
+    "crc": "e6ef55f9",
+    "md5": "4776e04223fa667fb4d466456909f39c",
+    "sha1": "927e48f24745732235de4745d3acf1656750e12b",
+    "sha256": "e2c3bd1345f4747e83e59797326fa7c22869b35d3af1f09d2ca526e396492b78",
+    "size": 524288
+  },
+  "segapico_d271f727": {
+    "id": "segapico_d271f727",
+    "name": "Math Antics with Disney's 101 Dalmatians (USA).md",
+    "cid": "QmQkerfvHWuBR4ypMgmG9GSAyno5UsBwur1B6Qv5QUBCib",
+    "crc": "d271f727",
+    "md5": "cede845f6088bcaf3af3448529e6fdb6",
+    "sha1": "bbbb351396ae9c636092efc6780dd1f80f4ca854",
+    "sha256": "c4eba3c3788cadcc8516a3866c8e646aec49b6a87417ce8d90dab387d1c21079",
+    "size": 1048576,
+    "status": "verified"
+  },
+  "segapico_474d946e": {
+    "id": "segapico_474d946e",
+    "name": "McDonald's de Asobo! (Japan).md",
+    "cid": "QmNiVPBchWdrABTPCviFeG3yd77B5iDw9wNmseqHQTarHU",
+    "crc": "474d946e",
+    "md5": "3cde721d78ba49f685b3d9fa7ea24d54",
+    "sha1": "3615cf2f28133c3d35003bef16a517d5379e9c20",
+    "sha256": "54b3d2ddf929e8cf93eb6a05ec2add2852567a2bc7c56e30afd86c871b925648",
+    "size": 2097152
+  },
+  "segapico_9b05acc9": {
+    "id": "segapico_9b05acc9",
+    "name": "Melody Land (Japan) (Copera).md",
+    "cid": "QmUkJc45fmMp5GvyoHBW4ZHEvVJkQYQ8WZ2g2fyqWVm4UZ",
+    "crc": "9b05acc9",
+    "md5": "43e1b061f492c0e7c7bf8687dc30528f",
+    "sha1": "cd4f3260309a1236f6f0d491f385d4dececa349e",
+    "sha256": "d1e03df815c3a777765611ac5ec7cc3852198d4ef44cfad9cce1cc6ce2fa2cdd",
+    "size": 1048576
+  },
+  "segapico_c66d53d2": {
+    "id": "segapico_c66d53d2",
+    "name": "Mezase Pro Yakyuu (Japan).md",
+    "cid": "QmfX8qmnASnnZPvsa2PHqn4FdmFy5wcgHkTqqfbp8Wr8EG",
+    "crc": "c66d53d2",
+    "md5": "1dbd567de71a553163e01d89c229e121",
+    "sha1": "8989810067e9aabc8fe01646fe2e6d9fca4a7059",
+    "sha256": "16b85946c26860a95672977e675f27acb6e94ee197c59690f92d5c6db927542b",
+    "size": 1048576
+  },
+  "segapico_627ea96c": {
+    "id": "segapico_627ea96c",
+    "name": "Mickey - Ausflug in die Vergangenheit (Germany).md",
+    "cid": "QmW9NCq8ex52tyaMQ9ohv3vFadddWbwdhm58rH2bR27W7r",
+    "crc": "627ea96c",
+    "md5": "5f5bf9fe9a77abbe34a53760f69a70ff",
+    "sha1": "eab3c41aef6c30adc82e92e143ffc0360118b99e",
+    "sha256": "4827baa51b663f05a2bf62ae12a90f9d553779877e699fe2f23ea3b7616ecda9",
+    "size": 524288
+  },
+  "segapico_fafee898": {
+    "id": "segapico_fafee898",
+    "name": "Mickey - Fait un Voyage Eclair Dans le Passe (France).md",
+    "cid": "QmQc3SEZiERogp23mwyAJkA3X7LVn5is6YjugrRWuL55u4",
+    "crc": "fafee898",
+    "md5": "69c37997757f6ea8edcebf3b99fc47e7",
+    "sha1": "6cacd57339ad8dcdbc40f08abffb6fa0f00b5ae5",
+    "sha256": "3494add204b120e900e0e41905e460469b0414d025c34830a245c947328cd1fd",
+    "size": 524288
+  },
+  "segapico_64809150": {
+    "id": "segapico_64809150",
+    "name": "Mickey - Le Echa un Vistazo al Pasado (Spain).md",
+    "cid": "QmVHfGuW3dTrV5WhitLWFpi4Vvbyyu4Y1pxFcJAdJhxSDY",
+    "crc": "64809150",
+    "md5": "c48607261238d58240e2ea5739d20e5d",
+    "sha1": "76a7a97d11b7a86e68e88e6bb1238c9c3b998b35",
+    "sha256": "cc7fc09a119f61bbe50123bdfac35166f0148e80d97e002e071b7cbde1048657",
+    "size": 524288
+  },
+  "segapico_a1d63b9a": {
+    "id": "segapico_a1d63b9a",
+    "name": "Mickey - Viajando no Tempo (Brazil).md",
+    "cid": "QmfEpMmm74RGDkdcuQ7pjNQguZEShmoJBwKg9LDsAQfb2Z",
+    "crc": "a1d63b9a",
+    "md5": "1620574607623845254ad72ffcbd012c",
+    "sha1": "b1912dd0ddd19c38cc5dfeb92e669535b2e1619f",
+    "sha256": "37f00d3bc0a2595f0c5a92cdfc808193d979216a1fb78cbd34ddf770c3f9ed7c",
+    "size": 524288
+  },
+  "segapico_2eb957b3": {
+    "id": "segapico_2eb957b3",
+    "name": "Mickey no Boku wa Meitantei (Japan).md",
+    "cid": "QmXLiMZzityjGNrKffv7Uzp1YEfGbKRfNmqyWfWNYjHPAt",
+    "crc": "2eb957b3",
+    "md5": "00c3a4c417babcc80f3fbb5c6d8b9466",
+    "sha1": "b11e35b71a3d24fddad746b60c1f79ea011d39c1",
+    "sha256": "b6313d6320f9d7e732258aec6204dec6ac34a59fd3b9f5526cb659e435ee24e4",
+    "size": 2097152
+  },
+  "segapico_f3d95a84": {
+    "id": "segapico_f3d95a84",
+    "name": "Mickey no Tokyo Disneyland Stamp Rally (Japan) (Rev 1).md",
+    "cid": "QmPLPrdRz59R8w9tcUcLTAA9gzNSSicx6cf7rKF4A34aQa",
+    "crc": "f3d95a84",
+    "md5": "57c2e9e5e86724ccb286ca1d1744d96e",
+    "sha1": "25d7b87e42e69e49d813b7f49888696dd5924c51",
+    "sha256": "2bbcb482388bbae99ce3bc6f31ffb9055ea7ef72958c5e69d94ac758eb5cd32a",
+    "size": 524288
+  },
+  "segapico_a07db677": {
+    "id": "segapico_a07db677",
+    "name": "Mickey no Yukai na Bouken (Japan) (Rev 1).md",
+    "cid": "QmNQ5zXJPdfHnVpitABtBrPFE9gQ7Li4GztSNzNM6RJBsA",
+    "crc": "a07db677",
+    "md5": "f370cb60d5886901583de20409d9da74",
+    "sha1": "2d385f42d609b3f0c1b9c392a3dc2195e89fbcd3",
+    "sha256": "4ff0ec9fb005b177c3c58533d1a8c8d583cad54c7c8966a1ef9ed7ab266cb4e7",
+    "size": 524288
+  },
+  "segapico_cb331903": {
+    "id": "segapico_cb331903",
+    "name": "Mickey to Ooki na Furudokei (Japan) (Rev 2).md",
+    "cid": "QmW7UW8XxnJA577fi8nVxLsZKZnUWAmnh9nTnDLaf9uy7k",
+    "crc": "cb331903",
+    "md5": "f1776efc0e2a75ed69d415244f470a2e",
+    "sha1": "c790d72aef37a835e977231e8097c1f4950a1b11",
+    "sha256": "1cf18b53f48c381220713379376d8d649adb11433dfa000ff654e02d133d7300",
+    "size": 1048576
+  },
+  "segapico_643700aa": {
+    "id": "segapico_643700aa",
+    "name": "Mickey to Utau Tori no Shima - Minnie wo Sagashite Waku Waku Daibouken! (Japan).md",
+    "cid": "QmUjsGJG9e1kLjFk4n8nZX8oogdUJWr3n7LaxsDx6DEpR5",
+    "crc": "643700aa",
+    "md5": "b15dd2645a30d0b06cde584d8f06e378",
+    "sha1": "d47298e7dab451218cede56fd758401e356e6b2b",
+    "sha256": "792f8e00d41244442c3abce2ef5e16e3d6e66b9e03675c301f57f99482420c54",
+    "size": 1048576
+  },
+  "segapico_2628f6ef": {
+    "id": "segapico_2628f6ef",
+    "name": "Mickey's Blast into the Past (USA).md",
+    "cid": "Qmeb7t152JTd6JrZZ99Zao9iM5xWhoPz7LhUcQQcfT8vXc",
+    "crc": "2628f6ef",
+    "md5": "f9e23f3b23d4653c8914906265c571a3",
+    "sha1": "1d04a40d353f71061b206d893d2d8e7864a2faee",
+    "sha256": "7b0f091b72f6a22a1b0a253b4f5161d57525da287e3da53d802b390cacfb414e",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_c301a37f": {
+    "id": "segapico_c301a37f",
+    "name": "Mickys lustiges Abenteuer (Germany) (Proto).md",
+    "cid": "Qmd6rDfBxxenLYULjj5yPnopXRaD15anq3RaTq4ZkUz1u4",
+    "crc": "c301a37f",
+    "md5": "04c4335a95238ddd0e393b94548843f4",
+    "sha1": "7ba83b5b8cd085989e0be0c773e0699e278fe47e",
+    "sha256": "af1c680c24f6fc4f1e87c2ea0875f994c9c4613b837f3eab5f4f2783940d5d5b",
+    "size": 524288
+  },
+  "segapico_070cb5d6": {
+    "id": "segapico_070cb5d6",
+    "name": "Miimi to Taata no Wai Wai Oekaki Doubutsuen!! (Japan).md",
+    "cid": "QmT5VyARfZ71JNB6hfGHaBYrnWvCXkZuP4MMu7eesyYZpq",
+    "crc": "070cb5d6",
+    "md5": "b744e234ab93b94fbdb1920f267dae1a",
+    "sha1": "b056919eed642d3838c4d9cd71750bce9bf3a999",
+    "sha256": "8f607693e5136a818b20e1c6d7db9afc9ad28576f63c2b31fc29d9a0e1776569",
+    "size": 524288
+  },
+  "segapico_0cb5727d": {
+    "id": "segapico_0cb5727d",
+    "name": "Mike to Asobou Tobidase Milky Way (Japan) (Copera).md",
+    "cid": "QmWTqT4eyHPGds5kneYtepJVKy4uhEfeuA7mTfEkzJt7RL",
+    "crc": "0cb5727d",
+    "md5": "302b85f7e8c526c7c812ab741269021c",
+    "sha1": "5f271c69f574a761f2c83f8005978dcb0635e81b",
+    "sha256": "f92168acb5dc60d8fd00f9a7e17ad8e14246462b8c8d7be3312f9a7fc9a31863",
+    "size": 1048576
+  },
+  "segapico_bb51f4ca": {
+    "id": "segapico_bb51f4ca",
+    "name": "Mikiwa Moheomeul Ddeonayo (Korea).md",
+    "cid": "QmaD3TAahogwMeh7owUT61TEGVknhVysBNPnDU2uaxh3iU",
+    "crc": "bb51f4ca",
+    "md5": "837c500cea02a5a7c2b9a9e8a0d43c62",
+    "sha1": "d3f635960540e8554eb99e58b319e6c4ac1ecec6",
+    "sha256": "bc87ce60018780bdc1009ed6336a8eccbb5e5f3076c3f8b2a0a4a04671959071",
+    "size": 524288
+  },
+  "segapico_9cedfac5": {
+    "id": "segapico_9cedfac5",
+    "name": "MiniMoni. - Eigo de Asobun Da pyon! (Japan).md",
+    "cid": "QmfNtuorkzX7LQbcYmxu9GnCdJQGK7CsF4ohPEqvLQ66Kt",
+    "crc": "9cedfac5",
+    "md5": "7306f4a500dca8716b1e9ae87d1f5d6c",
+    "sha1": "dea9772e3503180a844b4728e3ed8eeb0911a978",
+    "sha256": "0fc9b3795c2c82d4a3927d39dbb78e03786f13a4c0a37c94b6acd2c8e81c5e33",
+    "size": 2097152
+  },
+  "segapico_bfe1ceb5": {
+    "id": "segapico_bfe1ceb5",
+    "name": "MiniMoni. - Shougakkou e Ikun Da pyon! (Japan).md",
+    "cid": "QmSeUXWKB3QNXAJJUSfPVa49x6re2zzaMYaRvuA1tNLdUC",
+    "crc": "bfe1ceb5",
+    "md5": "80a981e9163badc79467cb38e375611b",
+    "sha1": "b0f82f3b7ad188656a048dd24fff8b844ca6068c",
+    "sha256": "07420267e8449315a2e8c3b1af3bb2295488e76a402e82e53306d359a3edb925",
+    "size": 2097152
+  },
+  "segapico_67069e42": {
+    "id": "segapico_67069e42",
+    "name": "MiniMoni. - TV ni Derun Da pyon! (Japan).md",
+    "cid": "QmT4Jy71NZ7rBbQWEH9TRxuSSdoiHkk2jvafc3bVtLP3u5",
+    "crc": "67069e42",
+    "md5": "6e040eb9d2c3d62cc4918ad168a42ffd",
+    "sha1": "f508bc6891d1dd2cbe52007c1d0645de685b478a",
+    "sha256": "f1d4c0eb838656da376b42b575e632e5355321775996e85248c84434e5241c3a",
+    "size": 2097152
+  },
+  "segapico_b2c17f1b": {
+    "id": "segapico_b2c17f1b",
+    "name": "Minna de Odorou - Oz no Mahoutsukai (Japan).md",
+    "cid": "QmYns9zXtLz8Sr797srz1i2C8DjHaDfhQQggiQT2E8Johg",
+    "crc": "b2c17f1b",
+    "md5": "e6184456d3feb265266ffd4b91744531",
+    "sha1": "0c60d4ff8cef472bb9ec01af21d503a5bf8cfaa6",
+    "sha256": "d78954ce3a49aa985c5b086130e001a428e45aa43690fb17086c73e0c789f46e",
+    "size": 2097152
+  },
+  "segapico_e4116dc0": {
+    "id": "segapico_e4116dc0",
+    "name": "Moero!! Robocon - Oekaki Robocon!! (Japan).md",
+    "cid": "QmehZ1RMNHSMH6qqoBBRFjKiJThmM16TFqsC9kXZBiVcFw",
+    "crc": "e4116dc0",
+    "md5": "730a215b11a910c30992fcd38cc447b7",
+    "sha1": "78b17719d1d3dc81394509ac6f988c05d50b638a",
+    "sha256": "7ed470fc57409199e529cc78d31c97cb80e5ba053a86bd8e88ecf45feb730bbe",
+    "size": 524288
+  },
+  "segapico_42d8aad2": {
+    "id": "segapico_42d8aad2",
+    "name": "Mootto! Ojamajo Doremi (Japan).md",
+    "cid": "QmcLSSkLT9Cq3G8WaFVkKgMDzNS9hieHGz65M9G3adnSd1",
+    "crc": "42d8aad2",
+    "md5": "ee906cbc3f9ad31a356da9332e3bd73a",
+    "sha1": "807eba6e44cb941b295f4f047ef949eea63f82fc",
+    "sha256": "47d742c43d84d31e88715a9db62718b27d157a6890aa85c7b867d2e7a7027dd2",
+    "size": 1048576
+  },
+  "segapico_13df7314": {
+    "id": "segapico_13df7314",
+    "name": "Moshi Moshi Pico - Dare ga Deru kana Moshi Moshi Pico de TV to Oshaberi! (Japan).md",
+    "cid": "QmXqwdypMacvoqj9EVwYET9uKZXTGgomYPJtaSfrZ3GbRG",
+    "crc": "13df7314",
+    "md5": "578f88e7736a195981a222df12682e78",
+    "sha1": "22f0d1c6a37eff02ee3a277ea9df018304557ccf",
+    "sha256": "cbac0b0a438cf59cb2e74949a61a01216e2adeb8702a99d9c56b51c7e687766b",
+    "size": 1048576
+  },
+  "segapico_9974d421": {
+    "id": "segapico_9974d421",
+    "name": "Mueoseul Tagogalkka (Korea).md",
+    "cid": "QmetQgFmWpUSKUX7Eff2vUdkmThkE54KXT7upyDCQzizsJ",
+    "crc": "9974d421",
+    "md5": "9680138f0af6bc87d588faa169457dcf",
+    "sha1": "7026dec346ce459ad5e81f3c4d209e2480d6626c",
+    "sha256": "68659335cd2d46fbbdac818fc8fb7d60fe55e9162f3c511275bfed891db6e975",
+    "size": 1048576
+  },
+  "segapico_d686b96e": {
+    "id": "segapico_d686b96e",
+    "name": "Muppets, The - On the Go! (USA).md",
+    "cid": "QmPs2q2aaXkY881puwoVuVNNpQjAzPWZdcEdNmyBgpDQTs",
+    "crc": "d686b96e",
+    "md5": "797d9f439fbd5deb1becd88b77b49a55",
+    "sha1": "731ad3ab65f1681f48594cad86e1a1adb9f57829",
+    "sha256": "3d0e536e505e6301558529a7f30efcd860d64750c21ea2d1ac38a2bc06fa4fdd",
+    "size": 524288
+  },
+  "segapico_35add3d0": {
+    "id": "segapico_35add3d0",
+    "name": "Musical Zoo (USA).md",
+    "cid": "QmPpLrPasHFcNejPye99eNo33sgXCqEPDT2zHf62R3g8Yu",
+    "crc": "35add3d0",
+    "md5": "f055c868587aec072ac33fe4a52a3c7f",
+    "sha1": "a9f0f50c0631c4be34b6e71f76d67ef156ac2552",
+    "sha256": "d9ab21b503688d598b3a89aef031989534faca0b4f61463bb00c33e1ebab0700",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_a26f6ceb": {
+    "id": "segapico_a26f6ceb",
+    "name": "NHK Okaasan to Issho - Do Re Mi Fa Donut! - Asobi Ippai Uta Ippai! (Japan).md",
+    "cid": "QmTA9Prc5bcUGoajBSmcFVuex93uFhdrwFLvh9iDvTEt41",
+    "crc": "a26f6ceb",
+    "md5": "cac9c46d522117b7acd89e2658b042ba",
+    "sha1": "7a13953f214dc56caa2565317ce984ab6c302b37",
+    "sha256": "dda1152f4d10d3d6e73ceea43ab024041587366e6e4ec478ec33a901416bcc8d",
+    "size": 524288
+  },
+  "segapico_d3172171": {
+    "id": "segapico_d3172171",
+    "name": "NHK Okaasan to Issho - Do Re Mi Fa Donut! - Oekaki Daaisuki! - Omoshiro Oekaki Daishuugou! (Japan).md",
+    "cid": "Qmd8iLZBeuo9mokmPbGzXAiX2KDDauj8iGaApQz4wiMqoE",
+    "crc": "d3172171",
+    "md5": "38ddc99619237cf043f2fca588d88642",
+    "sha1": "1fd236710576ca69a5f361ee721fc26f64c00f4b",
+    "sha256": "974c72d5a3b3cbdcb4eda73d7085e2ba6eec0f24f10bc80206d49817344c450d",
+    "size": 1048576
+  },
+  "segapico_6275cc32": {
+    "id": "segapico_6275cc32",
+    "name": "NHK Okaasan to Issho - Genki na Ko Atsumare! (Japan).md",
+    "cid": "QmNQMW61prQwrywxMLc3uFcPW57YR2UYy2uuFY7yqki5Q2",
+    "crc": "6275cc32",
+    "md5": "00ba3dc63b3a70cc2fcaaa5f8888e431",
+    "sha1": "f9d2f7a3b88cbffb1f77d595d2eb151a5fdeec92",
+    "sha256": "c6a7465e96538d5f8efd81eb6dcedb06acb5a214707ad07a4646edfa55926076",
+    "size": 1048576
+  },
+  "segapico_40764bcf": {
+    "id": "segapico_40764bcf",
+    "name": "NHK Okaasan to Issho - Goo Choco Lantan - Minna de Oekaki! - Tanoshii Asobi mo Ippai! (Japan).md",
+    "cid": "QmPX3GuHfzMjdrJp8epX21mcbrihtGuFM3tspXtGVD3jSR",
+    "crc": "40764bcf",
+    "md5": "0c56e900ac5281cb94935bd42ebdb31b",
+    "sha1": "9143b0688dca4c9557e8a1d05e2810cad818fafb",
+    "sha256": "5601377149ed07dfce59f28074f310f68fa27b9439fa73e8b19a8fe6eab78638",
+    "size": 2097152
+  },
+  "segapico_e3da2ace": {
+    "id": "segapico_e3da2ace",
+    "name": "Ninpuu Sentai Hurricaneger & Hyakujuu Sentai Gaoranger - Chou Sentai Super Battle (Japan).md",
+    "cid": "QmQtw4YztBHf7t8LCAZjiQhoEgoxR8SzqCe93LU62aKz9C",
+    "crc": "e3da2ace",
+    "md5": "9528281faecb557b5e50a28107fe4e2d",
+    "sha1": "006f5442ab0798cff18067ad948265a22595fe35",
+    "sha256": "4382bc37897f975dfd3331d9feb595ab773877177eac3c0005a64842fccef7c9",
+    "size": 1048576
+  },
+  "segapico_eb563723": {
+    "id": "segapico_eb563723",
+    "name": "Nintama Rantarou (Japan).md",
+    "cid": "QmaxTL1m856LWcLUPcqetXV5WmG9kfRitsgSYQMpzEYyMZ",
+    "crc": "eb563723",
+    "md5": "361277e67e13d3fce1774df9f17e02fa",
+    "sha1": "ecb68ef756dacbf15b100ba29f62f0588c05457b",
+    "sha256": "93acfab9fbb24ffa23a2a5af022b58423890d98d106d8591426d1ed502160c52",
+    "size": 524288
+  },
+  "segapico_1b126912": {
+    "id": "segapico_1b126912",
+    "name": "Norimono Studio - Go Go! Norista AsobiMacho! (Japan).md",
+    "cid": "QmSHLFb58QK3ZCmPWfQo9CQD7DSW5dWPeti3YYBnEbnzZ3",
+    "crc": "1b126912",
+    "md5": "73c083b5ed6ec16c25c3785c10e6182d",
+    "sha1": "092f458cc6bd53de74c54533dbde0e485a726fb1",
+    "sha256": "1c92d49eff5f5c8a9a0a18e69c7c02165dcdfa2203d7c73aea184cd8fb036c24",
+    "size": 2097152
+  },
+  "segapico_d86dc4dc": {
+    "id": "segapico_d86dc4dc",
+    "name": "Nurie Daisuki! - Dumbo - Dumbo no Waku Waku Circus! (Japan).md",
+    "cid": "QmZTKX7vBy2wJj2ZKbXrau7ZZEyMfZh3pq3xu6NPMxT1E3",
+    "crc": "d86dc4dc",
+    "md5": "ab7a732bad5a1b89e0c0ec445f1905c3",
+    "sha1": "d0c490db4080e276de1b1b20d5137613a6b620c8",
+    "sha256": "a60c0bcb96c9ec008fac38221987a9617b15293a1a3135e728b2ac194f80b7f5",
+    "size": 1048576
+  },
+  "segapico_b4858fff": {
+    "id": "segapico_b4858fff",
+    "name": "Ojamajo Doremi # (Japan).md",
+    "cid": "Qmd8f51nfWyCumgXz1vKfShwcU4cw8Fjx7VYZGWtka3ynP",
+    "crc": "b4858fff",
+    "md5": "36b7c8ebc1b1d3e824ccdff10134f561",
+    "sha1": "44bf0ee3d134174a736703e0e1354b4544a681e7",
+    "sha256": "1bd34698c9d148d225b7181bd0895464d772a387d1cf48293d79cdce5d54d711",
+    "size": 1048576
+  },
+  "segapico_9c31107f": {
+    "id": "segapico_9c31107f",
+    "name": "Ojamajo Doremi Dokkaan! (Japan).md",
+    "cid": "QmdWA8bF8bxVJUm5s6mp9DnLDYz5XrpSo2aG7hwtcHm2bt",
+    "crc": "9c31107f",
+    "md5": "526050e8ff22509a975312b2be86d5ac",
+    "sha1": "f96f74adbff56dfd1685fd769828dcc56429404e",
+    "sha256": "832532142e60b4cf96f6ebb5353ad38336db57bdcc15903e6e4f905ef2dc0121",
+    "size": 2097152
+  },
+  "segapico_ea435ada": {
+    "id": "segapico_ea435ada",
+    "name": "Ojarumaru (Japan).md",
+    "cid": "QmcyYXTgyQsUbuqavRTWyvY2BddVERQDLxTQt4MuWvTKVE",
+    "crc": "ea435ada",
+    "md5": "068ea34d38aacb69de6bffc0d9585d6f",
+    "sha1": "ad87574e303a6792743409599bba25c56d777f88",
+    "sha256": "0f0506dc55ce6b909ce3af589e7359b3c8ab306a3d12f4b0d3eac71b95e0d874",
+    "size": 524288
+  },
+  "segapico_287e866f": {
+    "id": "segapico_287e866f",
+    "name": "Ongaku Daisuki Snoopy (Japan).md",
+    "cid": "QmcQQyTeJ2ViTKuCuPe5hCTfcAhBeAaT9R4M4FeBQuGVqr",
+    "crc": "287e866f",
+    "md5": "80d185e9a79cefe77d41cbc9c316f424",
+    "sha1": "28c9dc463534e7e152890e0c2a105f149dca34cd",
+    "sha256": "365ad0f3c9f5afccb20f19280e877b5e4d9b016bc567dc41188799fa6edda82e",
+    "size": 1048576,
+    "status": "verified"
+  },
+  "segapico_9a74e63f": {
+    "id": "segapico_9a74e63f",
+    "name": "Oryouri Daisuki! Kitchen Pico (Japan).md",
+    "cid": "QmRQPc98qd23Kvnt4E8yTYufNGN7DMrEioXohqb27sxmFR",
+    "crc": "9a74e63f",
+    "md5": "9d5ce9214c02aa27dd35b5bdc3fb46cb",
+    "sha1": "3525ca7bba4e2c747734ae5cf0d4673052c3874c",
+    "sha256": "c2649fa65eedd95b876192a6e3490099adc4244df347e7315ea065127f7775a5",
+    "size": 2097152
+  },
+  "segapico_1e843a86": {
+    "id": "segapico_1e843a86",
+    "name": "Osewa Shimasho! Aka-chan Pico (Japan).md",
+    "cid": "QmPu3Ksgv2KjnTEYWcfefzhmWtFd6bked18i8Z8cPmqZyL",
+    "crc": "1e843a86",
+    "md5": "cdf5109e254cc3958cbe754ec4e80b9d",
+    "sha1": "3494b01637c5546c537839edac0471a1105797bb",
+    "sha256": "0431172d9d9f724a4c1a643c857d9aa5fc3402a3e17de788bd04abc462e13eb5",
+    "size": 2097152
+  },
+  "segapico_376cfa05": {
+    "id": "segapico_376cfa05",
+    "name": "Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (Japan).md",
+    "cid": "QmdLBmD2usBDEivchC4dKxca5Z2aQjpPXbNnXqfARf28JV",
+    "crc": "376cfa05",
+    "md5": "67a43e2b6a090a2d49810ca82fc8cfdb",
+    "sha1": "ff7b03a62620ea668ab41fe731af07b78db984fc",
+    "sha256": "bd7428ecf9f7a61af29e5a470181143eaf0bf1c5ba3681a8a1a93937286b10a4",
+    "size": 2097152
+  },
+  "segapico_d1aee834": {
+    "id": "segapico_d1aee834",
+    "name": "Otto Katachitchi (Japan) (Copera).md",
+    "cid": "QmbPspVsGLV4mZ19cLjS1q74GfXUMyJyibnUgLy1ULi2am",
+    "crc": "d1aee834",
+    "md5": "0a63402c8ea767e9b5419ec386f24b2d",
+    "sha1": "93c825160286b483904428eece2b14e521c20d15",
+    "sha256": "021bb6931a78b99ca13be7afa2b13d9a3af5fa2aa27e3da303b5ca84a200b303",
+    "size": 1048576
+  },
+  "segapico_9a167a43": {
+    "id": "segapico_9a167a43",
+    "name": "Ougon Yuusha Goldran Himitsu Daihyakka (Japan).md",
+    "cid": "QmPvVGWC2J9xwYTH2nKgvZy8wRQvustXpYds8qncwcc5ED",
+    "crc": "9a167a43",
+    "md5": "9ab7ee48c43236f0b16100cbb43fe3e9",
+    "sha1": "a5c3da1403fc8a17abefa68b8dbcde751cfa74a9",
+    "sha256": "c59590e5e04ea08040f3cf554c3a3e7b8ac1bbfc9f9ea468ae2f60bc7ada1da2",
+    "size": 524288
+  },
+  "segapico_b25e7134": {
+    "id": "segapico_b25e7134",
+    "name": "Outa no Canvas (Japan) (Copera).md",
+    "cid": "Qmd6j8WmnJCGTuSWQZWDGHyZfKN8LmgFbRbnBbdf2sZWi8",
+    "crc": "b25e7134",
+    "md5": "098b96c6a2d9c27be529ee00a3b4ca93",
+    "sha1": "0578314e66b2385e0520a421af695ccfef44f076",
+    "sha256": "7adaa8985207b3de745745c5644c240ee6c576ea99c2779d31a4ef8a813add3a",
+    "size": 1048576
+  },
+  "segapico_ac96a86d": {
+    "id": "segapico_ac96a86d",
+    "name": "Paddington no Sekai Ryokou (Japan).md",
+    "cid": "QmSdrtxsFpKqfwvrwCK5Pbk3zYtHWB3f51w8BSYJDEFmfM",
+    "crc": "ac96a86d",
+    "md5": "858d0e9a3f23d76c44c79b55a55ed28e",
+    "sha1": "58a8f00c0156271c5de7fa890c88a3aeaef6397e",
+    "sha256": "5e2f117b8a167b5fb75f31afc79346a1bb14cf50f06566bfd8c40d416663ac02",
+    "size": 1048576
+  },
+  "segapico_6dd450f5": {
+    "id": "segapico_6dd450f5",
+    "name": "Paketto 2 - Yukai na Nakama to Game de Kazu Asobi (Japan).md",
+    "cid": "QmaVzsu2khY9TMyAKKqaZjxZQU348VNcfp8gwHDKiUzAzD",
+    "crc": "6dd450f5",
+    "md5": "911434f73ad47c81f091aa5634d715dc",
+    "sha1": "56579b02774ec28521e1b25f16debe43bc43149f",
+    "sha256": "8bc727e95b9fe9356930a0da01fdae86014a3957dac6ba3fe44d2a0de9d983e3",
+    "size": 2097152
+  },
+  "segapico_8b393840": {
+    "id": "segapico_8b393840",
+    "name": "Pecola no Daibouken - Maboroshi no Ice Cream o Sagase! (Japan).md",
+    "cid": "QmR2E7vYqTSE7ZGphKSrQLzaxt9M1Ltx5Jc35mArckmHUe",
+    "crc": "8b393840",
+    "md5": "bb929e06a749bbf3436d07a3b5f88825",
+    "sha1": "e89f1bcd17d4d3ba6f97bd16a13336e094b90210",
+    "sha256": "f91d6d7f3e3773c7c592fa7d0ea27400ac07566a8dcb1b7b67935af0b8fd866f",
+    "size": 1048576
+  },
+  "segapico_502ccaa3": {
+    "id": "segapico_502ccaa3",
+    "name": "Pengin Ukiuki Bikkuri Suizokukan - Meiro Puzzle (Japan).md",
+    "cid": "Qmb6L3vBUnZoZvfgvGEakwpkhFHwCqmEU6sn7BBtgsq6oY",
+    "crc": "502ccaa3",
+    "md5": "b8d0620f773c57c8f8e017e82f25863d",
+    "sha1": "92efda23d282ba2d2d7bfb5490442b55795ab9ce",
+    "sha256": "b4fefc1385b816d0bb3e9af177ffd0835014509797dd24cb26eb74ef0fcfc0ff",
+    "size": 524288
+  },
+  "segapico_41e5618a": {
+    "id": "segapico_41e5618a",
+    "name": "Pepe's Puzzles (USA).md",
+    "cid": "QmWvLS16xzVFFanq7KTnBZgFwAQ5AL1BwocKZqiJBtwfDJ",
+    "crc": "41e5618a",
+    "md5": "c0cbcdb54d5f4687c4501832a9225285",
+    "sha1": "faf327f39af6e6f8957b307eacbd940fd02919a4",
+    "sha256": "e40d3258e7a85c0c16f04fa368d8cc0cf921dec070b5eb1ba964bf9c7caabab1",
+    "size": 524288
+  },
+  "segapico_bdad4962": {
+    "id": "segapico_bdad4962",
+    "name": "Pet to Issho ni Tanoshiku Asobo - Pasokon Pico (Japan).md",
+    "cid": "Qmeow7kPvdjTUiGvXscqea732bxoUSk47aCAVAt2HypYed",
+    "crc": "bdad4962",
+    "md5": "a76f08f769eb9dcd777deab2aa5638b0",
+    "sha1": "60c7404a81edcf1d558dbbd97eda0d93fc4227d9",
+    "sha256": "b205af42ab8a216e021dea4ff8c9f98e331211c331497e3eac42ce0ba521b6b3",
+    "size": 2097152
+  },
+  "segapico_4f0edce3": {
+    "id": "segapico_4f0edce3",
+    "name": "Petapeta Chokkin Asoberu Zukan - Doubutsu (Japan).md",
+    "cid": "QmeiXExRE4eSAWXTuMKBAx3DLdnaXrm966noErHUieb1Cz",
+    "crc": "4f0edce3",
+    "md5": "7b48a4fc6420424393969130e4a74260",
+    "sha1": "9782459dca47ac06890789f5299bcc0bf7466bc8",
+    "sha256": "1aa6f7cdcd174925ea5a0a5e2575c31bbb8fb017aa5041ae74d350258237877a",
+    "size": 524288
+  },
+  "segapico_e91ef80a": {
+    "id": "segapico_e91ef80a",
+    "name": "Peter Pan - Neverland e Ikou! (Japan).md",
+    "cid": "QmVn4CWSWduxYGCmaEW3J9tKzsX99ubnHwAxQFX5TQmreM",
+    "crc": "e91ef80a",
+    "md5": "a60486010e55982b361fa9f40c8e3a3f",
+    "sha1": "68acb94634912e38d3d25385bd00b3832042eedc",
+    "sha256": "a7fa9be619ba6e074d559bb3d4c51e93f88aa87dba85ef922926f84718278259",
+    "size": 1048576
+  },
+  "segapico_6dfc0fe5": {
+    "id": "segapico_6dfc0fe5",
+    "name": "Peuraideu Rokeui Moheom (Korea).md",
+    "cid": "QmURjeXqnkobkvepa77eFfQKaTE6MELiBtRRgzoiCvQDKj",
+    "crc": "6dfc0fe5",
+    "md5": "574ad2cebfc12ba5d6e5b0e6f58bd5de",
+    "sha1": "adb29bf6f37a028db9f3c677596921af96e52d43",
+    "sha256": "9ea8a769f94cdd02cb72a70cc53d23b211d2ed86649081bc03b3978a6fb95e84",
+    "size": 1048576
+  },
+  "segapico_02c3c4fd": {
+    "id": "segapico_02c3c4fd",
+    "name": "Pico Soccer - Mezase Soccer Senshu (Japan).md",
+    "cid": "QmZ6XsMc72x7ovV2a1cqotiw31SXrUWdUPM7T9sJxpQp44",
+    "crc": "02c3c4fd",
+    "md5": "cf844d37c97e0f406e6a3883dbcbaad1",
+    "sha1": "94a10f18bcf6bea864f8223638850a55aa2be285",
+    "sha256": "ef671ee3ba14256c92c6e759a44aab5e652edc5bfb94d2239fb1985a72d0b15d",
+    "size": 1048576
+  },
+  "segapico_442298ee": {
+    "id": "segapico_442298ee",
+    "name": "Plarail Pico - Plarail de Asobou! (Japan).md",
+    "cid": "QmVGXouhMs738M26hFTi3fCZ1TvMmfY6z1bSNMBEpmdAj5",
+    "crc": "442298ee",
+    "md5": "c0c70c27bf76b5913b581de4fe58c12c",
+    "sha1": "e40812561106e177b7874e6f7827aaad26b1740d",
+    "sha256": "bac6168ea086a2d00836984180a0ee7f00646942006ed3cf0bdd8660b161ec65",
+    "size": 2097152
+  },
+  "segapico_edf2218b": {
+    "id": "segapico_edf2218b",
+    "name": "Pocahontas - Riverbend Adventures (USA).md",
+    "cid": "QmVESwiuqRHewdgVCCSwAysyjepEYScihBKLmGZXF7ag3P",
+    "crc": "edf2218b",
+    "md5": "9e69816c04e46e20c181a478548e5adb",
+    "sha1": "b2c70bb26f9fed925b6beab27db73d8fc7e21cd7",
+    "sha256": "0289c23f8dedb62ca541977598e8b27b637aa9de84ebe89da41acb2518745a20",
+    "size": 1048576
+  },
+  "segapico_deefbfd9": {
+    "id": "segapico_deefbfd9",
+    "name": "Pocahontas (Europe).md",
+    "cid": "QmbrtbsLHywpP3B7d96jMgecuCMZhwJtJtoCUuRy1AKy1S",
+    "crc": "deefbfd9",
+    "md5": "99b591162383355a437d589e03380528",
+    "sha1": "8376f01619def050fa7a2f53d48aa32ab0e860cd",
+    "sha256": "c613cbf2b083036031846f2082abe3bf4950970e5f856c2c4dbfc1f6555b326b",
+    "size": 1048576,
+    "status": "verified"
+  },
+  "segapico_bb46bb44": {
+    "id": "segapico_bb46bb44",
+    "name": "Pocket Monsters - Suuji o Tsukamaeyou! (Japan).md",
+    "cid": "QmdaKdi6WrxXidLuQKGF89MbGnJEPL5zD2faoBpY7oYCWT",
+    "crc": "bb46bb44",
+    "md5": "4fbc23760afa453b73998edcec6ba103",
+    "sha1": "42f0b341e99ebf1596d7c4f239425ebe2e9cfb77",
+    "sha256": "aa04ae6f2899208a56419f419d2cb5bcc4e3a5ec0c4fe8585302a758c70f350f",
+    "size": 2097152
+  },
+  "segapico_ada52e72": {
+    "id": "segapico_ada52e72",
+    "name": "Pocket Monsters Advance Generation - Hiragana Katakana Kakechatta! (Japan).md",
+    "cid": "QmSsRXXx3u1bFmbkF5KQapTzcWFR7cu5gQMu6MwZKZVRCE",
+    "crc": "ada52e72",
+    "md5": "f36c362a36cdc1c9fc038577a6a78909",
+    "sha1": "1fac4b9c373d441c0ba27e8a976b113cadaddfc3",
+    "sha256": "aedf274d4185c5c6634a4c3c4d91299a4a698f1efac562c7c19b631b1c768dda",
+    "size": 2097152
+  },
+  "segapico_c3b77d13": {
+    "id": "segapico_c3b77d13",
+    "name": "Pocket Monsters Advance Generation - Minna de Pico - Pokemon Wai Wai Battle! (Japan).md",
+    "cid": "QmT9gGVo8vKLxYNgCBe6KqXGbxX3FuSzewe7ELCdoNwYdG",
+    "crc": "c3b77d13",
+    "md5": "a121e0bdea5a35199a830c4733f71195",
+    "sha1": "97b88d0b09376b108d611e036e415c37d67bb943",
+    "sha256": "9b2b46243da4386331a3212875e0bce6ab90010b972ea5b5e91203591b49c3cf",
+    "size": 2097152
+  },
+  "segapico_265a764a": {
+    "id": "segapico_265a764a",
+    "name": "Pooh-san no Hajimete no Eigo (Japan) (Rev 1).md",
+    "cid": "QmfXKyweoWsJGkfpP3mFUmmoM98motoQkcRnsEEQAEFaCV",
+    "crc": "265a764a",
+    "md5": "2cbc051b8be53419b89a6a5467d23db2",
+    "sha1": "a6fc3b973518678caf89605f841cad6407c7e861",
+    "sha256": "c15230785d568bab4b37e230dce87436bf4fe6074259bd21d28c8a7cf53ddc6e",
+    "size": 2097152
+  },
+  "segapico_bd9626b7": {
+    "id": "segapico_bd9626b7",
+    "name": "Pooh-san no Ichinichi (Japan) (Rev 1).md",
+    "cid": "QmUckUbefT4MyokNnunPNdTsCqyGzeyo5mKQ84RqWtJSzW",
+    "crc": "bd9626b7",
+    "md5": "b16ed178d6fd3b449c395ec9aed84f81",
+    "sha1": "6d9dd74c9b1b22bd173d00be88ce87d3e32bde55",
+    "sha256": "763a1845d86a98a0c00ca0bcf314dca0a217905c485265e60f9369276e287c92",
+    "size": 524288
+  },
+  "segapico_4811d334": {
+    "id": "segapico_4811d334",
+    "name": "Pooh-san to Tanoshii Nakama-tachi (Japan).md",
+    "cid": "QmbcDSqcXY2gedjaMNUBJTb35XmxpD87KJyZgD1aC6bPh4",
+    "crc": "4811d334",
+    "md5": "c58a5395987a737d118cddc1dabdd585",
+    "sha1": "7321cdecb77d27e7fde6cd3937a24d24de6d35df",
+    "sha256": "3fc145d6d332395c131bafba5f84251a8e87659429b19219e8c68aaa3056bff1",
+    "size": 524288
+  },
+  "segapico_1596dc6a": {
+    "id": "segapico_1596dc6a",
+    "name": "Profesor PICO en el Mundo de los Colores, El (Spain).md",
+    "cid": "QmdkKHdAAMopwd7Lw1icBRk6dPqh4SeiPfU2aDLkgWkW6h",
+    "crc": "1596dc6a",
+    "md5": "b7012fef5ce7517dd38628369259b2ff",
+    "sha1": "56c27945258c46bad7f6b71f57838184349d5882",
+    "sha256": "d8ea1a0f93e92ec0076b4088da17cdf7d05682716108c58df8a7a6493da60f20",
+    "size": 524288
+  },
+  "segapico_2870805c": {
+    "id": "segapico_2870805c",
+    "name": "Professeur PICO et la Machine a Couleurs (France).md",
+    "cid": "QmUWms9tYCnhyhToxggCrWLY7VBXrizaNnz9TFizTF7LKE",
+    "crc": "2870805c",
+    "md5": "1060c923cd687bb5293a81ab3c268959",
+    "sha1": "cec40575c1ddbb9c73241346b9e6510820c28b7a",
+    "sha256": "18ab981eb2b38dd454cab7fd5c87e2d3b6d732445a395d7f1916fc8b2ccf5ea4",
+    "size": 524288
+  },
+  "segapico_8aa99b73": {
+    "id": "segapico_8aa99b73",
+    "name": "Professor PICO e l'Enigma della Scatola di Pastelli, Il (Italy).md",
+    "cid": "QmcvMB6Bd65YNDngqTeHYFvsVFyWGZhu7oztw3351AxgG6",
+    "crc": "8aa99b73",
+    "md5": "16544bafa6b2ec6d21359d83a718ffbf",
+    "sha1": "831816248c39133f5251b0a4bf5d92515932d536",
+    "sha256": "9233cb03d292bb366461c586852af1cf14cfd98516be8a90ec5c075d48d23d2c",
+    "size": 524288
+  },
+  "segapico_d2b063ed": {
+    "id": "segapico_d2b063ed",
+    "name": "Professor PICO und das Malkasten-Puzzle (Germany).md",
+    "cid": "QmS2tTeEHgacTNokVqhpBM9fGsGc67XRDbtD2oeSFBust8",
+    "crc": "d2b063ed",
+    "md5": "df117c7d7d35d90748ea21283477636f",
+    "sha1": "429777d4b1204e3341bb83d72e0eb361a9f3623e",
+    "sha256": "52f8d6b1a221d5681ecdf2d2ccbbd1e557e54e9b80143c317bea2ca3f3f339db",
+    "size": 524288
+  },
+  "segapico_88d92655": {
+    "id": "segapico_88d92655",
+    "name": "Puff e as Quatro Estacoes (Brazil).md",
+    "cid": "QmcdKusLXCmedrgY8JnRiqWAc5ycYoMrY6M4QW2QVBy8iq",
+    "crc": "88d92655",
+    "md5": "a4b14bff32918f96e4524862067aaac3",
+    "sha1": "02b84b7bf5fad09ea83ee63bfd4c4296050ad8a0",
+    "sha256": "fb0e1cec84736a90deddfbf979f99eb23b901d2075a70183508371f490f3d4ac",
+    "size": 524288
+  },
+  "segapico_876a43a8": {
+    "id": "segapico_876a43a8",
+    "name": "Quiz ni Challenge! - Doraemon (Japan).md",
+    "cid": "QmYhZtw1p5CdLEiggb2vKEkBUPAza4HdraSwUS4sRFgwy8",
+    "crc": "876a43a8",
+    "md5": "f4a486e9f0df9bdf8bba10a9b2e9ae45",
+    "sha1": "50214e02c82f9d85efc2dcbca6e1c82dd86b7854",
+    "sha256": "4676c00f948d236335964afebe55ea1f3d5fc68a92e1fbef6748ccd1d13cff72",
+    "size": 1048576
+  },
+  "segapico_466c69db": {
+    "id": "segapico_466c69db",
+    "name": "Race ni Deyou yo! - Ken-chan to Pepe - Boku no Kuruma de Daibouken (Japan).md",
+    "cid": "QmanWdxhdhW7VbVkBmauy7Qjxwp7HTtfPdDKqkTVr4UGwV",
+    "crc": "466c69db",
+    "md5": "7d687b6e145c67a036ccdcd305c3396b",
+    "sha1": "af6dde5231081e91e88235765ab3d340d783ddd3",
+    "sha256": "950b094dd14693dfd0d883bef39e37b076ca23c44dac891140cce2bfa1b197a0",
+    "size": 1048576
+  },
+  "segapico_e0e0fef1": {
+    "id": "segapico_e0e0fef1",
+    "name": "Rei Leao, O - As Aventuras De Simba (Brazil).md",
+    "cid": "QmUiuqwwx3fVosE3EVUa5VAf7Z2g9DvttJ5rPk2JSefP6h",
+    "crc": "e0e0fef1",
+    "md5": "beac8448a5360423e8abd688a6ac28ee",
+    "sha1": "32c18f081935a2752c942a1570aedb9b9b4ade18",
+    "sha256": "a734b4457275b48bac931ac08b1cf9e181b69a906df4ff4ccf639ddae4abb6e3",
+    "size": 1048576
+  },
+  "segapico_1652ea8d": {
+    "id": "segapico_1652ea8d",
+    "name": "Rhythm Pico - Pippi-chan to Rhythm Asobi (Japan).md",
+    "cid": "QmdpmXMipxYtp6mFiUc3RT3mPK3omrNjPFDtV5Hfq4h3dT",
+    "crc": "1652ea8d",
+    "md5": "193ef26bdb399925653ccc4ccef05d2a",
+    "sha1": "f99a6701e6295edb41e887f50474a873cac3db57",
+    "sha256": "b6a0df0ac3c2baed0f3630b468b87af8ff01e6ab8d4c0067ff89dc4ea2c0d06f",
+    "size": 2097152
+  },
+  "segapico_d529aacd": {
+    "id": "segapico_d529aacd",
+    "name": "Richard Scarry's El Dia Mas Ajetreado de las Vidas de Felipe y Gusy (Spain).md",
+    "cid": "QmbNKnd6tXQXDC57XYMzugQr4vC1unNGy32xjajn2fdzak",
+    "crc": "d529aacd",
+    "md5": "ae1e176060a4a289d0c114c8485dfb6f",
+    "sha1": "e65c808a51499c254ec24cbf9fb611a10e7505ff",
+    "sha256": "db40bbbb23219f0fd308791d5bd9f850418ba93d6b4977d61c07e08e45e81770",
+    "size": 1048576
+  },
+  "segapico_42007e92": {
+    "id": "segapico_42007e92",
+    "name": "Richard Scarry's Huckle and Lowly's Busiest Day Ever (USA).md",
+    "cid": "QmZQmyyTcyLUze6P2RERtjdXtiK8BTusaU1JH4r5v2ncVo",
+    "crc": "42007e92",
+    "md5": "e1ca483d74cb58edf1882f690b6ad711",
+    "sha1": "ce0b387427226baa4067d6eacebe90cef760a18e",
+    "sha256": "ca28054a0ee97dcd89c6a3ab95fcde991d0a5500367b8a9e205100467dabfb5f",
+    "size": 1048576,
+    "status": "verified"
+  },
+  "segapico_2573131a": {
+    "id": "segapico_2573131a",
+    "name": "Richard Scarry's La Giornata Indaffaratissima di Sandrino e Zigo-Zago (Italy).md",
+    "cid": "QmafdX7ZYESZwDULQnZNyzfJFBzGssRCxD57QxXU3Gsemt",
+    "crc": "2573131a",
+    "md5": "eac009b6b92ff2c3d4befe236424820d",
+    "sha1": "0e5c14fe1fd3360b9269fdf219decb7ef4480304",
+    "sha256": "693d83aad2ecffb9de36a34cb2f0934f0e260633ff34da0f340a10be841c775b",
+    "size": 1048576
+  },
+  "segapico_53f94256": {
+    "id": "segapico_53f94256",
+    "name": "Richard Scarry's Une Journee Bien Remplie pour Cassis et Asticot (France).md",
+    "cid": "QmY6vgjBV1ArkCMjecXaiKEpTpnQ7wEdv7oSNe6DGj7Xex",
+    "crc": "53f94256",
+    "md5": "d45b9955cb3ae27cc312d3d716981012",
+    "sha1": "9d9cdd8281e7dadb6668f35692e42fbde74d6349",
+    "sha256": "3e31bb43ba0cbd934d442cac033e853cc62778b6a12352acd80d48e0eb8970d2",
+    "size": 1048576
+  },
+  "segapico_659d7fee": {
+    "id": "segapico_659d7fee",
+    "name": "Richard Scarry's Viel zu tun fuer Huckleberry und Egon (Germany).md",
+    "cid": "QmWaaU8kqqrMA2nzamTabgE4unEfU8EHexnCQFTKK61Vnw",
+    "crc": "659d7fee",
+    "md5": "1414d394fb8bf337652c7489807bc85d",
+    "sha1": "d1e3e9d3dba32c39d53cfbe76f0d233ec36bab79",
+    "sha256": "37c30457408d918452188f033e10bfd877330a48bc41df1fe803d829ae75daf4",
+    "size": 1048576
+  },
+  "segapico_1eb9b7f6": {
+    "id": "segapico_1eb9b7f6",
+    "name": "Saa Shuppatsu Da! - Ken-chan to Pepe no Wanpaku Drive (Japan).md",
+    "cid": "QmYwvV7MXBt2oDDC8bBhhova3QjeMQRkeuRiw8SRsovR3J",
+    "crc": "1eb9b7f6",
+    "md5": "09d6fc0a466263d1aa14330036cf4bec",
+    "sha1": "bed4ce255b139f0e71eb3197a058075e0c051aa1",
+    "sha256": "d30909249ba5c3af60ccf09231da065fff24acc3bc75d611edffdd726c8f6794",
+    "size": 1048576
+  },
+  "segapico_836f6478": {
+    "id": "segapico_836f6478",
+    "name": "Sanou Kaihatsu Series 1 - Atama ga Yoku Naru - Zukei Ninshiki (Japan) (Rev 1).md",
+    "cid": "QmXrgyHWPfF8dkuf2rxUP2wEFUk9vanEcMV9Bwu7zxPdeu",
+    "crc": "836f6478",
+    "md5": "07837733934a39359876ce0f85d940d9",
+    "sha1": "6194c99ac07ac343dc98fee23a8d77aa7049d779",
+    "sha256": "e08a9cfd37abf94211c165ac83e212a6e2fa47570aca45c2902a091842b5b96e",
+    "size": 524288
+  },
+  "segapico_c8a23b22": {
+    "id": "segapico_c8a23b22",
+    "name": "Sanou Kaihatsu Series 3 - Atama ga Yoku Naru - Hikaku, Bunrui (Japan).md",
+    "cid": "Qmem7o3R5X7dTzcQpfBX5ouPyqmsRHD7k6H3jrePTkXafV",
+    "crc": "c8a23b22",
+    "md5": "ada9e35c0a6fde89670c8bcd0b628e84",
+    "sha1": "03dc707836be4ceaeea1ddedc5b909d8c577b504",
+    "sha256": "3522c3b32ec103c7ffb005c40fa30c3348a983a584071cc98d054969e37e1e79",
+    "size": 524288
+  },
+  "segapico_2a34282a": {
+    "id": "segapico_2a34282a",
+    "name": "Sanou Kaihatsu Series 4 - Atama ga Yoku Naru - Suiri, Kousei (Japan) (Rev 1).md",
+    "cid": "QmPrvHC7zMP1dtoB45qDJMDQYQvFPtUoH91hFrDNCVcHZZ",
+    "crc": "2a34282a",
+    "md5": "3444047c90fbcb189010414d7d62dc8a",
+    "sha1": "aa0b7e4c9dac198214fcc25d3ee185b63bd1813d",
+    "sha256": "b4fb80eb5e810df580d006e29a9b0db2ec5025e12c195d9d488846750388b9e0",
+    "size": 524288
+  },
+  "segapico_6340c18a": {
+    "id": "segapico_6340c18a",
+    "name": "Sanou Kaihatsu Series 5 - Meiro - Kioku (Japan).md",
+    "cid": "QmSwnhqX9Bt5MGwbSM7ckTJ7Jo7QNbXJdgppcQkbhYaTDQ",
+    "crc": "6340c18a",
+    "md5": "ebd5aaebfeef22f6e2bb3a2ad87276c0",
+    "sha1": "101d5652ffd704788f1f44b671be843e3430e58a",
+    "sha256": "81dd3048a3b33cbb4c4d26535501b8e20bdb352f664e852134902cb88da6d8a3",
+    "size": 524288
+  },
+  "segapico_0444049f": {
+    "id": "segapico_0444049f",
+    "name": "Sanou Kaihatsu Series 6 - Atama ga Yoku Naru - Ouyou Mondai (Japan).md",
+    "cid": "QmTG2WoQNuMC1n9GEid42F429kfTWTHUpnMoEXgXLMaCy8",
+    "crc": "0444049f",
+    "md5": "95373b839d774965ea1daf070696ed17",
+    "sha1": "cbfbbc8aea7116e319582ecd340fabae855881d0",
+    "sha256": "217fa5b38b745a9853d49c919e43b84d9b17402289afb7166addeed1674e9215",
+    "size": 524288
+  },
+  "segapico_732373f6": {
+    "id": "segapico_732373f6",
+    "name": "Sanrio Festival - Tanoshii Card-zukuri (Japan).md",
+    "cid": "QmVaSt5ePcJs42ZQ22wAgxMyRw97Jx5NbWR4g78uvsiViL",
+    "crc": "732373f6",
+    "md5": "6c07bd38a6b6a986cb9ef2343768add6",
+    "sha1": "7dad2ad9f60e508d264efd048686788cfdd2f73f",
+    "sha256": "ae05de1a4c1ac5d3eb8122723cf2f29eb94cd7e44f0349f04ed27d85f2bc0d32",
+    "size": 524288
+  },
+  "segapico_a947a477": {
+    "id": "segapico_a947a477",
+    "name": "Sanrio Puroland de Dance Carnival - Minna de Oryouri Osaihou (Japan) (Rev 1).md",
+    "cid": "Qmf7qhqVQT8iSvqG5XFgL43hdpRwEPxQbeT9iz3BRSPf1K",
+    "crc": "a947a477",
+    "md5": "a871c4f12ab60b54f140047d2c425ac2",
+    "sha1": "80cf679b4d542e0c9dde7d026f4a37bd8dcb7c29",
+    "sha256": "ace4e519191553fa8b18c3f0e93bb1c64dcc86e0d27eb13a0dac0c2123f66479",
+    "size": 1048576
+  },
+  "segapico_90d39634": {
+    "id": "segapico_90d39634",
+    "name": "Satonaka Machiko no Tanoshii Origami (Japan).md",
+    "cid": "QmfGQPKFBTasHerCa5TC6LUoe4hhBdo1SbAucJ9zZQSdMh",
+    "crc": "90d39634",
+    "md5": "755d372d57ed45e36f2f92d797bf1138",
+    "sha1": "531db0b4bce64d312e73b97341e4eaf134506068",
+    "sha256": "2019b118c8322c35896e60791637630ea8ee631c9e2dea09153168ab2da493ae",
+    "size": 524288
+  },
+  "segapico_c9334ac9": {
+    "id": "segapico_c9334ac9",
+    "name": "Sekai Meisaku Gekijou (Japan).md",
+    "cid": "QmNd65yhsT1xRw5VUorhTMD1kYx5UpNyz4tYC929ocaze4",
+    "crc": "c9334ac9",
+    "md5": "d079c6c2efaeda885b013b745b643735",
+    "sha1": "8da44d61ada02fc56b528948be443dea00709a07",
+    "sha256": "a1db2ec9b921bad3176125fe7de7d099bb534f039e08dcd51f3c17c41fbaecd5",
+    "size": 1048576
+  },
+  "segapico_ca1bbeef": {
+    "id": "segapico_ca1bbeef",
+    "name": "Sesame Street - Alphabet Avenue (USA).md",
+    "cid": "QmThSEttMAAdL1Qfn3xNVrNUREpcJzT5tWeerib5og23dS",
+    "crc": "ca1bbeef",
+    "md5": "2d899b33ea220d58822cc72f5b31a282",
+    "sha1": "62ce7f387eb9f61bdef3f74df8aff98106b022da",
+    "sha256": "2d3a2fce8bbe4e8ccd12c5b61cea7c5f9633905944a7c02ca7d58f548d6ac5fc",
+    "size": 1048576
+  },
+  "segapico_8e12c06d": {
+    "id": "segapico_8e12c06d",
+    "name": "Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana Casino de Mojavegas Dream! (Japan).md",
+    "cid": "QmQQhCViqSB7uvY9EfzWf8LgfAEgUMgvJxE4HNt8YHug3A",
+    "crc": "8e12c06d",
+    "md5": "4937cfdc8fa758eaa689464e8fceb903",
+    "sha1": "88d1f8ce5ef824f1a989bed02f4dbf9b7861ee05",
+    "sha256": "d5298adc204690a09f242ae6f2aa5f4ab5f6aa7f7e850fdba35f1f8bb5f261d2",
+    "size": 1048576
+  },
+  "segapico_42a578a8": {
+    "id": "segapico_42a578a8",
+    "name": "Shichida Makoto Kanshuu - Unou Image Training - Sansuu, Eigo de Mojars ni Chousen (Japan).md",
+    "cid": "QmV2MMnZSg1uxM3mHKyCsXxMgSEiGbotdo4H9sRUH2BVNp",
+    "crc": "42a578a8",
+    "md5": "3b717970c330811c734cb34b313f8d48",
+    "sha1": "5ca5f0ef8741acb5d58ce0f61e6789ec2adb00ea",
+    "sha256": "b6ccc18583a96be9a0b67caccef32450e76d8990f6a144ab97a06accda3bd118",
+    "size": 2097152,
+    "status": "verified"
+  },
+  "segapico_00239298": {
+    "id": "segapico_00239298",
+    "name": "Shima Shima Tora no Shimajiro - Shimajiro to Yume no Kuni e Daibouken! (Japan).md",
+    "cid": "QmNfa7wXsesrrDfcgRr3SQ3ycXQQQvjCenfkuxq5MNArzr",
+    "crc": "00239298",
+    "md5": "c6b56cdd42190bdd334b9d23e88153ac",
+    "sha1": "606f6794cc18120684eff36f06e29a3d2f373b93",
+    "sha256": "33fc04adfc440c7b87c06a4f73ca036006a4b0d243314aabbad8a1a42c18743b",
+    "size": 4194304
+  },
+  "segapico_d228a783": {
+    "id": "segapico_d228a783",
+    "name": "Shima Shima Tora no Shimajiro - Tanoshii Ichinichi (Japan).md",
+    "cid": "QmStv1WbUz8sE5s7GYLZHrm6j2VDvEzaEw7xgaEXdJPKXH",
+    "crc": "d228a783",
+    "md5": "1d4194098c9cf794429c63d6b0685f24",
+    "sha1": "1b2c4a81c88a86274f0a24f63ae4ee59339b8e67",
+    "sha256": "3efb985c40b826276c2e3baaf35cbb8099f1e0bf46f2f0edf560d22c0dfe6061",
+    "size": 2097152
+  },
+  "segapico_92097565": {
+    "id": "segapico_92097565",
+    "name": "Shin Ultra Hero (Japan).md",
+    "cid": "QmRPtC52jTzwtMwhmZ1k2TJzQU6r9WGKHYqVoAcrJJEuZA",
+    "crc": "92097565",
+    "md5": "0c703f3bda93d4a9d416070b5cce416b",
+    "sha1": "db7648dd4b9c54f46b5248ee9c726848ae59998b",
+    "sha256": "284a8b14f9c04a41bcfb9cf3c044861a8db60b314545561fcc09587edb7be0c8",
+    "size": 524288
+  },
+  "segapico_203dc701": {
+    "id": "segapico_203dc701",
+    "name": "Shin Ultraman Pico - Ultra Fighting Base (Japan).md",
+    "cid": "QmPtQRWeB9sGfEm1FELy5cR4pWB1oDLcuPwPJ36GfuNfDV",
+    "crc": "203dc701",
+    "md5": "35d9a87e8b962ff0c3399162aae70e30",
+    "sha1": "4d2d17bddb03b4ab179f4db1ffa2482137b51a29",
+    "sha256": "a48324731c68bdac4faf91090eca4501c57d64929d2b8069f7fde2d609477f6c",
+    "size": 1048576
+  },
+  "segapico_cfd50a38": {
+    "id": "segapico_cfd50a38",
+    "name": "Shinseiki Ultraman Densetsu (Japan).md",
+    "cid": "QmVffxYC25pvfy27xnZe1QeWHvrfCHYYasp6yqeuAFRSh8",
+    "crc": "cfd50a38",
+    "md5": "82acf55dbd92b59ae43cd6c479a1f750",
+    "sha1": "971706bd87e7d611ddf379ad87fad7b3560f0ecb",
+    "sha256": "d8cdfe0247a777fb4756705f8f40eac8e88447acdef62271bae8a63217bbe363",
+    "size": 1048576
+  },
+  "segapico_6b2493a2": {
+    "id": "segapico_6b2493a2",
+    "name": "Shirayukihime (Japan).md",
+    "cid": "QmWoaJsD5V3yfvGc2bvXrg4tkWzi1zBRFst3z8J8Bk4NSF",
+    "crc": "6b2493a2",
+    "md5": "c3cccc6269a7b1cdba34fa38f33d1b06",
+    "sha1": "daad822ffbcf1784f5cda10984d4fc62352b7844",
+    "sha256": "e11fc176cadae9fe727baaee093f6f057abcac4e13af238ffe73bac5bb7f20dc",
+    "size": 2097152
+  },
+  "segapico_8b5e7490": {
+    "id": "segapico_8b5e7490",
+    "name": "Smart Alex and Smart Alice - Curious Kids (USA).md",
+    "cid": "QmUajSgsuxNwaw4m9fKktAwKGzQuYo6pLDvRYVtkMWtStf",
+    "crc": "8b5e7490",
+    "md5": "a23897661b56e03fd89767fd37b5c3f9",
+    "sha1": "1d809139fd2926107a9fae6270b10615c6f6477f",
+    "sha256": "51b74257cd135a08a848292e0c55be4d4e7d3c35614ea50ae0f8c44c49e804a6",
+    "size": 524288
+  },
+  "segapico_b76cd97c": {
+    "id": "segapico_b76cd97c",
+    "name": "Snoopy no Gakugeikai (Japan).md",
+    "cid": "QmNQYUQNhVqmH64Ashp6K3CgAQu7TQE6EuNaGfeGxy5h3o",
+    "crc": "b76cd97c",
+    "md5": "70690fe656da25e38a071103fab451f9",
+    "sha1": "6d6b49249cd4513d59e1c863fed5f273113d7e9b",
+    "sha256": "bd613e5f5f074729a288376e2a409fe1a24cfa44486410e6b4db40da7aac43a7",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_40d9252e": {
+    "id": "segapico_40d9252e",
+    "name": "Sodatete Manabu Doubutsu Oukoku (Japan).md",
+    "cid": "QmbBR4T1auXQeA9CkBHjsU7xFPqckVVSyaMcCuURvVNTRP",
+    "crc": "40d9252e",
+    "md5": "60053029fef0bda3f19e5d9b9afe265e",
+    "sha1": "6783a8a25bf1f71ceb7b109ddce89c94e5f492b7",
+    "sha256": "31ebc1bb7b9857a5c7ffd315652166734dddd215f57dd8b2b69b50d4c30bbc52",
+    "size": 524288
+  },
+  "segapico_4363a1e2": {
+    "id": "segapico_4363a1e2",
+    "name": "Sonic the Hedgehog's Gameworld (USA) (Beta) (1996-08-08).md",
+    "cid": "QmNf3WPSuVRtq7ytePEkm1oJx7MQBJN5RDnf2hG6eAbhFp",
+    "crc": "4363a1e2",
+    "md5": "648fb1b125d5d09949778caa8dce2410",
+    "sha1": "935b925c7a6ed36519b756f33aa2ce2240610471",
+    "sha256": "3bec9883fb58b9d8a8a29dc02dae7d7ac7bafc72437f57b759f49d2d44730601",
+    "size": 524288
+  },
+  "segapico_e472a795": {
+    "id": "segapico_e472a795",
+    "name": "Sonic The Hedgehog's Gameworld (USA).md",
+    "cid": "QmfZp8utFzHLA67DQUV3BV9D2nmTCzv9uLGBQU7ka3DobM",
+    "crc": "e472a795",
+    "md5": "825674b726b2545019c4b7bdee05d6b7",
+    "sha1": "839d8be99eabf371bb992166471c877db6f6e265",
+    "sha256": "af6cff0adebb080197f018894621f15abcee73eadcc98d9d39da3981c84ffca7",
+    "size": 524288
+  },
+  "segapico_d0ff9b7d": {
+    "id": "segapico_d0ff9b7d",
+    "name": "Sootjanara Yeohaeng! (Korea).md",
+    "cid": "QmNx7eL8jhj2d5awXYoQrH84VfzaJnWfUKMPAyNTBEqicA",
+    "crc": "d0ff9b7d",
+    "md5": "75bf4d7bf847e7678e2923ce636bcce6",
+    "sha1": "5370e95ac01f005bd810d8dc84e765335d64603c",
+    "sha256": "0fff41f92aa6e21f765c5f86e30066c4dc108ce81a24626e34f54278d5637ecf",
+    "size": 1048576
+  },
+  "segapico_1f633203": {
+    "id": "segapico_1f633203",
+    "name": "Soreike! Anpanman - Anpanman no Chie no World (Japan).md",
+    "cid": "QmX1fHxJV7dKmcbuddFkDm7Edzz8U14V5KZ8scDGu3HpPp",
+    "crc": "1f633203",
+    "md5": "b8732f0eaac07a1e109c321f3e6f5e87",
+    "sha1": "f663e6dc7e5919773571e84b27e1882160dd1c01",
+    "sha256": "340fa678b9cbc0b0de8d48fcbfee8f991f4bd840e73c5033f68f0e9732cfca99",
+    "size": 4194304
+  },
+  "segapico_0ee99056": {
+    "id": "segapico_0ee99056",
+    "name": "Soreike! Anpanman - Anpanman no Hitori de Dekichatta! (Japan) (Rev 1).md",
+    "cid": "QmZmtkCLCvFwJnMMNu7dFLLoM31FWH9HBrsBA8iKbatUNM",
+    "crc": "0ee99056",
+    "md5": "670e71e290c2a9e8a809db31c08f4d13",
+    "sha1": "af10335af9c0a61fc6d6390ef648038e7776a57a",
+    "sha256": "7dfd9d86caa0b246cd1130436db8d76ca47954b9bb8e239f98d77ff98aed3a9e",
+    "size": 2097152
+  },
+  "segapico_f2e1d899": {
+    "id": "segapico_f2e1d899",
+    "name": "Soreike! Anpanman - Anpanman to Denwa de Asobou! (Japan).md",
+    "cid": "QmRzcSN5fFWVg3zKsuHH58Jqd3Te5EeUXF1SLYWxwudy21",
+    "crc": "f2e1d899",
+    "md5": "76d59be76f5da1e22a2dd6751b8a0978",
+    "sha1": "b5b06d19a41c677afa046e47ad674242c765de06",
+    "sha256": "4f6841be3f9fe494b840e1172222ae0a1196ca74ef9e59ae502c2e44f0ef00ee",
+    "size": 2097152
+  },
+  "segapico_9ccd5cae": {
+    "id": "segapico_9ccd5cae",
+    "name": "Soreike! Anpanman - Anpanman to Kotoba Asobi (Japan).md",
+    "cid": "QmPHfJmuUhG23oY3AT17rUUFpZdVjWZoxA87q5RYkz9tkR",
+    "crc": "9ccd5cae",
+    "md5": "765287399babb2fe7ba2dccbb3561e0b",
+    "sha1": "99bcf3eb0ca4671629739bd575e2356634cee466",
+    "sha256": "0aa9e8588e276faf1e977df35b85cd8e3edb8699ef598caab968e30d1714cd91",
+    "size": 2097152
+  },
+  "segapico_515ac6ad": {
+    "id": "segapico_515ac6ad",
+    "name": "Soreike! Anpanman - Anpanman to Suuji Asobi (Japan).md",
+    "cid": "QmZ7j2SewxzxXdi25WnthJb3KHDF56P25SR5wguoVFesfV",
+    "crc": "515ac6ad",
+    "md5": "762fd45447329b9b238bd15a2e29ba64",
+    "sha1": "b79329d8a4327c6627713d533d5e108ea5fbbee4",
+    "sha256": "f64ab19d69f5b4f04147079451f6c8081a35d045d253b897f37246359de52929",
+    "size": 2097152
+  },
+  "segapico_ad3ef418": {
+    "id": "segapico_ad3ef418",
+    "name": "Soreike! Anpanman - Anpanman to Tanoshii Drive! (Japan).md",
+    "cid": "QmUxEW9Fx5DZFmUuD62iW84VebaEWYRL6PF6Qx28B6Mnb9",
+    "crc": "ad3ef418",
+    "md5": "e15af18c62a7a2669922bed2959ed506",
+    "sha1": "000808ad7fa7120976f2d579c23ce8662e721b92",
+    "sha256": "8b539b205321ae1b0e598271ebee606659c24fc57a67e7d9efba38c65aed81af",
+    "size": 1048576
+  },
+  "segapico_1b28d597": {
+    "id": "segapico_1b28d597",
+    "name": "Soreike! Anpanman Eigo to Nakayoshi 2 - Tanoshii Carnival (Japan).md",
+    "cid": "QmeM4o9s4s8yj2kfqDnARa1G3wp3W5eULBEdFuC585uuE7",
+    "crc": "1b28d597",
+    "md5": "eef32ee9e6a796a20e38b6a09ddb4aa2",
+    "sha1": "b61bb5b7ef0572b50c806d4a7ea01f8db04f814d",
+    "sha256": "cdb5699211fead9b1cd5ca78fefa0258a570180de5da47ef0d9b89a502ed56cb",
+    "size": 1048576
+  },
+  "segapico_700e90db": {
+    "id": "segapico_700e90db",
+    "name": "Soreike! Anpanman Eigo to Nakayoshi Youchien de ABC (Japan).md",
+    "cid": "Qmf92Z5BE1BXmeMc18YLf7mcha19dmUgjHMdFH373eFKXG",
+    "crc": "700e90db",
+    "md5": "265e3fbfa9fb9de2e69165ea4ce18fd3",
+    "sha1": "fc07a121ca26e6ccb32e09b15e55bc72c3a83848",
+    "sha256": "9020adfb3272011ef0727e449af0a7b2644fce91606258ace9bd1bb3bb1af9e3",
+    "size": 1048576
+  },
+  "segapico_75bd0685": {
+    "id": "segapico_75bd0685",
+    "name": "Soreike! Anpanman no Game de Asobou Anpanman (Japan).md",
+    "cid": "QmNfYWGFKbksMC3Eoq9Hz9j1sTZHc39usZrytzYvff6sq4",
+    "crc": "75bd0685",
+    "md5": "746d1fb5466b1605cbe95f9ddbcfb840",
+    "sha1": "bd721f6aa96d1c258019b93cf041354887cae389",
+    "sha256": "60bf6dede38c1eec0940ddd1aefe91db853bdd5428cad9b6f8896d1ea97421bc",
+    "size": 524288
+  },
+  "segapico_eda45344": {
+    "id": "segapico_eda45344",
+    "name": "Soreike! Anpanman no Medalympic World (Japan).md",
+    "cid": "QmZZD9wApUDgWaQNvRvLgfwmmwersjC4ZRD79Gj1YpEoNM",
+    "crc": "eda45344",
+    "md5": "9bb08bb01dd9b173abd60af9ac958372",
+    "sha1": "d7a63c7fe9682c3271452fdaab816ed51cb9da17",
+    "sha256": "d98bf357bad35e77fc3937ded3c8a9384c7831b4b883b989c56a17efa0be9d4a",
+    "size": 524288
+  },
+  "segapico_8dab2ec3": {
+    "id": "segapico_8dab2ec3",
+    "name": "Soreike! Anpanman no Medalympic World 2 (Japan) (Best Selection).md",
+    "cid": "Qmbsvu53XrPcq5E3NJmD9b69mYcHfnrh3ZR46Mw1Gv5JUN",
+    "crc": "8dab2ec3",
+    "md5": "deafa41ded91054d602319b0e7f0ce19",
+    "sha1": "6ee0ce5db07c4f3feba319f77f714a399176e72e",
+    "sha256": "783d66254baf966a14170dbfd3de31948d31406af8cff525d7f2c4c068c6765a",
+    "size": 524288
+  },
+  "segapico_3c57e47d": {
+    "id": "segapico_3c57e47d",
+    "name": "Soreike! Anpanman no Medalympic World 2 (Japan).md",
+    "cid": "QmRsa3nnuU5ZS7X1h2Cohs6AMBXyjFTv19jbykAw9nkHgh",
+    "crc": "3c57e47d",
+    "md5": "c4d1d62df9072dd447e07894a2d91b82",
+    "sha1": "4335e65d238c46a286e2d0ce8d821d35799ab76a",
+    "sha256": "05fd74c80282d27dfb02e6299921930111945cae5b1e2ce943fdc8eaa4dc32d3",
+    "size": 524288
+  },
+  "segapico_3822c958": {
+    "id": "segapico_3822c958",
+    "name": "Soreike! Anpanman no Minna de Kyousou Anpanman! (Japan).md",
+    "cid": "QmYxETBBgPmSY3XUDsj6hXoqksYaXDiD7BX45vFh5D5y9x",
+    "crc": "3822c958",
+    "md5": "d276b4d79d2e8bb63392d8b3db52d7eb",
+    "sha1": "23cc8f96fe41b45a666e87959297eee7d6e26ddb",
+    "sha256": "20d6ef3524c18e5ea0b11249bb3710f2baa66b0ddd2c833839bdb16745db257f",
+    "size": 524288
+  },
+  "segapico_6ed63704": {
+    "id": "segapico_6ed63704",
+    "name": "Soreike! Anpanman no Ohanashi Daisuki Anpanman (Japan).md",
+    "cid": "QmToEpJbsmwx8BFAdSbdMCgcJWRAPbvRuR3UnAojJjW8qD",
+    "crc": "6ed63704",
+    "md5": "57dabc40d81e46a45ee29056dfc2e0f3",
+    "sha1": "b443d6d5ec4109c3239b860eac5ab024ffb68d1e",
+    "sha256": "cb19113736bdc55d01e7cd484d557d12ceb808ab73c4fe8700a1b28a0b311774",
+    "size": 524288
+  },
+  "segapico_85c4f26b": {
+    "id": "segapico_85c4f26b",
+    "name": "Storyware Sampler (USA) (Demo) (1996-06-25).md",
+    "cid": "QmU8Co1pnEgsqBKd1vfxRojGzXFhiN38MbMTLFa1RctjyU",
+    "crc": "85c4f26b",
+    "md5": "af7536d8a1e538214abf9cf22d74e671",
+    "sha1": "d3342d20002fed586b43e26b29aefe15138d98ae",
+    "sha256": "c7d3dbd76ddc0caadcf38cd00a812c050b1f479b0e6f73cd467e7e7dfc0c914c",
+    "size": 1048576
+  },
+  "segapico_178fd129": {
+    "id": "segapico_178fd129",
+    "name": "Susie-chan to Marvy Otetsudai Daaisuki! (Japan).md",
+    "cid": "QmR32oVkXr1Es8NF7KqLfPHVGoedxM2Kk6DWF8csL4t2wQ",
+    "crc": "178fd129",
+    "md5": "a05bd898417c65f3844ac349d8dd0ea7",
+    "sha1": "87c129ae9c253df476a4b588fdaa8afc0e4ecf67",
+    "sha256": "18371e5dd777869d8ec82bc3ce8dc001cdc9013a82c8db3c90ab0f5256467fc6",
+    "size": 2097152
+  },
+  "segapico_badac589": {
+    "id": "segapico_badac589",
+    "name": "Sylvanian Families - Mori no Nakama to Tanoshii (Japan).md",
+    "cid": "QmaFUk6dKcMzkKHRRegSSvaC6pvMMXTmTWwtngsjf5wrNv",
+    "crc": "badac589",
+    "md5": "08880c0e374054db2c83bbfd12764a9f",
+    "sha1": "e253ef8d3695cd62621451a168818f8ebde69873",
+    "sha256": "c593275044eac1fd9d33f629415d85215f57d5dbfbf87c6b0cd6f0cb851fd2ad",
+    "size": 2097152
+  },
+  "segapico_982154ab": {
+    "id": "segapico_982154ab",
+    "name": "Tails and the Music Maker (USA).md",
+    "cid": "QmU51vRNy9QxVCNX3mrkgAGp2eh2GS17HoQY6Zc4uUdoUw",
+    "crc": "982154ab",
+    "md5": "3ca902dbeb56a28362fbbfcdcec02d50",
+    "sha1": "807ee1ed88ffdd780754043d836a848864155844",
+    "sha256": "6026ea2f930a81bc718b818f79210ee0960c5a516e27c906009c64b4a8b7de27",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_8cec50fa": {
+    "id": "segapico_8cec50fa",
+    "name": "Tails et le Faiseur de Musique (France).md",
+    "cid": "Qmdasb335FJm81ndGZp3uBB4MPL5e25cH4kSVadRY5wowE",
+    "crc": "8cec50fa",
+    "md5": "6e59224ffde6f3078443602aef46141c",
+    "sha1": "3f1ec0e7e55c7b1c1e4577f516c24ab1068d77ef",
+    "sha256": "db8b3c85124515ea3de4c8164fe5b9b10441557860a8ad3d0b137eae56eed16c",
+    "size": 524288
+  },
+  "segapico_2bc80b15": {
+    "id": "segapico_2bc80b15",
+    "name": "Tails no Mundo da Musica (Brazil).md",
+    "cid": "QmRpK9WMa5V7txkqpXPrfrm43FA9HikTgFKwhdu3TH4TVv",
+    "crc": "2bc80b15",
+    "md5": "22377ad55b2e62219cc50c7b890f82cc",
+    "sha1": "4206d0264edc636d8a4d435baa87070fb8cbee5a",
+    "sha256": "eba5bda98a1eec7d03dfe2a9e476f6207426cde2e9032502a0fae07a162edd8e",
+    "size": 524288
+  },
+  "segapico_8edf7d4c": {
+    "id": "segapico_8edf7d4c",
+    "name": "Tails und der Musikant (Germany).md",
+    "cid": "QmVuEbhJPuFGJZ8UM7A5n5NWS7dHrc8kQ8128iN1ouvyqF",
+    "crc": "8edf7d4c",
+    "md5": "90f099df5e8e7fe32da3cf51f9a7afdd",
+    "sha1": "0b477e485a143b5bab7d26925bd587b0f3da2695",
+    "sha256": "6db5d0ada884d3b2400fa981d8ba9a25e5568119e0985e851bb143aa1de4de58",
+    "size": 524288
+  },
+  "segapico_1281c3a4": {
+    "id": "segapico_1281c3a4",
+    "name": "Tails y el Musico (Spain).md",
+    "cid": "QmbocHPnxFvg7PeLo77UeEq72nFWmDyFPLiBTzyJXiN4ky",
+    "crc": "1281c3a4",
+    "md5": "be197d929b141e4fc3deafbad0b6ad94",
+    "sha1": "832a77f8e6c59b8d0e3bbc606b6b93aa303857b6",
+    "sha256": "ad575ce433aa61b226fdd7a0ae4d77cab312b44a57d6df5ebe46b8f6a763e63f",
+    "size": 524288
+  },
+  "segapico_5ac3927e": {
+    "id": "segapico_5ac3927e",
+    "name": "Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien '95 Nendo Ban (Japan).md",
+    "cid": "QmbzR4GusrZvcgfj1ZhTvhBG76S8AfomQpUgEZkSvEM7Dq",
+    "crc": "5ac3927e",
+    "md5": "130a24199e8335a33abb371c90d68c83",
+    "sha1": "f2a6ae4c7728dd6d8052d6f9425bc06e5764941a",
+    "sha256": "230c588bced4c7f504bf51440e675ce6e2f1c5bfbd5f9b40dd9f36f6bcd28b75",
+    "size": 524288
+  },
+  "segapico_ae02801d": {
+    "id": "segapico_ae02801d",
+    "name": "Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien (Japan).md",
+    "cid": "Qmdw7htq9DYXCaGxnKDH5wfm5QPGZ2tA3W6Um8iFbstJiZ",
+    "crc": "ae02801d",
+    "md5": "e7a25bef41bfbfc9fe7722eb42d2590e",
+    "sha1": "19c061ba15c32ac4a9ee321263e36a87bb48157d",
+    "sha256": "a7dc9ea452007c00fb33362081ade8defb04172a61ae8ee62762ef762b3b3a1b",
+    "size": 524288
+  },
+  "segapico_9cb9d32b": {
+    "id": "segapico_9cb9d32b",
+    "name": "Tingawa Haenggoeui Toongtang Toongtang Doshi (Korea).md",
+    "cid": "Qmdkx1h2zjCnuw4C18W5tDfUzu9NgpNBpQcsZk5zNs35cm",
+    "crc": "9cb9d32b",
+    "md5": "56a2534cad96f5aed225fb5e884a6528",
+    "sha1": "e6022562d2b1c7448835d47b749ed57144397c9a",
+    "sha256": "ab811885a1b5005164dd7ca8ecba2e9f93c0482531a8b9e624b3b4341566e56e",
+    "size": 1048576
+  },
+  "segapico_9d5067a3": {
+    "id": "segapico_9d5067a3",
+    "name": "Tokusou Sentai Dekaranger (Japan).md",
+    "cid": "QmWdMeKpCMZQSmJPPsmvmL2r7CVJWb9cYCWaukAm5Emn7D",
+    "crc": "9d5067a3",
+    "md5": "79e5caf29bb5089050ed90a2f10b3242",
+    "sha1": "79a09c334b518357d380d09350bc31f0df0ae243",
+    "sha256": "b7f3e14b4851658e6d2dd3713979d557614a454e2301d697b5588cbdbaa1138f",
+    "size": 2097152
+  },
+  "segapico_029c2d9f": {
+    "id": "segapico_029c2d9f",
+    "name": "Tokyo Disneyland Toon Town - Mickey no Boku wa Untenshu (Japan).md",
+    "cid": "QmfAbUC72YNa5dfTu9n11Q7jG7QokEJGnTou15zJmd6ieg",
+    "crc": "029c2d9f",
+    "md5": "d297f3a397eccdd480fb926be9a553db",
+    "sha1": "301b2db8dca36b6aaeaa6d00e91c2f0b870b08cf",
+    "sha256": "2376098e0fdf05a6865a421be7eb231e46881eedca4c4be7d5a89cdf5652cb59",
+    "size": 1048576
+  },
+  "segapico_38b713b3": {
+    "id": "segapico_38b713b3",
+    "name": "Tokyo DisneySea - Mickey to Asobou! (Japan).md",
+    "cid": "QmV19BJfcC6rJJEGWw7JMs1wiUBx2FQetZVQdDinzmgJu6",
+    "crc": "38b713b3",
+    "md5": "da9a5815bf9fb7b4f0d389c26c15a2ef",
+    "sha1": "ad29728e7421d4b7505159dc69ba5978964c6c35",
+    "sha256": "6e410a5c6f54ad927d10776006f9cee6434961ce41dde5d588287fe75f0413c4",
+    "size": 2097152
+  },
+  "segapico_a1ace3b8": {
+    "id": "segapico_a1ace3b8",
+    "name": "Tomica Pico - Bokura no Machi Tomica Town de Asobou! (Japan).md",
+    "cid": "Qmasd8qWAnCVTcKbrkmKUSyg8SSDpM498M2REU1p8mCm5P",
+    "crc": "a1ace3b8",
+    "md5": "f641146992b2cdbd85add475812b72da",
+    "sha1": "57c3da145e97ffd94397c2c265efd05ae4e43dd9",
+    "sha256": "56408fa36bcf3e7a8f552cd8fba2c6c80987a883ac888b1dfd56a1a36ab84eda",
+    "size": 2097152
+  },
+  "segapico_3e53c515": {
+    "id": "segapico_3e53c515",
+    "name": "Tomica Pico Rescue Parking - Kinkyuu Shutsudou! Hataraku Norimono (Japan).md",
+    "cid": "QmUhsjTGLh2zmTbcdjGBSWD96TxNE4EGdiZjsNCNWbjT6c",
+    "crc": "3e53c515",
+    "md5": "262c787b7f84c4645a26aeb9d5be8187",
+    "sha1": "fff0d70882c10adab3065bebe4ce07aee690f674",
+    "sha256": "98b13aa6479769d25b2cd664d7759a7da707607af9854a385055fcbb25f3850d",
+    "size": 2097152
+  },
+  "segapico_71f39f19": {
+    "id": "segapico_71f39f19",
+    "name": "Tottoko Hamtaro - Haru, Natsu, Aki, Fuyu Tottoko Nakayoshi! Ham-chans! (Japan).md",
+    "cid": "QmSwdgmciDHyNgDqJvZjuJeHdWhCvNB4PSuX4Yxmssqgx1",
+    "crc": "71f39f19",
+    "md5": "4e6df292cf3eea10db89351b053058e1",
+    "sha1": "faa6a6c997c9a5a8f9da30b0db44df01097c12b8",
+    "sha256": "db783a5896796c2b521e78db3b5288020da71ea2d4bd0fdf2f8808a6570fef5b",
+    "size": 2097152
+  },
+  "segapico_c71101d8": {
+    "id": "segapico_c71101d8",
+    "name": "Tottoko Hamtaro - Oekaki Ippai! Ham-chans! (Japan).md",
+    "cid": "QmXpSmZLDZbRMiX6mck6pzZLzQ68gxXgSyppqrvW3ND5nA",
+    "crc": "c71101d8",
+    "md5": "51c82517e3ee3bf7324240111a284a6c",
+    "sha1": "6e7c1ceeedf9c8ed641a7332fb1fe1a06d48fc17",
+    "sha256": "31162b53eda5cfd80ffeaf1db2a70af3ea0e79264ab42a1f39d30382d60555a1",
+    "size": 2097152
+  },
+  "segapico_037b7dfb": {
+    "id": "segapico_037b7dfb",
+    "name": "Tottoko Hamtarou Tottoko Tanoshiku Aiueo - Maboroshi no Hikaru Tane o Mitsukeru no dah! (Japan).md",
+    "cid": "QmcSBJTHY9pHAZ6yWCr8DJ2pFGkbz3a9tTLLPHmyRhJ4VE",
+    "crc": "037b7dfb",
+    "md5": "9097dc0df04c0ff5005971d489a41158",
+    "sha1": "b001e0d43194dce3cb9aa7136c67e54c19fffa05",
+    "sha256": "f5cd401efc04ae121e88d5ed4874f5f33850913ad4ff2767cd2bfd441799bc61",
+    "size": 2097152
+  },
+  "segapico_dcea1ca1": {
+    "id": "segapico_dcea1ca1",
+    "name": "Toy Story 2 - Woody Sousaku Daisakusen!! (Japan).md",
+    "cid": "QmXy5cSjJ4nTzMRwiXchu5kAnwiu1nmw4rct8Yzirbw4uV",
+    "crc": "dcea1ca1",
+    "md5": "03f59b55baca261e859aa638f03a33e5",
+    "sha1": "fb1618898e0b3ea860bf5e4b6cf6ec257f4c5da9",
+    "sha256": "685327276d2ebd2f50ea5cd7feba08dd11b5797c1715990052924086f1cabcdb",
+    "size": 2097152,
+    "status": "verified"
+  },
+  "segapico_27ef458e": {
+    "id": "segapico_27ef458e",
+    "name": "Toy Story 2 - Woody Susaeg Saejagjeon (Korea).md",
+    "cid": "QmSUbsf1KtQZ1ZbSLHBmwtucE5ADNRDSqh7QuwZRQMHjKL",
+    "crc": "27ef458e",
+    "md5": "813575d83aae18ff38608ef05c0a94f1",
+    "sha1": "e4f908d235d25d21390a8965416a34c91b880b63",
+    "sha256": "836e19c0cde8b87f0dbb917d7a7e1a39f775418d23acb7af7d957b4fa01b9bad",
+    "size": 2097152
+  },
+  "segapico_042520ce": {
+    "id": "segapico_042520ce",
+    "name": "Ttottorang Kkokkorang (Korea).md",
+    "cid": "QmUE9MJxU5Xnh8dGQxvCJ2CVXDnhJ21DDBhu8Djmw5L3Fd",
+    "crc": "042520ce",
+    "md5": "59ebdff7b80097ff1d878554ca1e8e57",
+    "sha1": "5dd748a1bdfc661d0b96f6a1d26babc6a0ae7f2d",
+    "sha256": "4aeb5b46a81dbd93ccfcefcef411cddd6838494c7d3f0998f2b825b4de3892fc",
+    "size": 524288
+  },
+  "segapico_e77f3c70": {
+    "id": "segapico_e77f3c70",
+    "name": "Uchuu Bouken Space Shuttle Pilot (Japan).md",
+    "cid": "QmesPdC63WhMzLGT8iXQxyCjYHXDYQwftHNSbMcz1iDGEE",
+    "crc": "e77f3c70",
+    "md5": "020326b6fa4af8008887b451d8b3ca7a",
+    "sha1": "2dce1d752a922fc94d9f580a605714ffdcfbd042",
+    "sha256": "fee836f4fb53e78f1831e5ffe63ed283c506d154d3fa760b9348d1164d4a3ef2",
+    "size": 1048576
+  },
+  "segapico_d9ad6eff": {
+    "id": "segapico_d9ad6eff",
+    "name": "Uchuu de Asobou! - Barbapapa no Uchuu Ryokou (Japan).md",
+    "cid": "QmVBuRY98fqctVRaGnQyQSvttSG5NcFTzDkXx8CVSztrgr",
+    "crc": "d9ad6eff",
+    "md5": "2358d2dcf7167f985f515b53d6f5bbc5",
+    "sha1": "3b1d65cf77c1c70011d9b12c8531ceaeebd0e98d",
+    "sha256": "6b81b9b7ea602bc90641506bbb0f5fceb0b240e14ed1699752a6ee725b051c92",
+    "size": 524288
+  },
+  "segapico_a6cbd22e": {
+    "id": "segapico_a6cbd22e",
+    "name": "Ultra Hero (Japan).md",
+    "cid": "Qmd3DNW36HjuRUPTKdZB8JrzDjX6zeWmNmnu9j5F9An51i",
+    "crc": "a6cbd22e",
+    "md5": "706fc2c214ab476da40f9c40dfa7c8ba",
+    "sha1": "4a6731fdfde7f65d3d8b481ff54b6cad922a335a",
+    "sha256": "50c7726ed9df29f6dcce3d2902f4e2e53186f237078a27f687b8692f329be53c",
+    "size": 524288
+  },
+  "segapico_501e97d9": {
+    "id": "segapico_501e97d9",
+    "name": "Ultraman Dyna (Japan).md",
+    "cid": "QmQZjDjtFPVKR4HUiGaZf6WPPZU1GkQnStTkd15xAYx5cw",
+    "crc": "501e97d9",
+    "md5": "b8cb404dab2449a858ae73ceaad81973",
+    "sha1": "b1bec7fa1fca53205fc7fec2547c8da4da4928b2",
+    "sha256": "5c9c689ef26035ff130388b9339ff98bec25df79cd8d272276cd44db25475468",
+    "size": 524288
+  },
+  "segapico_093357d5": {
+    "id": "segapico_093357d5",
+    "name": "Ultraman Kids - Tobidase! Space Picnic (Japan).md",
+    "cid": "QmWtFFaJiGCR91E1G3bgm2Dc8fmWCZEvEX4ki5eCLszWBK",
+    "crc": "093357d5",
+    "md5": "7cc4361a5216f3856b20256a0d22c170",
+    "sha1": "4a9bf5f5352933bb18da5f7a33da83589a04241c",
+    "sha256": "1c2029449c6ffdf7b22f3c8c4e974449f6da4e43f1a7db4275e92c15d5809d7c",
+    "size": 524288
+  },
+  "segapico_35be2a19": {
+    "id": "segapico_35be2a19",
+    "name": "Ultraman Tiga (Japan).md",
+    "cid": "QmPixEchCwaB7fxgtMAu3ax2cAUaUxzPZcu1EQuUAkCGa3",
+    "crc": "35be2a19",
+    "md5": "8751025703220d49a53bfd585e7e94c8",
+    "sha1": "7270c0594f0e18a3c6cf2b2a190c2999b643cd19",
+    "sha256": "7484256398b1b6cd6aa2edfb19de726a7fb9c705ff8eb6fa6244a6dda5c152e3",
+    "size": 524288
+  },
+  "segapico_7f90e769": {
+    "id": "segapico_7f90e769",
+    "name": "Ultraman vs Kaijuu Gundan!! (Japan).md",
+    "cid": "Qmf2CTxAjZd3FccKSA42SdNfcH8gTs6GcngV9YHV4sCCs3",
+    "crc": "7f90e769",
+    "md5": "a101c209fbb5ef2ac85c51a87fa37813",
+    "sha1": "e650590a209a396fff6f3ebd7cd22ac9a62e42db",
+    "sha256": "fb693d6ee47fd504d2673189df18f8437ea75604b391be6e4db487f6ddcb7bdf",
+    "size": 524288
+  },
+  "segapico_1b46e52f": {
+    "id": "segapico_1b46e52f",
+    "name": "Unou Kaihatsu Series 1 - Richard Scarry's Huckle to Lowly (Japan).md",
+    "cid": "QmYvMT8STTuZUqqXFTzpr7so2oxqboXjbf74NSTbEfps7f",
+    "crc": "1b46e52f",
+    "md5": "8ebd3845b8805c110cd7da72dfb92d6a",
+    "sha1": "83f33c26ec829d85b3226f85b2e0da78f7f65ff2",
+    "sha256": "e15096f715bb6c5f850b458cd55c5a6ae077d78cbd9f96384ca38addbfae91d7",
+    "size": 1048576
+  },
+  "segapico_c41e801f": {
+    "id": "segapico_c41e801f",
+    "name": "Unou Kaihatsu Series 10 - Nontan to Issho - Wai Wai Nippon (Japan).md",
+    "cid": "QmThmp5RhPnPxDMMFT77qWvG3jwwxB9JKQTLMSKGRV83A4",
+    "crc": "c41e801f",
+    "md5": "a2363dd52910f3242c464b3a51b54b24",
+    "sha1": "dc13f49af69fc3137fba2e535fdfe09aca495b49",
+    "sha256": "d22097b77ad820b866eb14fba81aa95b9987906b35787fd6bc77b811cdde5af0",
+    "size": 1048576
+  },
+  "segapico_cb3f7654": {
+    "id": "segapico_cb3f7654",
+    "name": "Unou Kaihatsu Series 11 - Heisei Kyouiku Iinkai Jr. (Japan).md",
+    "cid": "Qme1sKiTxzmvjCSvNikUaXCyXdui7YLLYULC9CpTt3pWhj",
+    "crc": "cb3f7654",
+    "md5": "06d1936fe7b7c67ad3b68256cae83ceb",
+    "sha1": "9ba109e6eda70e0a5d0885f746e22574c33b81f1",
+    "sha256": "c32452951e21002ae2246faf74ea97b056cf1c311b0ac2c73d5a74f38f0b804b",
+    "size": 1048576
+  },
+  "segapico_8130f126": {
+    "id": "segapico_8130f126",
+    "name": "Unou Kaihatsu Series 2 - ECCO Jr. (Japan).md",
+    "cid": "QmPYiqVLDEQMuoDJ2nHhcdh7sfXsqrV6SQ3NR5bw6ssBZq",
+    "crc": "8130f126",
+    "md5": "a19f3d886f3dd6f58ea4e7e1a36b5e48",
+    "sha1": "fa9b1f7602dca7d3ac3d579421b41da4ceb943a7",
+    "sha256": "4d609e5ec09df9ef02361ec75aab28f8ade96819cde4e8d31d3d743e2d95b061",
+    "size": 524288
+  },
+  "segapico_3f336747": {
+    "id": "segapico_3f336747",
+    "name": "Unou Kaihatsu Series 3 - Hello Kitty no Machi e Odekake (Japan).md",
+    "cid": "QmPZDAXJYHBdYCrxfjsfr1ocsyhh69hZEN6qTMM3frnG2m",
+    "crc": "3f336747",
+    "md5": "8eb1ac29f1c0a98dd1b022676294b0f5",
+    "sha1": "28e866688fed6e7c0a82c3f1e91f205600afcf68",
+    "sha256": "aa8ecd0362f666312d39c9039208598b1b71f9ad3c5c2941f3fd38fbb33de126",
+    "size": 1048576
+  },
+  "segapico_37dae2f5": {
+    "id": "segapico_37dae2f5",
+    "name": "Unou Kaihatsu Series 4 - Kero Kero Keroppi no Iro Katachi (Japan).md",
+    "cid": "QmUmRf1ixFvDQy5S2SsmKM82cCftPSeFQZ1noWTNb29DWY",
+    "crc": "37dae2f5",
+    "md5": "d82b42ce09eae37b1f142ce83a6e3e80",
+    "sha1": "874e8d0466e0585fa7db3b70df871875ddf29cb2",
+    "sha256": "afe6c122e15d7c8df2bab8ceec9e4c5c00bbb4262b433801fb38b14717a702c4",
+    "size": 1048576
+  },
+  "segapico_6262f11d": {
+    "id": "segapico_6262f11d",
+    "name": "Unou Kaihatsu Series 5 - Hello Kitty no Suteki na Takaramono (Japan).md",
+    "cid": "QmXNudvNPoCRS9qJCum2tYHXzff1i3CPyx7EfmGNh7rtiv",
+    "crc": "6262f11d",
+    "md5": "b2e700286c680ec8e28a82ceb188930b",
+    "sha1": "9a6293f12a47d403b950b96e0fb9d2b9ed769804",
+    "sha256": "09bcd5414fc526f3ec1206b050ec5170774712ac94e70943141a9fabf2e35b01",
+    "size": 1048576
+  },
+  "segapico_6ff09f8e": {
+    "id": "segapico_6ff09f8e",
+    "name": "Unou Kaihatsu Series 6 - Ahiru no Pekkle no Kazoete Miyou (Japan).md",
+    "cid": "QmQ4aVq1UvBydF5h4jHtWDWKf5hF25zRBUivHcTWncsBSr",
+    "crc": "6ff09f8e",
+    "md5": "3d1c0872877bb3dada733052cebd5481",
+    "sha1": "4b496b47aa0d0ea74c85712515c76d3e99f28fb4",
+    "sha256": "83be29387e1fdfaa21b3cbc97d88de258ac6363982f571db2073e34715868a84",
+    "size": 1048576
+  },
+  "segapico_0a9665e7": {
+    "id": "segapico_0a9665e7",
+    "name": "Unou Kaihatsu Series 7 - Tails and the Music Maker (Japan).md",
+    "cid": "QmczQj74UzxTCnNmW5XvLLH7ZnoUdWwF2RVJ1kTgxmoAxK",
+    "crc": "0a9665e7",
+    "md5": "5caf6dfba40a7aa7dd9a84a1b464d306",
+    "sha1": "6b5f6e8775188e93a4ff572163c8d3452fe8fe13",
+    "sha256": "3652e645c200dc87ffa8423a82de7e889a4092ab94da3d101ed9392f642f7455",
+    "size": 524288
+  },
+  "segapico_4ce7b75d": {
+    "id": "segapico_4ce7b75d",
+    "name": "Unou Kaihatsu Series 8 - Dolucky no Oekaki House (Japan).md",
+    "cid": "QmRgCzku1YKzSV4Cstm8GoPrFea4P5sKrjEWuCJirhW16f",
+    "crc": "4ce7b75d",
+    "md5": "a684d9ffa1db7e3a788e70cd6779d912",
+    "sha1": "aa906392c97cb12792a8cd026fdcb12d61490cf8",
+    "sha256": "c11dce6e53481a2e94e41732395041425427f1fcebb16f5f765b6271eef45cb7",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_b62514d0": {
+    "id": "segapico_b62514d0",
+    "name": "Unou Kaihatsu Series 9 - Nihon Mukashibanashi (Japan).md",
+    "cid": "QmUtUiMoNPaLHg9V74t7kYiramrogYWaQnojebQdRLizew",
+    "crc": "b62514d0",
+    "md5": "f19cb547b092702b7233d08c5892de15",
+    "sha1": "5c128fcc3ce49434e1e3c834a9fcec7b28c5480e",
+    "sha256": "108bf0e056e356fbc3fddf5bfdaf883a45c3fbc8e3032a8748f430f158986088",
+    "size": 524288,
+    "status": "verified"
+  },
+  "segapico_cf027dda": {
+    "id": "segapico_cf027dda",
+    "name": "Unten Thomas Deluxe Set (Japan).md",
+    "cid": "Qmbpm1hZtkN6Y1eGCuABuKmMdPhJAowVhLkVcxSrRVLbB6",
+    "crc": "cf027dda",
+    "md5": "484d09a217e99976dbf929334534063f",
+    "sha1": "0c4a456b14ec345784517ad8339fb9b9b341cf86",
+    "sha256": "6cd94a84e9942387eeccc453f1828bb5093ecf154a4a3ce8bf433f01b8797bae",
+    "size": 1048576
+  },
+  "segapico_68c7d517": {
+    "id": "segapico_68c7d517",
+    "name": "Utatte Pico - Minna de Karaoke! Issho ni Utaou Suki na Uta! (Japan).md",
+    "cid": "QmXPNWGm8xWncZEh1gvQCbFvE7fU6BoFgbvaA1Hwtz9z97",
+    "crc": "68c7d517",
+    "md5": "3095ce90b3959bc7fce6a791bafe1bfb",
+    "sha1": "a7ddcc4e3fc2e2504bb063c9c9cd4aba37fa4c57",
+    "sha256": "95a4bf4fa9a0b05622d5728295fcf93e0e6ca71fbe69e404303ac210a31e41ed",
+    "size": 1048576
+  },
+  "segapico_8eb4bb04": {
+    "id": "segapico_8eb4bb04",
+    "name": "Yasashiku Oteate Pico Clinic! - Kangofu-san Pico (Japan).md",
+    "cid": "Qmc1bBDZUAvNkL4S5qiDgD6mNjmK3e2MBRM34E14p6BQKi",
+    "crc": "8eb4bb04",
+    "md5": "ea6269a8fcf312a8f23b0a749e47b6b8",
+    "sha1": "665dcb0b332d5bd9fcc1f7de3dae4cfd8bdde899",
+    "sha256": "7e4761678d6201806fab082cd888925314f15f29b552f7643627036370b17c68",
+    "size": 2097152
+  },
+  "segapico_333e88d2": {
+    "id": "segapico_333e88d2",
+    "name": "Year at Pooh Corner, A (USA).md",
+    "cid": "QmRCeiW4NT1totmpdovMwRYiujKMi8vE4cm79ZndW7ydrR",
+    "crc": "333e88d2",
+    "md5": "26d3a3d57e3d470712c71e55bf9322f0",
+    "sha1": "65581aa9b77a5011039ff88a5b282c77ef0c9e81",
+    "sha256": "4252c3e6ffb68166a8acec01e2c162759a758d0d6261c3d1be147f20b9c2955c",
+    "size": 524288
+  },
+  "segapico_39f38a22": {
+    "id": "segapico_39f38a22",
+    "name": "Yobeba Kotaeru - Doraemon - Nobita to Himitsu Dougu o Mitsukeyou! (Japan).md",
+    "cid": "QmSQEroczewNENNnawpasCrHQpfpvALP39RbH3XRPQwy4m",
+    "crc": "39f38a22",
+    "md5": "dc31da516dfb081e615a829f4453d170",
+    "sha1": "df0f45c8b229e648347bc932225f185c0fe2465f",
+    "sha256": "5024c2810af5af4986fc1b319af9e707b00ed860248904a4aa874e9de90d3f9f",
+    "size": 1048576
+  },
+  "segapico_6521ef2d": {
+    "id": "segapico_6521ef2d",
+    "name": "Yosul Keurepaseu (Korea).md",
+    "cid": "QmNW3po44H3nMpWvfUFhGqGdAMuQBAXpyyTAf7CDqdJ8nt",
+    "crc": "6521ef2d",
+    "md5": "2b9c837c5bdfa1d44b8ad504f0a9eccd",
+    "sha1": "97d3d39b006579ceb62ee68ab02f8b44f0c76069",
+    "sha256": "ecd766726a0d3b08483475593598dd13475ccc8586d67df1d61678dc81786095",
+    "size": 524288
+  },
+  "segapico_482ad64b": {
+    "id": "segapico_482ad64b",
+    "name": "Yuchiwonehseoeui Haru (Korea).md",
+    "cid": "QmY3aq7UW5MEPNYfkZyziMcPPCfXSx1FCcsMPeQ9y5ifAf",
+    "crc": "482ad64b",
+    "md5": "b00e8c4a3e44d2cfaa02670a2d04b5fb",
+    "sha1": "82a8061ff13198bf125b51205b05303fe86673b3",
+    "sha256": "550dc91b4eeab07ba5f269e13c8fe0a1a9d976b3342f5d6b3f7dbb9602de3d0a",
+    "size": 1048576
+  },
+  "segapico_d130d765": {
+    "id": "segapico_d130d765",
+    "name": "Yukai na Mori no Packet (Japan).md",
+    "cid": "QmYU4ivbAMH2oSge5oCE5eSkG821BzKDimtBNA1E4wPJHX",
+    "crc": "d130d765",
+    "md5": "0e571dda849faa3c724e24baec92c943",
+    "sha1": "97c99f623285af22a1f3201b7b1a2665c7bbb649",
+    "sha256": "c95d7d27c1826a35b4f214c78d777b6cfc8a7ad7bca92019538ef9bf5a8e91f2",
+    "size": 1048576
+  },
+  "segapico_0518d160": {
+    "id": "segapico_0518d160",
+    "name": "Yume no Crayon Oukoku (Japan).md",
+    "cid": "QmPCbozkosfTZWWjBSYAgN18FyZfeUjZzjcohv2zWXKmV6",
+    "crc": "0518d160",
+    "md5": "e16f4084a28632754c2484c571267220",
+    "sha1": "85f7569c2ea7956998c677e5b6947ca22d3da5eb",
+    "sha256": "f7cb97a81565309ca2ebe69936b0b4079e8644fc14cae93096a9f081a62e80fb",
+    "size": 524288
+  },
+  "segapico_072a429a": {
+    "id": "segapico_072a429a",
+    "name": "Zai Weini Tiandilide Yinian (Taiwan).md",
+    "cid": "QmeMPQ4MoPkCCqfKoXP3ojvyq27DYZGdHqSu9esC42eYgE",
+    "crc": "072a429a",
+    "md5": "88a0d671c2f72771bbbc609a0dd0b6b7",
+    "sha1": "fadfb37537389fa636ba1c1da0d5cdceaaf35f06",
+    "sha256": "d2535b580375d858b42088ea7547b141fd9e3f4b15b2ac114188015a6c154ff8",
+    "size": 524288
+  },
+  "segapico_3218ba97": {
+    "id": "segapico_3218ba97",
+    "name": "Zauberbuntstifte (Germany).md",
+    "cid": "QmUSYxAptFCbYSjnWtZPLHRWRFv45AkXaSQAz6b6aAwABg",
+    "crc": "3218ba97",
+    "md5": "7bb5be910e569b629e80c01c18c3f4d5",
+    "sha1": "40f6585ea1a79ce96097388115c639cf8c4ccdc3",
+    "sha256": "aaf208346ba99c96ed957967025e9b6b1455ae9011e22e9166e15eff7f4fb032",
+    "size": 524288
+  }
+}

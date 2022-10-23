@@ -1,0 +1,172 @@
+{
+  "atarijaguar": {
+    "id": "atarijaguar",
+    "name": "atarijaguar.json",
+    "cid": "QmVUafZkWnYFgXNTSK4VcwebprF6bkCnySmQef9jDdsFci",
+    "crc": "3fa1a15f",
+    "md5": "35a90162620744b70488535cc8c45965",
+    "sha1": "2cd491b791ebb0a433c8924a88b0dce2f6ad86aa",
+    "sha256": "7470b682123a95416ba4c3cd870513e5e9654c8e131be83584bfe6fcec0000f6",
+    "size": 34328
+  },
+  "atarilynx": {
+    "id": "atarilynx",
+    "name": "atarilynx.json",
+    "cid": "QmZrKtreGQTApACA31He7Y6j9C784bExLh1AbUC1DTVaVs",
+    "crc": "c0b31617",
+    "md5": "cb0d2fee1c02c4f519319fa9781a738e",
+    "sha1": "437bbcc851347a65aac84852143b61f107346ce4",
+    "sha256": "7045101353fdf16d8477eee647f5329d1446723c41d491dd06d80b137c8a8139",
+    "size": 35614
+  },
+  "atarist": {
+    "id": "atarist",
+    "name": "atarist.json",
+    "cid": "QmUZT1HUiXeM1UYH3ssHWhAZ3bUqU8PGGqk2xvzSsmewhA",
+    "crc": "1c9d9c98",
+    "md5": "7e37fcd21041ed8f0b5d47588468d991",
+    "sha1": "abc14819649450954601b1dfcc0aee9c2a497651",
+    "sha256": "98de93aa1eb2a00a95ab8da51d374d81309c601bc6efb241ffe00b6c9c55646d",
+    "size": 90347
+  },
+  "msx": {
+    "id": "msx",
+    "name": "msx.json",
+    "cid": "QmS3pd7GHN6i1XZkPvLteHHT2nmfqjtfcCd5nKa2hjKVHR",
+    "crc": "4b59ff76",
+    "md5": "9818109a3edcffc1a43e5935853152d4",
+    "sha1": "4d26d55aee71c0178e109c8500c12a294ad6d4bb",
+    "sha256": "dbbf9736d23015b6fe36b39ab3d2b0bba17850e8eed5eef5fb8e7f8d950b6839",
+    "size": 231693
+  },
+  "msx2": {
+    "id": "msx2",
+    "name": "msx2.json",
+    "cid": "QmeBVQTM617yWhWxBxwKaguk3RQ2gLk1PTdjCnnjg8fgQL",
+    "crc": "0c126432",
+    "md5": "dfa380d582fdf124f83b0bd6885b2b3a",
+    "sha1": "d4291a4e376adc40d83c71e7ef17ee26e429dece",
+    "sha256": "5b6fd57f8b7ddf52d5cb5a56db4dd37c2446ac3a13751345a32c641ff1553d7f",
+    "size": 76729
+  },
+  "gb": {
+    "id": "gb",
+    "name": "gb.json",
+    "cid": "QmY2i3s69S1SV9gndZEHEWZwJdVvZp4NPK91QyUK12QW4g",
+    "crc": "19c84ced",
+    "md5": "5dea4333c26684951f0ea555c4542613",
+    "sha1": "599291f5a32d124a9127c1e6b9905781dbbc84a8",
+    "sha256": "2df712749a0770336d102dbdd1598cf74b080e98d4e95380e3b221fdd17a8cab",
+    "size": 443803
+  },
+  "gba": {
+    "id": "gba",
+    "name": "gba.json",
+    "cid": "QmZw9iQaTdBzufcSxCj5CM6dDTvfVit7y6VvK8yxK65jaP",
+    "crc": "dd30f69b",
+    "md5": "9ca76b8972e9d8ec59e511389d204876",
+    "sha1": "82be34fefa5a0ed7c9044db5296c65816ee9dfa1",
+    "sha256": "a63ed559cc39a5c724047579f5dba24099de5bfbb16da00092c17ec5b95d0275",
+    "size": 689082
+  },
+  "gbc": {
+    "id": "gbc",
+    "name": "gbc.json",
+    "cid": "QmaKS1d5w28Uy94UFueAEmqHW7VBpd6PkLTACrGcXnUhAN",
+    "crc": "bff192ff",
+    "md5": "2a3d7f019a5b7f40e9cf67604691c758",
+    "sha1": "7b1cbafe1c3488a34443d31c75746992d6c797eb",
+    "sha256": "1ca02a94efba1b06434c448e7f09cf72bb91efb03b69c716ee6fc9f60384f5c7",
+    "size": 410232
+  },
+  "n64": {
+    "id": "n64",
+    "name": "n64.json",
+    "cid": "QmSq9N7BE4i5MMur1Eg4AAXfcbfLBqSk5xp2XEukyXmxvp",
+    "crc": "b3480796",
+    "md5": "80d87606a1d087aeaf670360263ba817",
+    "sha1": "4b8acac6c3511d8fc88c809208238060550599f9",
+    "sha256": "a276ecf8196e08d2a6491f7fa7394e3c9f71c7bcccf4fb303da81f44ce7306d5",
+    "size": 179927
+  },
+  "nes": {
+    "id": "nes",
+    "name": "nes.json",
+    "cid": "QmYoAMYQ1aNqzC3U1EBH11NHC2LGbnZAPru5PNRG8ZAkta",
+    "crc": "0b9dce34",
+    "md5": "3eb78c17c00584b964e9e25abb5456b4",
+    "sha1": "455c46b26bb621e95563ab683ee4e7c6ad6b6953",
+    "sha256": "10cfdb99c5d46df22882b526fb3badf488687f139f9427e8cceaee71baf35af6",
+    "size": 799686
+  },
+  "snes": {
+    "id": "snes",
+    "name": "snes.json",
+    "cid": "QmcGi7FEnTh6URSkYv5UxSNjJxHVr2sybsmwsJjwzNXZtN",
+    "crc": "9990b19e",
+    "md5": "3669991c52e751b3151f186838233acf",
+    "sha1": "2eac0d628970985b523f6d755b036ddb6a7e98e8",
+    "sha256": "c94303b8df619bd3b8936b8dcbb506e2a10a594a775ade461563cb06355f9f69",
+    "size": 776632
+  },
+  "gamegear": {
+    "id": "gamegear",
+    "name": "gamegear.json",
+    "cid": "QmdUeGY7N4fKCdyzEbgT8vsMtHTthp4Z91numGaWF2yX11",
+    "crc": "8e0a7b65",
+    "md5": "3e3361e82e86af5e015eb57387b1bbf6",
+    "sha1": "05a0a4c787a2a371ee4c3c6a07f44603f750d9c6",
+    "sha256": "d104543a8b70c8994c53f96520f6ff4f41c73e562464bc74ead3520a94882597",
+    "size": 161900
+  },
+  "genesis": {
+    "id": "genesis",
+    "name": "genesis.json",
+    "cid": "QmYKTxbes85wNY6fbN3JNnPGsoRpoavXua3dn2S75nzU1J",
+    "crc": "9879a0e3",
+    "md5": "ed94e311f9f0c864f39aa093039dd179",
+    "sha1": "0cb0ecc545722b75d404cd17733dd40acd018dac",
+    "sha256": "98bb70a0ea53194c4c0bbcff9f82c3e60cff29e1f182758addc2069d01eb7aa2",
+    "size": 469596
+  },
+  "markiii": {
+    "id": "markiii",
+    "name": "markiii.json",
+    "cid": "QmWZiNbhsTmp7Sswbn39sevHJ5Fcx9SxC8ym87YLSvrcCb",
+    "crc": "8fb9761d",
+    "md5": "7906f3877c2f4f5f66742da701aab0e7",
+    "sha1": "163827dc5f07c2a900992f66c0b6d249afb810f4",
+    "sha256": "ee13df66362c800370678d839fdbc72f79ea27271899877677f70cfe1a31f5ba",
+    "size": 176600
+  },
+  "sega32x": {
+    "id": "sega32x",
+    "name": "sega32x.json",
+    "cid": "QmQF4wFnq8AEdHyx6Kr61mvLToT3RL33uf7ytBNuvNkJHm",
+    "crc": "96a71449",
+    "md5": "5617fa3b4aeeb22ef1a5eb87164c60e4",
+    "sha1": "70e81d656ba29db0b36f29eb51a2dbdf8b7a0c6f",
+    "sha256": "857c1a77375661477494c5c533e640522c1b9512402141409149cd5ace1915f5",
+    "size": 20458
+  },
+  "segapico": {
+    "id": "segapico",
+    "name": "segapico.json",
+    "cid": "QmaQ6sGjeoRPMgN93rsiyoeyBZuECNtRrnpgwdNsYNSbSE",
+    "crc": "132425cf",
+    "md5": "adf1838be84cc115ca13335bc5907554",
+    "sha1": "8e16cf6489614292690b83e31bcabdf913483f41",
+    "sha256": "cdee383b4beaa6c98b412637e0e2d50c187d0c33b53ae815c89d2da37cd5d849",
+    "size": 134564
+  },
+  "sg1000": {
+    "id": "sg1000",
+    "name": "sg1000.json",
+    "cid": "QmNYyHtVGtiYSB4dgyhdWtSepm6eeg2DEDwJwzzwi54KJy",
+    "crc": "1139c2a8",
+    "md5": "28c0bb7bd4699db6090fb5a0a6b3d4ae",
+    "sha1": "86ea0bc12e78f9e77143e4392081ab6044f0ea30",
+    "sha256": "47617cc5d3800948dbc6bce3f29f1561dd68c4b8fc004b2bf08e2716ae79ebd5",
+    "size": 51516
+  }
+}

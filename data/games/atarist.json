@@ -1,0 +1,2272 @@
+{
+  "atarist_d866745b": {
+    "id": "atarist_d866745b",
+    "name": "10th Frame (Europe).ipf",
+    "cid": "QmQ2yhos8GJBvtktYX1qZWZCf1ChxpDmNv7o3kZVwV1QsD",
+    "crc": "d866745b",
+    "md5": "0907fb3ce64f88bb3aac0cd8e3f87adc",
+    "sha1": "011c930e119495a760beabf9edba16b3291a201e",
+    "sha256": "cf47e4aba9ab6f87205a669f7d1191d4e6aa5695fe2e434447b5cd81ba25b319",
+    "size": 468252
+  },
+  "atarist_bf9eac7a": {
+    "id": "atarist_bf9eac7a",
+    "name": "500cc Grand Prix (Europe).ipf",
+    "cid": "Qme82y9AjaasBuCxjS7fP1s5yMzsVr1RWc9DTcpfRhMNEf",
+    "crc": "bf9eac7a",
+    "md5": "04d1aac5810299666d511a3aa1ad87c6",
+    "sha1": "365b28bd7fff6d4599c23af7a1c3d2f29a919c2e",
+    "sha256": "2979e5568acf3e0e0fa760be0de7f6fef8698e1583984e1e04eef68b46d8cf0b",
+    "size": 471664
+  },
+  "atarist_61e3ea6d": {
+    "id": "atarist_61e3ea6d",
+    "name": "5th Gear (Europe).ipf",
+    "cid": "QmdXJmrjL37jVjJPcKcJkmqZE1UCsrYeq6f9t29fmpFsgK",
+    "crc": "61e3ea6d",
+    "md5": "ca33a08cd46422ceec64a5600e2056dc",
+    "sha1": "998216d5d304bbb67ddb23b3981403c9b97a3b8f",
+    "sha256": "ca64e0ed4ae4a85d4daedc03adf695c7aad4d480fd659c24eaef398e472a567b",
+    "size": 520242
+  },
+  "atarist_381d824d": {
+    "id": "atarist_381d824d",
+    "name": "Academy - Tau Ceti II (Europe).ipf",
+    "cid": "QmQA3STS14QTDF9gjTXQQd45FidygeBqe8gBPnVBVXgj2Y",
+    "crc": "381d824d",
+    "md5": "c7665fe0c14a2caa74b394ad687df31d",
+    "sha1": "4583ee64dba9d72d3969044982d1cf23765ccb0a",
+    "sha256": "672f0651df91b18d1c92b0ebbbc61852505b213bf3666f75c7f5741038298790",
+    "size": 468252
+  },
+  "atarist_4de0b420": {
+    "id": "atarist_4de0b420",
+    "name": "Action Fighter (Europe).ipf",
+    "cid": "QmfWNm43yPtw8hQTqoEyAeJVLLBKexyuyP7N68dKQep6uP",
+    "crc": "4de0b420",
+    "md5": "fdcf1e6792013d8a569c050ba8b0be27",
+    "sha1": "5322b37521fbddea1977a83921af4ccd44dc390d",
+    "sha256": "d5df5efcdad745b5ae66da43c7ba24e352503a84b0a8c54326c029b89563ddd7",
+    "size": 468252
+  },
+  "atarist_c066dd76": {
+    "id": "atarist_c066dd76",
+    "name": "Action Service (Europe).ipf",
+    "cid": "QmfSyXSm2dWpTCyC9yoRfhULcck7EYjUTN47kJuNMSZ7Fq",
+    "crc": "c066dd76",
+    "md5": "2b6329f86f5d8e74a7786ef0c83ecf9b",
+    "sha1": "b49e9eec355ef12069a66e0ecf0ec541554a450b",
+    "sha256": "f25576c9821eb8a38b405861e7d48a72ee8c8b91a84f7450a3d00ab5c008073f",
+    "size": 521027
+  },
+  "atarist_d12b34d0": {
+    "id": "atarist_d12b34d0",
+    "name": "Addictaball (Europe).ipf",
+    "cid": "QmbUjFWSUhY2P16dHr1HxJaaHaVfaqcXibEi3Hqdj5sDEk",
+    "crc": "d12b34d0",
+    "md5": "383b530ba4d75d2197f02d0091af7029",
+    "sha1": "256c9206e99c7a8e8083fe0ec0c0bd22fd9755d9",
+    "sha256": "21a6a5ea51563c05696d9e622fd5229b6083fc4ffaf5007e6d00688896245ffe",
+    "size": 468252
+  },
+  "atarist_d479f726": {
+    "id": "atarist_d479f726",
+    "name": "Adidas Championship Tie Break (Europe).ipf",
+    "cid": "QmVAQaE3RipfxwSmCgmBtNPhfW54A2dXRAxDYECHMPPRwJ",
+    "crc": "d479f726",
+    "md5": "f1fa24f684619b25306cdc1c2751a500",
+    "sha1": "e7c1f393c0e63703ffae10b60be00a070a3f4fa8",
+    "sha256": "e35dbccacb87f8272c2ee20f4e41017cc2d6e3e01942a15901ab34b2813bae98",
+    "size": 512061
+  },
+  "atarist_5194583f": {
+    "id": "atarist_5194583f",
+    "name": "Advanced Fruit Machine Simulator (Europe).ipf",
+    "cid": "QmcvbjNnTWna5BXSeBLyKSZkDJk2zKot4Te1BwNPV2Rxw2",
+    "crc": "5194583f",
+    "md5": "9f9dec10a96c0bd5c72786841e8ebaa1",
+    "sha1": "15c62d409a7159a0ef382e05eca2932f71c19e98",
+    "sha256": "61538279a9294cb6c121d0e9a32463b818341c6f262ace596345c5db33d43c4c",
+    "size": 520242
+  },
+  "atarist_8bb377e4": {
+    "id": "atarist_8bb377e4",
+    "name": "Advanced Rugby Simulator (Europe).ipf",
+    "cid": "QmYEYga17nschC3UB7iZZqmVcvE4hSq3KTWnqPYwXRiGum",
+    "crc": "8bb377e4",
+    "md5": "ed504c657955fbe6cc7565335dcc390e",
+    "sha1": "991fa6d717a4780ed2a0071eaa598e7ff5e02d87",
+    "sha256": "a6657a7abf8d452c6d2534fc812924817faa026c820e1877cc51d463aebd7028",
+    "size": 517627
+  },
+  "atarist_266ae29a": {
+    "id": "atarist_266ae29a",
+    "name": "Adventures of Robin Hood, The (Europe) (En,Fr,De,It).ipf",
+    "cid": "QmNdUYbDzdkyhRoYDwvnPuPErTGLyfqnjhmqiQ6RrJdrAi",
+    "crc": "266ae29a",
+    "md5": "f2739c782e057ee3046cde8f5891e072",
+    "sha1": "b00d85c37decb71d4511b5e3e1b86b1b65d3010f",
+    "sha256": "844465635a126767cadbd22bdcfab52f34534db1ebf6b7b41d6327d47b98b820",
+    "size": 918252
+  },
+  "atarist_5df7f24f": {
+    "id": "atarist_5df7f24f",
+    "name": "Alien World (Europe).ipf",
+    "cid": "Qmd9Duq6HFwaUkzpAP6sgJ3QX2o769sy4Bd2KMwgtkUNx2",
+    "crc": "5df7f24f",
+    "md5": "30f8feed8efccffe2b24a4adb744add9",
+    "sha1": "ea4c8384d730d3c30b5b4366f2c8e81c38647f8b",
+    "sha256": "0a096798afe7f933ed4e4ddc9064878f6adb9ac946dbbf4477cfcc72a6045fa2",
+    "size": 930177
+  },
+  "atarist_946b71d3": {
+    "id": "atarist_946b71d3",
+    "name": "Alternate Reality - The City (Europe) (v3.0).ipf",
+    "cid": "QmbxDhbQVeuuzen4GGJdrCtL3Z7aRwAiExzDKoDtPvrRer",
+    "crc": "946b71d3",
+    "md5": "2749a6a116764b1b55f4e3b8f492fddb",
+    "sha1": "aa7272a47814f95d8d146d4bee0572c7062697df",
+    "sha256": "64b670fc5ed6075c90e98b0cc853f7d7097847567d51aa90350b88b7b7626a40",
+    "size": 468252
+  },
+  "atarist_2383838c": {
+    "id": "atarist_2383838c",
+    "name": "Anarchy (Europe).ipf",
+    "cid": "QmRGM4sYqBmv9wPqAjA85Xrb8Sxw4GXLf4TP7HD5u49A15",
+    "crc": "2383838c",
+    "md5": "d8f97814cdda441fa1077913140df823",
+    "sha1": "9752df7e558bc63a11ce1ee636baec50dc385dc5",
+    "sha256": "44471e719795bd6844ecfe0f80e71664e76fce8dc6cf46ccfdcfd015e1284981",
+    "size": 830127
+  },
+  "atarist_a89c8fe2": {
+    "id": "atarist_a89c8fe2",
+    "name": "Apprentice (Europe).ipf",
+    "cid": "QmZ6NUSDoj6RUJN4P8jx8xuLFekbsfoFyT5nqKGGsEWp2r",
+    "crc": "a89c8fe2",
+    "md5": "324aa78a88b1e33e343998d58359d4a7",
+    "sha1": "6db663c1c7bbcb4eaed2aa855daf3d68de68e5c4",
+    "sha256": "bf7055ae25d0b7ee73a37d4ae1c77c97c3b6f3e081858094cbd5931b6f354c4b",
+    "size": 1018252
+  },
+  "atarist_d2f671de": {
+    "id": "atarist_d2f671de",
+    "name": "Archipelagos (Europe).ipf",
+    "cid": "QmNbTrAZirg9T2Enm4VesLrv2JZDBRqFmeyEmPX2DK9wYM",
+    "crc": "d2f671de",
+    "md5": "454ef981838bbd877a04296ebc57730e",
+    "sha1": "9cf425deba18ef912cf277227f2fa4a9480a4dc3",
+    "sha256": "9cd82c1c9b2252f9476f4cb8955ec656f352698cb306e52b9520cb6c36e72a58",
+    "size": 517627
+  },
+  "atarist_4c15f718": {
+    "id": "atarist_4c15f718",
+    "name": "Arcticfox (Europe).ipf",
+    "cid": "QmV1V5eK1i77JRLzSFbX6YFyjxuHP2z5CT8yJCFwrwUHBK",
+    "crc": "4c15f718",
+    "md5": "89b341fe42843ac19a5bd91266b90521",
+    "sha1": "97c8ff01349161d15bc79616132f2d49eaccf843",
+    "sha256": "68ec09e3f9a0a4de97461e73af94a1cb57ac61ea1f421e7cf4f85e67921632c2",
+    "size": 469246
+  },
+  "atarist_919fd6ee": {
+    "id": "atarist_919fd6ee",
+    "name": "Artificial Dreams (Europe).ipf",
+    "cid": "QmP3jncqhcV5qajbs9yhPMd156mD8tFCWoDnBrYBw4wRX8",
+    "crc": "919fd6ee",
+    "md5": "f6df6fc0445de05d99f2abc1a01eeedd",
+    "sha1": "b34210360a336dad82094a26f361dfccda4c4d3f",
+    "sha256": "0f24561c0992e166c6faa801829f3182b90ce21191c967a7ffb982195ed7ea88",
+    "size": 518254
+  },
+  "atarist_45c9c841": {
+    "id": "atarist_45c9c841",
+    "name": "Atax (Europe).ipf",
+    "cid": "Qmeaa8vFWL5VE83xn3wMdq5btuY6tNKZAqsUFeHTmqgKcd",
+    "crc": "45c9c841",
+    "md5": "d26f513d5e557514034970d027d19f5c",
+    "sha1": "3be4f157c07891e20909e9a5c3e3a2d4ee1712c3",
+    "sha256": "16aa6e7c10a772e15bb41a6fa07970f93699ac76ee16a901fab8eeba56718cc6",
+    "size": 518252
+  },
+  "atarist_c9e3437c": {
+    "id": "atarist_c9e3437c",
+    "name": "Atomix (Europe).ipf",
+    "cid": "QmTzfQPF5mi95N6HTJBAgTDowVaA9pBbcZEK8PoDeipqDF",
+    "crc": "c9e3437c",
+    "md5": "189a8f8f4ad2ee5aee5431de851d8a48",
+    "sha1": "5ed73e1a75d508c5a92d63ad657ad8bd6313781f",
+    "sha256": "8014cfdf111305892323048ee332b0cffa62b102458bf797379d529b14b6cdfb",
+    "size": 522812
+  },
+  "atarist_3f1c40a2": {
+    "id": "atarist_3f1c40a2",
+    "name": "Backgammon Royale (Europe) (En,Fr,De) (v2.50 4 Jan 91).ipf",
+    "cid": "QmUUwPXU5crjH7Az8E7nR6EAMVoqyUZkzwenAsrnHR2M6h",
+    "crc": "3f1c40a2",
+    "md5": "082ab6a8747efc80cc82cf4b84f4fbc2",
+    "sha1": "aecc70389395a35dae32dace15196c0f39c9d171",
+    "sha256": "4fa6db8951d6838bae97373434a33b2ef96ad60690ef5a613953f436006449a4",
+    "size": 468252
+  },
+  "atarist_144e8ce2": {
+    "id": "atarist_144e8ce2",
+    "name": "Balance of Power - The 1990 Edition (Europe).ipf",
+    "cid": "QmUgVSk1azo99NUWxbXGTHRtzesY6gx5UdSQjyMGhhkMxZ",
+    "crc": "144e8ce2",
+    "md5": "7b8f1ad358ef629e7108c0e180258fbd",
+    "sha1": "b757bd1956c2dad4aeebabd363aac15754f43fb7",
+    "sha256": "38e3ee5378f4d5b46fcd5872e5a43904e86d2c18498b4bbf4622423f3f0ea037",
+    "size": 927372
+  },
+  "atarist_a3be4e27": {
+    "id": "atarist_a3be4e27",
+    "name": "Ballistix (Europe).ipf",
+    "cid": "QmRNouX9WTNTQuaB26Gpe9U91VUAkFtCLYZjq1PkDosrJX",
+    "crc": "a3be4e27",
+    "md5": "4db6685bf36ae4a6956469e65e9e511e",
+    "sha1": "1ba4df50a837cfd9563332115c31e306aceb8c53",
+    "sha256": "2abb2f4baa7afdce2ca011257e37f26f4b533f006f9c617d75eb2dede6151439",
+    "size": 517627
+  },
+  "atarist_95f647ed": {
+    "id": "atarist_95f647ed",
+    "name": "Barbarian - The Ultimate Warrior (Europe).ipf",
+    "cid": "QmdvvqRQWU4iNAWZ7CSapb3BfaFJvBKq3dRbdeSyVpohHo",
+    "crc": "95f647ed",
+    "md5": "a2c0c7b66dae3a800084898b7a856644",
+    "sha1": "eb04c214363dd13dd3e96ac8968f961de1ec000e",
+    "sha256": "b47078a719e612310be806b7438fefe2e952e8e0370a5f39dcf8eb36a968c203",
+    "size": 468877
+  },
+  "atarist_0298b567": {
+    "id": "atarist_0298b567",
+    "name": "Battle Probe (Europe).ipf",
+    "cid": "QmP5vve1X5yyTLDpCWBnHDQ9UtTqEA49rcbwFrqYwTmB8A",
+    "crc": "0298b567",
+    "md5": "bd97ede70f7c23faa9a6a82c546079c6",
+    "sha1": "83ba2d8f81454eae99144a1bc7cb7227b9b8cf12",
+    "sha256": "5c639ad8ccdfa7391af125ce240645b1fc0cb6977dcca296f18dbe4a1cae3885",
+    "size": 518252
+  },
+  "atarist_d6f3964f": {
+    "id": "atarist_d6f3964f",
+    "name": "Beyond the Ice Palace (Europe).ipf",
+    "cid": "QmeKNdAWZHMxea4Jw361zTencr17EJyj93brQtnNQLNAXf",
+    "crc": "d6f3964f",
+    "md5": "3342345bc179592aa097a87d74c2bb2e",
+    "sha1": "efb6688ecd655c0070ad5a869aba6aa1bad0e336",
+    "sha256": "19515e4aa229799e19e2b75bd2fc27eaca46f62f743b6faa98695855acc61569",
+    "size": 518254
+  },
+  "atarist_ac0c4cdf": {
+    "id": "atarist_ac0c4cdf",
+    "name": "Black Tiger (Europe) (Compilation - Les Chevaliers).ipf",
+    "cid": "QmW4geUrUDmKaEtf5qLZyx7YbicamHMYwrWHuCdGUe2nNM",
+    "crc": "ac0c4cdf",
+    "md5": "a6964654fe551731daf87d15ebbdfa3f",
+    "sha1": "f6752873b7decd89eb31e0b8658e7c259cdbd429",
+    "sha256": "cc5e66ec97ef554c004ba26c4c41273b6d6aa16d782e862fce9bd7649bbbfffd",
+    "size": 1010945
+  },
+  "atarist_d2e24d3b": {
+    "id": "atarist_d2e24d3b",
+    "name": "Blazing Thunder (Europe).ipf",
+    "cid": "QmbsPZjKB3MWbuuuQBqh24RsMQ3yjUWvrkZEDdrGJBoF2m",
+    "crc": "d2e24d3b",
+    "md5": "456e287893004c2083e3c8bebb7438ca",
+    "sha1": "9f1c81fa8ee6eb2c069f7ce5f5489b9354a2eae8",
+    "sha256": "f624adeb9ffbca8d7dd5f76b84b1291e35d5f6497554238bdb1e81391c9b4bb7",
+    "size": 848162
+  },
+  "atarist_1f437363": {
+    "id": "atarist_1f437363",
+    "name": "Blockout (Europe).ipf",
+    "cid": "QmVzcmvFXcu7Xq7w7vQxbo1wcLNB4CJt9toNG3EcpBhcd8",
+    "crc": "1f437363",
+    "md5": "e0e3beeccdbae7c1fc9d6250516debf8",
+    "sha1": "46d0b2dbfa45d730f90f419f611ce43ff3807e9e",
+    "sha256": "8f939d73855bf721e8beebdb01caa9d097ac3a37c0958cc2f22203d8f899617f",
+    "size": 468252
+  },
+  "atarist_8856ef24": {
+    "id": "atarist_8856ef24",
+    "name": "Bloodwych (Europe) (Data Disk - Volume 1).ipf",
+    "cid": "QmQ8qcLnshNk4HnYCj4DjFXHpefHQzh3TXurhdKYZtpsWT",
+    "crc": "8856ef24",
+    "md5": "93d2531cd387809bdde677124a4e1f30",
+    "sha1": "9098c64f110273cb78ca7e553a7abe0c8d0af2f4",
+    "sha256": "e206eeab1d56321cb92ac6404406663577e142448d4107ac87ab8f205cc080bf",
+    "size": 520247
+  },
+  "atarist_edc0f2bb": {
+    "id": "atarist_edc0f2bb",
+    "name": "Blues Brothers, The (Europe).ipf",
+    "cid": "QmU36n5FdJXPTfgFn8eztwMX1FxoHHETcdF1uMV8vD4WDL",
+    "crc": "edc0f2bb",
+    "md5": "965618bec08379e85dbb39061722f7e3",
+    "sha1": "80e32887bf33a21c7a2b1b3a732f8fd072f2e922",
+    "sha256": "1a1e0e3c12a7ea0ff8b0fd25dc9b45a16923d9e5d5ef9c54e0cb48aa81e8415c",
+    "size": 521914
+  },
+  "atarist_1c1ef32a": {
+    "id": "atarist_1c1ef32a",
+    "name": "BMX Simulator (Europe).ipf",
+    "cid": "QmVaKjdEjNx6vFgEp4QyP8ijjF5kZzKH3CCd58tRGhC1Sy",
+    "crc": "1c1ef32a",
+    "md5": "62419e840f47aa43ed49c9b5563da997",
+    "sha1": "a98536453124c1fcd59d2af479b58d4a94a5c312",
+    "sha256": "edba4045106636c5126e3597949f757fae9df7f7042026db81c5b86769d5db3a",
+    "size": 517195
+  },
+  "atarist_5bede1bc": {
+    "id": "atarist_5bede1bc",
+    "name": "Bob Winner (Europe).ipf",
+    "cid": "QmXcWcexwKXusFwEYbUmrXu65dMNkrG9GE4P4qjjdPB3VZ",
+    "crc": "5bede1bc",
+    "md5": "618fdf628605395a98f14f7e36fb6ab9",
+    "sha1": "04b26fdfbbab28de0afb65528391af7cd2f7b3ee",
+    "sha256": "abf815fca57b4ca527df8a16f15635ae69684e8040ea569ff24ef47d05ef26f6",
+    "size": 486734
+  },
+  "atarist_817937b1": {
+    "id": "atarist_817937b1",
+    "name": "Bomb Jack (Europe) (Budget - Encore).ipf",
+    "cid": "QmPojGjcA5XjFLFtT7JsxzNSr6g9nHHVo5QNb1tC1tyh74",
+    "crc": "817937b1",
+    "md5": "836adacf379617da134821f08df8eec8",
+    "sha1": "ff51804b7d84036f94a1d18dd46befffd50bbc3b",
+    "sha256": "0ffe4b63a02e7e94f6d7faf62ba2bb9cec19743bc148cf36384dd47abf79c4ac",
+    "size": 518254
+  },
+  "atarist_ea0174bb": {
+    "id": "atarist_ea0174bb",
+    "name": "Bridge Master (Europe).ipf",
+    "cid": "QmPJCGacFqNp5v37UM8K3dydNTW4vEm5g4UQDrw8Wb3Xuw",
+    "crc": "ea0174bb",
+    "md5": "42ac9d353f5160954320fc0901444874",
+    "sha1": "691caf4b464aa05e4954857da96089a00af8f0e9",
+    "sha256": "3fa4b7ed4ed3ecf23c522baa3b306e46994125ac4b6bfcc3d9f7e630ed7b4de2",
+    "size": 467820
+  },
+  "atarist_77b7b1b7": {
+    "id": "atarist_77b7b1b7",
+    "name": "Bridge Player 2000 with Tutor (Europe).ipf",
+    "cid": "Qmbv6Qo3TX2BpM6AW61PibEKhT4cvpxaLGgNY8MR7QrSkm",
+    "crc": "77b7b1b7",
+    "md5": "480afe636bf07a507ee79b7ba637289a",
+    "sha1": "d51fcb431af891772d122ad4ea7311317dd25611",
+    "sha256": "0e220e7436388288fdfdcdec19d124cce21917667a97fdaf2b8f6dc25a717918",
+    "size": 468252
+  },
+  "atarist_124b77b8": {
+    "id": "atarist_124b77b8",
+    "name": "Bumpy (Europe).ipf",
+    "cid": "QmQyn7HWb7dkFLkYtgzEcWyhrYKbsfSJMvofai2JmwZFzR",
+    "crc": "124b77b8",
+    "md5": "d5b3c4c718f8c4593843953cae5b9ae2",
+    "sha1": "910d0099f08db3c4dc1877a8e5ff925d7666b1b9",
+    "sha256": "8a4e06153f3733f9d11e5d85bd3bc8aa5959adb47255727483ecef2458fd6b0b",
+    "size": 521109
+  },
+  "atarist_6f665589": {
+    "id": "atarist_6f665589",
+    "name": "Burger Man (Europe).ipf",
+    "cid": "QmWUh98Eu6B4b1jSytfa3rhRiF7hT671CE2FD6MYYgpWsz",
+    "crc": "6f665589",
+    "md5": "e42be61ca0339b16bc8e3a9b63a2a034",
+    "sha1": "b9f8c1f44fbed8d9132bc8ea06fef358be1a2a07",
+    "sha256": "ce610022572ac26a1a7e7b608a221d447b2b11f09e91ad29c40c9457221defc7",
+    "size": 627858
+  },
+  "atarist_11d1421c": {
+    "id": "atarist_11d1421c",
+    "name": "Captain Fizz Meets the Blaster-Trons (Europe) (En,Fr,De).ipf",
+    "cid": "QmQJJQjzUQTrqduwUikthgGkpfmyYDNLpRxERNYBXWWzu3",
+    "crc": "11d1421c",
+    "md5": "90812ddc9e28c099252d13ffcb6d2388",
+    "sha1": "d182416684e0082a031ece194bbb42e90296bfeb",
+    "sha256": "87763b2b7378116b80a9492a7977339b49e3e81dbee495fe9860c2a4efe4d27a",
+    "size": 517627
+  },
+  "atarist_a4c09db8": {
+    "id": "atarist_a4c09db8",
+    "name": "Carrier Command (Europe) (En,Fr,De).ipf",
+    "cid": "QmYXennJXA4BWsLuUPgdQsUEet532L3SkjEdozTvoy2vhK",
+    "crc": "a4c09db8",
+    "md5": "58c96f19c6f81d38e0e8c1b108cfbab0",
+    "sha1": "200e85a3362a08e589acc034888dd9a285b94656",
+    "sha256": "ef200738a6bd33d5dd16eed03c13ec158593a9f2a016bbac4d92d3af67090d7a",
+    "size": 1018252
+  },
+  "atarist_75c10f22": {
+    "id": "atarist_75c10f22",
+    "name": "Catch 23 (Europe).ipf",
+    "cid": "QmUb9JyESu3iocjxFiaNrkNX4i86eKY9KyaSCo8kaTY8Uq",
+    "crc": "75c10f22",
+    "md5": "b7a7d8ac8d0595a54c8416483197052c",
+    "sha1": "9d57b61f82bf75114f789c287083ea3563399cc9",
+    "sha256": "f976ef0c82421a9938c718fb1a6376b64af7c4d6ad95aa9926f17026c6c57467",
+    "size": 512002
+  },
+  "atarist_20153397": {
+    "id": "atarist_20153397",
+    "name": "Championship Baseball (Europe).ipf",
+    "cid": "Qmf8op1n3re3ic66Gn2nYoDD9deVuzoUd8xRbth3dPRLom",
+    "crc": "20153397",
+    "md5": "5759a02b7999eec973a443e54931e93e",
+    "sha1": "a503f17056d7d4778c5917b06af711ee33f6f395",
+    "sha256": "4f6f7d23684d46e5b370395cfac7ea0f0119a98fae052c4c751dd5995463ac5c",
+    "size": 468808
+  },
+  "atarist_b861d4d1": {
+    "id": "atarist_b861d4d1",
+    "name": "Championship Cricket (Europe).ipf",
+    "cid": "QmfKdfpSw9tzHY321gS3qYD3ippMaVg3fDSS4dVvuSz8QJ",
+    "crc": "b861d4d1",
+    "md5": "dd759e900a038f2dd2bcef45856bccfa",
+    "sha1": "8ca3de589e689142cb3f66f4b5742a5bc4855355",
+    "sha256": "5ddb3e57e823e7fd22563d91ad3763188b118b855fe70fc9fb8965619ba1e01e",
+    "size": 468252
+  },
+  "atarist_f3ff3775": {
+    "id": "atarist_f3ff3775",
+    "name": "Championship Wrestling (Europe).ipf",
+    "cid": "QmUgAHJirxbkokCeCJvmbxbschu72ta5Jx4NkyLFYuMFuC",
+    "crc": "f3ff3775",
+    "md5": "e3fd8a58810e7bb8a4b97b275a40e2cc",
+    "sha1": "f664eac6d793aa156f5a2952d9c62ab1cb486a29",
+    "sha256": "c75f845d02423a9ac8f972c891cd1ed7fc6a7cf89f56dac96d345beb8489fac9",
+    "size": 518615
+  },
+  "atarist_ae3ab247": {
+    "id": "atarist_ae3ab247",
+    "name": "Chase (Europe).ipf",
+    "cid": "QmUWTKuioswVpA9BWDK4mC2z9ZfzCE1dFAdpV5e8z8EBY8",
+    "crc": "ae3ab247",
+    "md5": "7d2a4833a508124240d83737963514ef",
+    "sha1": "931a84d2eb20fc9d410032497d97844a514fbde3",
+    "sha256": "465bad4df1224ea01c306f081a97ba4300754a902f69faae18c7264be3cd737b",
+    "size": 468252
+  },
+  "atarist_f95ee17a": {
+    "id": "atarist_f95ee17a",
+    "name": "Chase H.Q. (Europe).ipf",
+    "cid": "QmaJGezcVdJsbaBdee8U1cSGP1QvfCWMG4QGye35T9Zc5J",
+    "crc": "f95ee17a",
+    "md5": "10578deec5c081691f0fd0afe5235226",
+    "sha1": "ce4d71db6789b07b35297d4e22284ff8a7350424",
+    "sha256": "d4382e1985030829ed6c97e99bc55c4e9fca018373d18832ddd5fb105dc96019",
+    "size": 520242
+  },
+  "atarist_a3da4220": {
+    "id": "atarist_a3da4220",
+    "name": "Chess Player 2150 (Europe) (Compilation - TenStar Pack).ipf",
+    "cid": "QmbbRRw9y7SA5pSBrasZZuTgh3crycKx1ensQ9PN63T2kB",
+    "crc": "a3da4220",
+    "md5": "49da16f87f26c3a6f9f1577b1f16f6d0",
+    "sha1": "1d4bb34a8deda9577a1ad1df56d576783efc8a8c",
+    "sha256": "2c6212fc861112f434e6587c99ca052c73e4a0b5ab051c0cbc9b83025c47fedc",
+    "size": 468252
+  },
+  "atarist_7f2a5755": {
+    "id": "atarist_7f2a5755",
+    "name": "Chess Player 2150 (Europe).ipf",
+    "cid": "QmeVSVkBU2nGuhraL2n2Up7nazsgERKGsD9FKLjvjFM6g9",
+    "crc": "7f2a5755",
+    "md5": "d85798ae7b74b8dbf967725102660a28",
+    "sha1": "e391d32fa692a6c1209639897702fe4559e82314",
+    "sha256": "a2d1701e115972148273bc2a84ed8b1c5d00a79f949d4ccf78f83c1a69639a12",
+    "size": 468252
+  },
+  "atarist_91f09736": {
+    "id": "atarist_91f09736",
+    "name": "Chess Simulator (Europe) (En,Fr).ipf",
+    "cid": "QmTVmWBiML7Yunbco5dF9QDaY43Jio6jsmb6kf3gAfn9YS",
+    "crc": "91f09736",
+    "md5": "3d0fc83415ecdd50dc25bcf83a57e9e0",
+    "sha1": "9fdfe5d714586eb70d8b5936f671227de502620f",
+    "sha256": "7e80a21d0ef86502cc4a384acb38ed46556c1cd7a0a594f88924466d33d3aadc",
+    "size": 918252
+  },
+  "atarist_48f61002": {
+    "id": "atarist_48f61002",
+    "name": "Chicago 30's (Europe).ipf",
+    "cid": "QmPhsUyAzxmuHdfyNNhQwNjMwaW4WjwuFe9gZNVjfai75P",
+    "crc": "48f61002",
+    "md5": "2f7810b93d3a5fc11b47c6532aa4bcb1",
+    "sha1": "f21d800bda5ba013ff2793f09da0f423baedf5db",
+    "sha256": "7a45bfbbc591d690952504d73b1de8214dbaf27869ebc610bafeb427bfb0e8e3",
+    "size": 468252
+  },
+  "atarist_76561c0c": {
+    "id": "atarist_76561c0c",
+    "name": "Chip's Challenge (Europe).ipf",
+    "cid": "QmP55v1BnjM5APg9ps5v6gMU59UAihYYQSfLDhi5rBp4xC",
+    "crc": "76561c0c",
+    "md5": "20226881026a9ff746101a9ffe0ea68f",
+    "sha1": "a75d1bd89997eff25cb1f04645c05f1b5f63505f",
+    "sha256": "88302e30b3879e6fd903c4080086549cc82aa6f5ce01a7c37224670ff060aef9",
+    "size": 517195
+  },
+  "atarist_ac75f2fa": {
+    "id": "atarist_ac75f2fa",
+    "name": "Chuckie Egg (Europe).ipf",
+    "cid": "QmdZtWSZK7c6zEJbjmL9Yfif5QKanb8Ab2NDVPDY1PP1qy",
+    "crc": "ac75f2fa",
+    "md5": "e55c76c88047e91debfabc290beb022e",
+    "sha1": "cd8637b24fff0da0c72f2b5d89609e2410cab9d8",
+    "sha256": "e09095914d3523893158c6c2053479e71254779db55ad85998406714b8ee4b3a",
+    "size": 468252
+  },
+  "atarist_ce0f05aa": {
+    "id": "atarist_ce0f05aa",
+    "name": "Chuckie Egg II (Europe).ipf",
+    "cid": "QmRwovJCYSg5J5Sw6PwvSNR1QfbCW39pGqTLSFciUm85Bd",
+    "crc": "ce0f05aa",
+    "md5": "fa338779837d8e0d1690f66fae1a8e06",
+    "sha1": "080b1a79a14c5d87b1b4a306d89d6035fbd22941",
+    "sha256": "6ebe4d7b012bb198260636849d60b80537bb716f090f45de9f2bb462663deb6f",
+    "size": 468252
+  },
+  "atarist_d24df979": {
+    "id": "atarist_d24df979",
+    "name": "Clever and Smart (Europe).ipf",
+    "cid": "Qmer5VhmpwM3qQJzSStEkHM1JDcDExdk1qNj5GzaUta54B",
+    "crc": "d24df979",
+    "md5": "021da10d7a4eb0bb7e1f07f0d1dcf91d",
+    "sha1": "70f46b74c7ce404909e58fb04048973fa01e2f34",
+    "sha256": "a63cf9ea87575216aa1d405cac3fa29579b6beac129f94cc2564874a9d2d1056",
+    "size": 469481
+  },
+  "atarist_243b0ec8": {
+    "id": "atarist_243b0ec8",
+    "name": "Cloud Kingdoms (Europe).ipf",
+    "cid": "QmWwVTbJCvqW8S5wBXYogA8C5GD15SXsQ9KgpB8tcPm3ax",
+    "crc": "243b0ec8",
+    "md5": "d5990c5d3cfc97bfce76b96d6ac626ef",
+    "sha1": "4dfedc0fc04895a3298bc84bdaf1101aa26625e8",
+    "sha256": "abf8bc641da5ef149ed6986f7578eafb4fabd68652027d6c8c0b15ef14d55be3",
+    "size": 520242
+  },
+  "atarist_479f85aa": {
+    "id": "atarist_479f85aa",
+    "name": "Corruption (Europe) (v1.9).ipf",
+    "cid": "QmYeNcwCuaydqLiUaQV1rC5YHERcgm1Ka71ZsFgxkrd9Pf",
+    "crc": "479f85aa",
+    "md5": "4ec6d7e291341242eb37f341ebf2dcda",
+    "sha1": "6e13d65cc896c4087ca7b47466f12066d342af02",
+    "sha256": "fb4d4009d67c2e59c3bc39d75578b6bf5784214eafd7e798ba484939a46c53df",
+    "size": 472992
+  },
+  "atarist_9d27dda5": {
+    "id": "atarist_9d27dda5",
+    "name": "Crack Down (Europe) (Budget - Kixx).ipf",
+    "cid": "QmNqBatJNuSyTYVZQUioYsbABZd9fsrWCt2615wH5nJkq7",
+    "crc": "9d27dda5",
+    "md5": "8093673fff2774ffd7e2bdd47b61cfe4",
+    "sha1": "91752b32d4c93391ad707a030e1305bd110850b2",
+    "sha256": "c7d668a2b6f0a80feefc8df9b8e70946aab87dcfc269dc3bbc0e4c6310a38175",
+    "size": 1107413
+  },
+  "atarist_afb091dd": {
+    "id": "atarist_afb091dd",
+    "name": "Cricket Captain (Europe) (v1.5 1991).ipf",
+    "cid": "QmVjsiQ9DGvHNeVzPPTa8weUK8c3gZ5tRAERrq2KissFRH",
+    "crc": "afb091dd",
+    "md5": "74cbf8437416e4df3325e8254a244f9c",
+    "sha1": "fad79781d9a9e6848c059eb35a2c068c5df14a3f",
+    "sha256": "1ff87b70bc7cf52c4e4c9289ee8c51c6fdce025314a461aa5f707c142f13da24",
+    "size": 518252
+  },
+  "atarist_b3fdc6b5": {
+    "id": "atarist_b3fdc6b5",
+    "name": "Crystal Castles (Europe).ipf",
+    "cid": "QmYtkrCrftHwcPjjAyK1w8vcV4TLdQ5WGkHyF122JvtvmY",
+    "crc": "b3fdc6b5",
+    "md5": "92cd08122ce381037cd322174df93d60",
+    "sha1": "001562942440750c6be41ad2644301703ff5666e",
+    "sha256": "b398ca34949100dc137680b867f8403816d5622b0d313e192247d10fc1f6f2b1",
+    "size": 468252
+  },
+  "atarist_6e5122a9": {
+    "id": "atarist_6e5122a9",
+    "name": "Cybercon III (Europe) (4.6.91).ipf",
+    "cid": "QmYCzmKYWVbLE41rcBhJAwEXuGgvyj6ag9EvxCtuyQdXfU",
+    "crc": "6e5122a9",
+    "md5": "993e7fe9967cce25bbbe4f7cbe27b89a",
+    "sha1": "05e0cdc691f5358581d90816e3a2aead283b66b8",
+    "sha256": "24fe72f77ad32a2d17c4f634aab3100127171e0129a8aa9ffb194304bb9ac1ad",
+    "size": 518252
+  },
+  "atarist_f9cb88e4": {
+    "id": "atarist_f9cb88e4",
+    "name": "Dames Simulator (France).ipf",
+    "cid": "QmdWRmXuXfaJSQDSUXbeVjeAPy7njXZmte837Y6ikcyT4L",
+    "crc": "f9cb88e4",
+    "md5": "99c5b36a7806511f6ce44390a1fe9c6c",
+    "sha1": "c586cae6010a4bfbdf32845606cc8ebab0ee9617",
+    "sha256": "db567476878016c5e2592f74dfe97b1e7237701693ee2f715acf516f9a50cd14",
+    "size": 471664
+  },
+  "atarist_f1d37025": {
+    "id": "atarist_f1d37025",
+    "name": "Demon Blue (Europe).ipf",
+    "cid": "QmQbDWSEWtC7Su9e1JK7HqpXEufZ6jMgYaU6vtkP53fBow",
+    "crc": "f1d37025",
+    "md5": "414711cf2918f2467b00a693dc99cbac",
+    "sha1": "a390cc5ad5c5a26972705756ba2e52b371762093",
+    "sha256": "d2a0467d97ab328f41b3648c173e46ba80c36b84f6394a01d0d1cd64a90c8913",
+    "size": 468252
+  },
+  "atarist_b66460b1": {
+    "id": "atarist_b66460b1",
+    "name": "Demoniak (Europe) (v1.0).ipf",
+    "cid": "QmPvuY28smXqdbFeTBz8WQaETm6kJkJcywKvwikZkfsqQH",
+    "crc": "b66460b1",
+    "md5": "89b6f4a21417a564f34707b56cf7ca01",
+    "sha1": "f9c71b55650d08e8d09a4ccf383d35c218a0aa21",
+    "sha256": "f6d3ee7241b3dcc0a2363cf3ccdd9ec50edf240aba8b1e4cc29f706609b698db",
+    "size": 918252
+  },
+  "atarist_ab7ffc6b": {
+    "id": "atarist_ab7ffc6b",
+    "name": "Disc (Europe) (Budget - Action Sixteen).ipf",
+    "cid": "QmcnJ8Mo6j5b5C4v76X9fZSEHBEhax4Kye6WRnTYxnNvXm",
+    "crc": "ab7ffc6b",
+    "md5": "e977c26734b17ce867811b079a0fb330",
+    "sha1": "d29a4835ba85d55778fded6b59cee7d5c3552afc",
+    "sha256": "3d8ad2f02b7a0610f079409266507076112af3730cc4b3966ade91e9ddc5f9b8",
+    "size": 1014859
+  },
+  "atarist_34a1d807": {
+    "id": "atarist_34a1d807",
+    "name": "Dizzy Dice (Europe) (Budget - Smash 16).ipf",
+    "cid": "QmRSixXtDvHTscqokiEZo3MbpCiALVLpFZQAytv34CSRqz",
+    "crc": "34a1d807",
+    "md5": "cf6f677c4ad7f393843e53f4cfea60ef",
+    "sha1": "8a9dcec0065a8a4ed8ec03ce6f974acb4d9d25b1",
+    "sha256": "3c08c2f2d413a3b497efe2e9188f571d8c454fcff771fda030ec54a85fb50acd",
+    "size": 518252
+  },
+  "atarist_acbe8cc3": {
+    "id": "atarist_acbe8cc3",
+    "name": "Driller (Europe) (En,Fr,De,It).ipf",
+    "cid": "QmV2RE2y891BP5AxuAaREzQMB3ETtkhqRppRYA44rHA3nC",
+    "crc": "acbe8cc3",
+    "md5": "23b5087bb19aef4e0e1c3296e5778c35",
+    "sha1": "51a2e73f07d981b6a3ac75df9a16cb2b4d39f322",
+    "sha256": "9bbc670fb8490e30b73a58277e6a0d7a669c20bec347693472eaaa6ed9f7394a",
+    "size": 918252
+  },
+  "atarist_d263dcd9": {
+    "id": "atarist_d263dcd9",
+    "name": "Dynasty Wars (Europe) (Compilation - Les Chevaliers).ipf",
+    "cid": "QmNnFdiiefxGuSSfnKYG8G8mrQ2mdaxLG1Rv3AiG75EZzE",
+    "crc": "d263dcd9",
+    "md5": "b649b7c481ce19b217cd376b001b95b7",
+    "sha1": "91910e0ad7eb7e589be557a579b7d326a31f8788",
+    "sha256": "bd66346e90a129bd9ab6fc13465749d3f7f64cb55ec53605d916632c48734cd9",
+    "size": 1010945
+  },
+  "atarist_bbda28a7": {
+    "id": "atarist_bbda28a7",
+    "name": "Elemental (Europe) (En,Fr,De).ipf",
+    "cid": "QmX5cVrdktDSQqyi6PKuEdq3umXWEYcyuLkG1tEHyZqa6x",
+    "crc": "bbda28a7",
+    "md5": "75e199c8c9ab3bbb5765b134a61f5314",
+    "sha1": "f37c23bd0f7cf07d47a866381e5437abb61527c2",
+    "sha256": "fd9944202194d7aaa12f013fedf06ab8987d4fffd130be12bc5ce4a63490b3c7",
+    "size": 521039
+  },
+  "atarist_93197887": {
+    "id": "atarist_93197887",
+    "name": "Elf (Europe) (MicroValue).ipf",
+    "cid": "Qma2maFg4SMwH2qCuTB9SzpNj19JY48jYYQYzm4Mx7w4MJ",
+    "crc": "93197887",
+    "md5": "4e4a0f49290789572d3690b7334a26b3",
+    "sha1": "e1885ab604fefffdd4b8e3c59f7b203847ebe415",
+    "sha256": "9ef989e600e5c8c307f65bf4801133688b41e2eaad218e58119b836ac49ec01c",
+    "size": 517627
+  },
+  "atarist_acd85762": {
+    "id": "atarist_acd85762",
+    "name": "Elite (Europe).ipf",
+    "cid": "Qmdq8nyHdHpM4TuqGaNf55rkobDxagVHwhbbUV2DRkaDTk",
+    "crc": "acd85762",
+    "md5": "23a6b20283dd0eccb9d9be71087dfd60",
+    "sha1": "ca756d5ab4df383e7ac1fd108ead3bea28c03578",
+    "sha256": "90b7539f7403996d37a74a238cdfeed96e7a0c1b080e614f5499539ae8c2c551",
+    "size": 468252
+  },
+  "atarist_e4eacdf7": {
+    "id": "atarist_e4eacdf7",
+    "name": "Enterprise (Europe).ipf",
+    "cid": "QmTb2TfqYhCiVsyniwG8FTx2Nu9RD19TeAFXvG2BecKL7J",
+    "crc": "e4eacdf7",
+    "md5": "6f8bd8360a3a7a33a36d31f4e974c95f",
+    "sha1": "fc75d0177800f9c9b13d886dab5e661cc2a03ee6",
+    "sha256": "60ca20be95d8443f52b13d6dfa88d8ab3879b0139c7bab313a6ca33a20e72e0b",
+    "size": 468252
+  },
+  "atarist_004f5576": {
+    "id": "atarist_004f5576",
+    "name": "Erik (Europe).ipf",
+    "cid": "QmQdqu63o5TRidriNjc9aaupbMqfeeeHEo2WjycPZXx4Mg",
+    "crc": "004f5576",
+    "md5": "806423b31552c01a12c4e76e26e52581",
+    "sha1": "df50e0bbc03e9dfc071f767fdbd4a184e349b840",
+    "sha256": "d6a01b49dbe2cae0812c3929a939120f37ff9d92625f85cb01a9f1388a7ac2c1",
+    "size": 562652
+  },
+  "atarist_f5e1e276": {
+    "id": "atarist_f5e1e276",
+    "name": "Exolon (Europe).ipf",
+    "cid": "Qmf6ZBQCbbRDDo3TiDjVatWpahWgtxbY78yxezgMw1eDhi",
+    "crc": "f5e1e276",
+    "md5": "19137ffdc2f4bf0969d99f9ef70dd81a",
+    "sha1": "a28b71d9792bfb35f756e9253f46c1554670c010",
+    "sha256": "879db23241b8a4aeb3fa14291a60adaf53721a0f65a6fd87d74aed2b2b82fc6a",
+    "size": 520242
+  },
+  "atarist_e166e8a4": {
+    "id": "atarist_e166e8a4",
+    "name": "Eye of Horus (Europe).ipf",
+    "cid": "QmZmjMSsSdDQavLPVyLkbca5oH518Y8vppgDztsiBLGBYq",
+    "crc": "e166e8a4",
+    "md5": "d6f79731e623c8c7b983bb42dc10e96f",
+    "sha1": "9656690bf558939cd62941f3906d30ab93f01630",
+    "sha256": "fcfd5ace1fb6c84fde3dd16b19dc635c5dd3f149f0081cb96df61bac8acc6baa",
+    "size": 517627
+  },
+  "atarist_23c5a571": {
+    "id": "atarist_23c5a571",
+    "name": "Face-Off Ice Hockey (Europe) (En,Fr,De,Es,It).ipf",
+    "cid": "QmUWHZkRygvJgK8ULJDwKhPstSRGqR83pMQqJrCCMZ8WAk",
+    "crc": "23c5a571",
+    "md5": "435b7ce740ba15892b5e06961578233c",
+    "sha1": "8a35355973c6014b872c01e733adc1c24ab5edf6",
+    "sha256": "17ffef11cffd5d5d411ae97f111a7b2e411bb96433e5085b9279b8ac58e80f19",
+    "size": 1017627
+  },
+  "atarist_6cb31e61": {
+    "id": "atarist_6cb31e61",
+    "name": "Fire and Forget II - The Death Convoy (Europe).ipf",
+    "cid": "QmRfbt4jRpsGd786h7RHoonVdza1MCHZuo4LxYLeUXiQVK",
+    "crc": "6cb31e61",
+    "md5": "b4579ec879e6e5dbb01c83d7a8d1a72f",
+    "sha1": "a6ebdeb913d3f6ec67699c2893e8621da1af14c7",
+    "sha256": "9c727ec134289756b9abb2a1273d15a9e992cf34d35b747cc7c964148fd74fcf",
+    "size": 521914
+  },
+  "atarist_7117917a": {
+    "id": "atarist_7117917a",
+    "name": "Flimbo's Quest (Europe).ipf",
+    "cid": "QmUHLMxzLNBuvynqpoqZgBofAGJuocuc4oQ8XvUeUSjEUH",
+    "crc": "7117917a",
+    "md5": "cba4179609059e4ad6913a4731abbf21",
+    "sha1": "91f44c8a7bfc0d46724771f7ad44678688e739b2",
+    "sha256": "06accfad58be162ef51c6e9ed5ad272b077e998d99a37aafe4afe96c18e9e399",
+    "size": 1026092
+  },
+  "atarist_08363b8c": {
+    "id": "atarist_08363b8c",
+    "name": "Football Manager 2 (Europe).ipf",
+    "cid": "QmTe7k62rXyMQVjk8ho6fAVTvRQuSVAaWLZ9r3o7ykwiBz",
+    "crc": "08363b8c",
+    "md5": "7692732be29d5835eced88182809dd2c",
+    "sha1": "54c09068d7d6f0a355d54adf0644c61efc3cb602",
+    "sha256": "cd56c3fc401ebff2f6a11677a68159dcbc08f2bdff798a311e9b36ae8ee3d0dd",
+    "size": 518254
+  },
+  "atarist_1c4935e3": {
+    "id": "atarist_1c4935e3",
+    "name": "Foundation's Waste (Europe) (Budget - Klassix).ipf",
+    "cid": "QmVdZobCdGPz2eKAEjJTzUcxNoM7pxSBfa6WVdvPJC8USn",
+    "crc": "1c4935e3",
+    "md5": "7f25080281aa309234fe7f014473c2aa",
+    "sha1": "0da037c8e8a1784d0afa7f4b8a0cd191ec1bae7a",
+    "sha256": "723cd8f34afeded286fbb3f8fea7ed45163133c8661c206e494252202c5b5410",
+    "size": 562172
+  },
+  "atarist_8cc8484f": {
+    "id": "atarist_8cc8484f",
+    "name": "Foundation's Waste (Europe) (Coverdisk - The One - Issue 22) (Amiga + ST).ipf",
+    "cid": "QmVQ7TJzix8JS2MJXXU8hfE94muGWygYEcpjgt16pjPmqz",
+    "crc": "8cc8484f",
+    "md5": "78bbaa86ebc564a62f0ca08d8e55297d",
+    "sha1": "c51cc0cf5005fa6f422383e7f84a00f6bac5915c",
+    "sha256": "dd3753f5e03719029625809f17c1bf5e3987bc2c86641114d6c07511897bdd19",
+    "size": 1034145
+  },
+  "atarist_cda1bf50": {
+    "id": "atarist_cda1bf50",
+    "name": "Full Metal Planete (Europe).ipf",
+    "cid": "QmWSVNjzXH1XseJrZeMgg1nxo8DURLYrtwuTAttCQT2mhL",
+    "crc": "cda1bf50",
+    "md5": "a5d44cdb8884c1976901b76cddf77cd5",
+    "sha1": "f4eca005f4459e2016e48b6cd15523843d330d2a",
+    "sha256": "add1b9aa4a15832ec9d58db001003d7c9906707eeca1cce41a1cb5bf1776ed44",
+    "size": 915607
+  },
+  "atarist_52b04291": {
+    "id": "atarist_52b04291",
+    "name": "Future Basketball (Europe).ipf",
+    "cid": "QmTpe7MGdvLRYNTzBM1HxKHQfPKacmi4Mt5SrPpLyTTQ8T",
+    "crc": "52b04291",
+    "md5": "be85e992d576ad0f1a95de6ae89adc0e",
+    "sha1": "b5096b59ca5bc1cda170932a80321f81f42b139d",
+    "sha256": "8fe5dbb3c8010eb1e42ff3e2684f18d24084855eb3ef805ac419b9ce2951f93f",
+    "size": 1022242
+  },
+  "atarist_a56489c4": {
+    "id": "atarist_a56489c4",
+    "name": "Game Over II (Europe).ipf",
+    "cid": "QmQZP5Uqa2RBuMqmhZ67KxLApaWzc7VMDziTv5zKdLRGZK",
+    "crc": "a56489c4",
+    "md5": "b209aa33147c528fa01e3d1cbef06e5d",
+    "sha1": "9fd4eb2dfa35ac27dc08f6c44a14791e95f0c4d1",
+    "sha256": "3c052ecad3516b82e719127b94cf8992b98d238ee6fbb88873a4bdabc5e85ab5",
+    "size": 468252
+  },
+  "atarist_1395f810": {
+    "id": "atarist_1395f810",
+    "name": "Gazza's Super Soccer (Europe) (En,Fr,It,Gd).ipf",
+    "cid": "QmbgoysLgFA1r7dusEZ6tDqSyAMFEYE7cS2tAoCghVCxJs",
+    "crc": "1395f810",
+    "md5": "1282ac34c162264b367636280ad7ca16",
+    "sha1": "d9d2706e09dc547b4f3f8a10d6b441eeb835f837",
+    "sha256": "4f269275fb21c934ed83588e59dc08230ce2da45b6797992c323d27e96ac0de2",
+    "size": 520242
+  },
+  "atarist_be17f03a": {
+    "id": "atarist_be17f03a",
+    "name": "Get Dexter (Europe) (En,Fr,De,Es).ipf",
+    "cid": "QmVp8HE1BHX9Nr1uQZvgRXFGm9qDeivNsHhwcKcRc5D4mg",
+    "crc": "be17f03a",
+    "md5": "552361934672e7c4e4a56b01651b1ef1",
+    "sha1": "1425bea8d03f2253fccb689ea34848a26e17083b",
+    "sha256": "b5c112432cbdd1e591c01d6fbbea12e3dedcca9c3a9b48cdc8cb00717c7c6f5a",
+    "size": 468252
+  },
+  "atarist_da4f2ce4": {
+    "id": "atarist_da4f2ce4",
+    "name": "GFL Championship Football (Europe).ipf",
+    "cid": "QmZjwqUoayQDPTAn4HVymw9QTrjUDQLR8UkcYqSe5ThEv3",
+    "crc": "da4f2ce4",
+    "md5": "8352067b63cd9605f1627a7911a70d5a",
+    "sha1": "6fe6569173eac9c4fec578c1a4d87961cafcfba3",
+    "sha256": "6a6754fe645d10f56a277d36c325aca978052bbc8079d414e73f5f09e8595555",
+    "size": 468808
+  },
+  "atarist_c569ce88": {
+    "id": "atarist_c569ce88",
+    "name": "Ghosts'n Goblins (Europe) (Compilation - Finale).ipf",
+    "cid": "QmPRMHuZZYwVxwkYagfzysLdFXurDNSXrBq6nAgQTs3Fvu",
+    "crc": "c569ce88",
+    "md5": "44f26104486390ab97ea2f25e21c5d61",
+    "sha1": "0008dffe8d909a6ef1d6bc11bb5cd51e1b9cbf6a",
+    "sha256": "58c8f915cc15b7d19f21b6b77050bdd501d6062cadaa8fd4c424ad021f688773",
+    "size": 1022242
+  },
+  "atarist_15130dbc": {
+    "id": "atarist_15130dbc",
+    "name": "Go-Moku + Renju (Europe).ipf",
+    "cid": "QmR6TtuFfUeugtwFofBxk1CE6PZpAPdWf7SLGKURboiHqr",
+    "crc": "15130dbc",
+    "md5": "1f241a3567197d9cfc5c812fa4c0bc56",
+    "sha1": "564bf033b47c583586fe8bc7a80ae31ef7e5f28a",
+    "sha256": "0dc360f71b6365ebd84a433049ab3ed4b42e7c95e321a0d88c78bb73527a0f8c",
+    "size": 468252
+  },
+  "atarist_b232592f": {
+    "id": "atarist_b232592f",
+    "name": "Goofy's Railway Express (Europe) (En,Fr,De,Es,It).ipf",
+    "cid": "QmP9ZWhKhjoVZEdDoQfcnWpd8H9vXRw6QKS6LD7K2F7Z8e",
+    "crc": "b232592f",
+    "md5": "1d688517e449e08d35fb81caa8868111",
+    "sha1": "5b8da2b90b283468b39902e3a981321f66737581",
+    "sha256": "d4e4330199d669dce505e9d147ee224ba9557fc6491788b79eca7c15c1246deb",
+    "size": 518252
+  },
+  "atarist_eeb70ac4": {
+    "id": "atarist_eeb70ac4",
+    "name": "Growth (Europe).ipf",
+    "cid": "QmVQCV8BgDCbrXytL58EdxQmvgaw2RahetFspyuzNYJLzk",
+    "crc": "eeb70ac4",
+    "md5": "ec03eb568355fffa33eab4c109728f19",
+    "sha1": "184146571f4d141311838b670620e5bb58895d6e",
+    "sha256": "614c66d4f6c9bc313fa5232bc8a535cffc18bf892d75c3c4d1be6631f736acc4",
+    "size": 518252
+  },
+  "atarist_10d281ce": {
+    "id": "atarist_10d281ce",
+    "name": "Guardian Angel (Europe).ipf",
+    "cid": "QmXhLVJHiX4uYba55kMtdATLaKS5KeSq9npXEXHcn1uxfh",
+    "crc": "10d281ce",
+    "md5": "80b46506b0a4034e5d1b8804fbfa3dd8",
+    "sha1": "06e6c754d29967e940885bdb9692392f62c1501e",
+    "sha256": "7ba4ad7633f20007418585323ad415bef7cbacd48ca56486e04f23b90e8c2d9b",
+    "size": 520242
+  },
+  "atarist_e23d02d4": {
+    "id": "atarist_e23d02d4",
+    "name": "Guild of Thieves, The (Europe) (v1.0).ipf",
+    "cid": "QmbibPvsQb5pp5cXnJL54U2CFaTsC1ajpwqBzumkRrqwnG",
+    "crc": "e23d02d4",
+    "md5": "fea7860abdb0f6bc5e03955836184697",
+    "sha1": "22aa02b8f4ec650113d1084e94f314158e8ab85f",
+    "sha256": "7ea94288f6b96b83795917d4e0b422fa43d0df5bc47c2056df259430b2444cb4",
+    "size": 472560
+  },
+  "atarist_b7c73077": {
+    "id": "atarist_b7c73077",
+    "name": "Hacker II - The Doomsday Papers (Europe).ipf",
+    "cid": "QmQxnzvdwYzGiHB6jbPc1oo6gvo5jZFTwj2NfuPq4F25un",
+    "crc": "b7c73077",
+    "md5": "e40bd2e8a9b6682b29927e7d2ff74e10",
+    "sha1": "5695b9a86850f3e5b310c78685b87083390009a3",
+    "sha256": "3febf156d23cb343d452b700b70a96fc0b34b4d0873f7ea468362dd4dfb038b3",
+    "size": 468954
+  },
+  "atarist_5697bf95": {
+    "id": "atarist_5697bf95",
+    "name": "Hammerfist (Europe).ipf",
+    "cid": "QmYadPWsvEeMnPGnL8kWzELdkw3BKrFCMMckPBU8NPVxY7",
+    "crc": "5697bf95",
+    "md5": "0ba7aad200481f26e2bfd27ae4a0ff6b",
+    "sha1": "96cdb163a785ed752ab36a2010d49c6bac9a5373",
+    "sha256": "0713ec6a094567f61ef4eef548d8b0490a165b782b71c342986aeb5a516bc1db",
+    "size": 520242
+  },
+  "atarist_9d654a14": {
+    "id": "atarist_9d654a14",
+    "name": "HardBall! (Europe) (Compilation - Accolade All Time Favourites).ipf",
+    "cid": "QmPKifJjHZEeyDyBbJ7Z4F4wbo2V5AUJ2xF4njur2BSD5Y",
+    "crc": "9d654a14",
+    "md5": "dcd3045ceac5204b5e8bfd70527d2f4a",
+    "sha1": "d3b6c7dc9f90b0c47851d752e78168fdb8cb60a1",
+    "sha256": "e9a15c6a1a9161490038335fb07b10d4c306772fedd0263e70cdf9952001deed",
+    "size": 469240
+  },
+  "atarist_1d05bbb1": {
+    "id": "atarist_1d05bbb1",
+    "name": "Hellraider (Europe).ipf",
+    "cid": "QmYE6wQ2sHk6KTHUVYZDXA8UoioV19TrL3uvA98EugvkUX",
+    "crc": "1d05bbb1",
+    "md5": "f518aeae8d515349189c601d87472b73",
+    "sha1": "33ba1b904f3f9d8b58f0657fcab1f2f3e5ede675",
+    "sha256": "41c22ad9bd3d90d0da784b71c80e89341dff2a066a0f6a68994c33df25a91808",
+    "size": 1018252
+  },
+  "atarist_a290a478": {
+    "id": "atarist_a290a478",
+    "name": "Hi-Tec Hanna-Barbera Cartoon Character Collection, The (Europe).ipf",
+    "cid": "QmTcGZWe1esSP4oSJYBz4hz8qHhSebPH9wXLszmG5yr6Ry",
+    "crc": "a290a478",
+    "md5": "1cf842c7b9563175e870e79f9b3ffc20",
+    "sha1": "3416160e0d78e9d57c19ced5ce53981da5656b93",
+    "sha256": "2eff236afe172dc9761492688dc3344dfe17e8fe952133ce96f4d8ab99da2e1a",
+    "size": 711762
+  },
+  "atarist_bae8eb8f": {
+    "id": "atarist_bae8eb8f",
+    "name": "Hill Street Blues (Europe) (En,Fr,De,Es,It) (v1.11 26.3.1991) (Budget - Buzz).ipf",
+    "cid": "QmduMgBaPXqkNBALLNuhNk3soz9dkMt7qz36yKiurD6BUs",
+    "crc": "bae8eb8f",
+    "md5": "4ac69744c9fb6c09b22d4b52cc06f052",
+    "sha1": "aab8e7f8ebf1b47e3c28ac5286b6df5b1f7f4fa4",
+    "sha256": "3af57699f1b975a732173c77cf2c056a5d9a7bde9d8a481c14bf6718ec672fac",
+    "size": 517627
+  },
+  "atarist_8f1e98bb": {
+    "id": "atarist_8f1e98bb",
+    "name": "Hotshot (Europe).ipf",
+    "cid": "Qma1p5jPbG7zLbXBEatCfLfZWtKKcsQAWyPt2YnrDhK9rb",
+    "crc": "8f1e98bb",
+    "md5": "50b40ed0160fc0fce7d0b5d15166b8f3",
+    "sha1": "eaebfe4f66473025e0ca1637547fcf0a5747d61f",
+    "sha256": "c048e296ddeb51617a7602ef84f6e7e60786724608585a93ddecc07125d0da13",
+    "size": 467822
+  },
+  "atarist_ab7def25": {
+    "id": "atarist_ab7def25",
+    "name": "Hunter Killer (Europe) (v1.01) (Budget - 16 Blitz).ipf",
+    "cid": "QmfDqULcYKhhqfZju7ijbCV7Xj8GnnkBB79qjfPF27epNq",
+    "crc": "ab7def25",
+    "md5": "40351eabb13511cf7d4cb02c9d8092ad",
+    "sha1": "309a2c3233cd3a3e2c277a9d673e4d20e2c23d17",
+    "sha256": "c2d330651bb271b76867a60f7ada10792f51b812207d162dd14acb2c81428eab",
+    "size": 918252
+  },
+  "atarist_374a9589": {
+    "id": "atarist_374a9589",
+    "name": "Hyperbowl (Europe).ipf",
+    "cid": "QmZdvwFqPseMEfpHaCSnQp1e4oYC4H1aMPYttTex1LohsA",
+    "crc": "374a9589",
+    "md5": "68db711cf5e50fa1d19a39cf17cea879",
+    "sha1": "7ff1ea21cf1953079abaac21eecb3eea51efe5c0",
+    "sha256": "fa57cbb4e8a113823c3c74849ac12f9e66c4ca7ea82cb8f373dc6e52fcb6a64c",
+    "size": 517627
+  },
+  "atarist_0a1fc72f": {
+    "id": "atarist_0a1fc72f",
+    "name": "I, Ball (Europe).ipf",
+    "cid": "QmeZ4kNwHAB65KRfeCt9AjVzXNGVnCEeMK26eMDLU9j4jA",
+    "crc": "0a1fc72f",
+    "md5": "fe74a227df475cba3d76c8beaf52446e",
+    "sha1": "9ab201a633323ca5ee79905ddd6db577db85b496",
+    "sha256": "9957457964a1f34556d7e8cae7aa90dc64e89c8ed53de243494adc73e444c769",
+    "size": 518254
+  },
+  "atarist_d459dfca": {
+    "id": "atarist_d459dfca",
+    "name": "Ice Hockey aka Face Off (Europe).ipf",
+    "cid": "QmXi499Qv68PERLN8k8Qj7PGPRYpqmxW2rCQ6vn8qSiF47",
+    "crc": "d459dfca",
+    "md5": "67711caa435a4ee8e7fc74e31ac976c5",
+    "sha1": "5552cd3c140657511689725bba31ed9ac3b8c534",
+    "sha256": "9469e51cf1899b33b419512cba770a77dabd696e91af9b47d7ca1a5545a2037c",
+    "size": 517627
+  },
+  "atarist_f1ef6832": {
+    "id": "atarist_f1ef6832",
+    "name": "Indiana Jones and the Temple of Doom (USA).ipf",
+    "cid": "QmSKrA2fJugbwSMBtKmQ7rtCuW7XdgLaCWBnpPPVoxCUeR",
+    "crc": "f1ef6832",
+    "md5": "6b5f082f50f24f445adcdb1cbafa7255",
+    "sha1": "9a55a3f7a87d6a9aa947787a9bac75a8e93447e2",
+    "sha256": "e54bd70ef31058cfcd5980905ac43608da45afad6f0b2fcf9c9a6b8832330f28",
+    "size": 518615
+  },
+  "atarist_ea4f6222": {
+    "id": "atarist_ea4f6222",
+    "name": "International Ninja Rabbits (Europe).ipf",
+    "cid": "QmcGyzgB51ns8UP3RBWyvwQuht1oes94PkE8Q6JF17dUyU",
+    "crc": "ea4f6222",
+    "md5": "44c04151392ba839d28b81b6ce12c555",
+    "sha1": "bb83f01888f7b3aaca2d970f5ed8ce7c2d61875d",
+    "sha256": "520189f37afc581e598bf02b3e37784006b9d9ce1c9b76be0e91afad28f63498",
+    "size": 517195
+  },
+  "atarist_fc377e1e": {
+    "id": "atarist_fc377e1e",
+    "name": "International Truck Racing (Europe).ipf",
+    "cid": "QmP2xGUPaSXT6KrRLM316Tg2EY3JciBfctnJZ5gkwoX2T9",
+    "crc": "fc377e1e",
+    "md5": "a337a5a2921e9ff0c26a92a57d408fe0",
+    "sha1": "7207409265332dbdb31805878cfe46c90e13e968",
+    "sha256": "b6d535929fe432746d188e1a018c9f353c5d1eae6b3e29bb80b8fd5019832037",
+    "size": 1018252
+  },
+  "atarist_dfff1304": {
+    "id": "atarist_dfff1304",
+    "name": "Interphase (Europe).ipf",
+    "cid": "Qmaptpae8ArdnDpbvuSMQRjdXuU5ZQ2Nc1MEQTVdHBzXNg",
+    "crc": "dfff1304",
+    "md5": "d9a2ce630f3abbc96bb2111aa1b2bda9",
+    "sha1": "a90a650723abfbfdeed13aac22101fa2f6a56915",
+    "sha256": "c11a7d49fb85418ef3e177b1235eb8c61f560925fdd7a5a38c09ff83e7365fe3",
+    "size": 520242
+  },
+  "atarist_61f64a85": {
+    "id": "atarist_61f64a85",
+    "name": "Italy 1990 (Europe) (Compilation - The Lineker Collection).ipf",
+    "cid": "QmSRnNBQ1guse5vbTNRw6qcFePaCkkhEwtzmEceRbDizhi",
+    "crc": "61f64a85",
+    "md5": "c3bf5047f94434e741f9015db912da25",
+    "sha1": "b38bb59164358eb8364e8a28d4d8229d7c32725e",
+    "sha256": "52d25bc44fc86bb803742fa3733ed4326d4f82c8226a1d52249e39dfe6ed0b8f",
+    "size": 1011377
+  },
+  "atarist_1dc744f0": {
+    "id": "atarist_1dc744f0",
+    "name": "James Pond - Underwater Agent (Europe).ipf",
+    "cid": "QmeF2NoJeyTXs29uThJfN7Kqr7cea728sm9kF6HJfLnokt",
+    "crc": "1dc744f0",
+    "md5": "62d4a289df0b600f4bdc0e0a1c6df472",
+    "sha1": "b41fb5563f6f1d24f2a20ef07d29e405bc3a8860",
+    "sha256": "7d8b2e3c561570190113a0688c383ec4472dbff5bd3d2973d81f01a31b7879cb",
+    "size": 1017627
+  },
+  "atarist_81a35719": {
+    "id": "atarist_81a35719",
+    "name": "James Pond II - Codename RoboCod (Europe).ipf",
+    "cid": "QmenRat344MAGz81Z3Pm9HDpyovHRwXgRdNaeao8YTKtKg",
+    "crc": "81a35719",
+    "md5": "a6b91be93105d903e0634b69c2be86bc",
+    "sha1": "9c07c5ac2b6136a4fcb257546795e5c81939a4b8",
+    "sha256": "7041f18b478b14a7c017b707d96532464cd014c70f58fc8bc3544c41d312f7cb",
+    "size": 1011377
+  },
+  "atarist_7e9839db": {
+    "id": "atarist_7e9839db",
+    "name": "Jewels of Darkness (Europe).ipf",
+    "cid": "QmW8aXepMt3a34xcLSRe22LUGpag9iB3gnbWPZ7JpGKip4",
+    "crc": "7e9839db",
+    "md5": "1c5f93322bea50fbf9bfb511ad51dd58",
+    "sha1": "3068cce142264a581cf040b5d878a3aa19d29f89",
+    "sha256": "241b35d79024ec96c765200f5a78ce0676b36c59f6b6d3f7c20840cfd7bfda72",
+    "size": 467820
+  },
+  "atarist_b14d2140": {
+    "id": "atarist_b14d2140",
+    "name": "Kick Off 2 - Return to Europe (Europe) (v2.1e).ipf",
+    "cid": "QmUoKUajLaGxAZhKNTtPNsvR1DLZiwxogrt5sh5QCAJbtb",
+    "crc": "b14d2140",
+    "md5": "e361772aadae25fd96f8673e82d04b47",
+    "sha1": "64c21cb535770caaa86fdf3a57a4753a35e9833d",
+    "sha256": "4d660b513da91af44cf0efdfe9615177ad6c6bea2ac3285159d5ee0035267831",
+    "size": 1018722
+  },
+  "atarist_ef51c120": {
+    "id": "atarist_ef51c120",
+    "name": "Kick Off 2 - The Final Whistle (Europe) (v2.1e).ipf",
+    "cid": "QmR1iQFgFprMvLaheguPoKnn7YMinGLzReuj5XmGTbD4ir",
+    "crc": "ef51c120",
+    "md5": "f1d73d156b32a6e6af0a8d54a04b6b75",
+    "sha1": "be2989b691e945569e41c409cfb148a4c8812ae1",
+    "sha256": "5bfb9804f4a86f3845a16d8236eabffcc5fe5c52337cd56ffd00fa0cce08b4ce",
+    "size": 1018722
+  },
+  "atarist_7330c891": {
+    "id": "atarist_7330c891",
+    "name": "Kick Off 2 - Winning Tactics (Europe).ipf",
+    "cid": "QmYHD5VpoqCb2m22PpS8KCdAm6JFNrkgHREDCsV1x81uGs",
+    "crc": "7330c891",
+    "md5": "d19232bf51b8b7fca6b55821631f8abe",
+    "sha1": "da909c688c711bbb0e8f6f990b54a6fe752b9380",
+    "sha256": "9a47bbb104001e71a2d96834530bde7f14f560ed0adcb404129daf50235bebf9",
+    "size": 1018722
+  },
+  "atarist_4cc10f6d": {
+    "id": "atarist_4cc10f6d",
+    "name": "Kick Off 2 (Europe) (v1.4e).ipf",
+    "cid": "QmZF7eji8i5NBgK1dy1W2gMT1n72wP8bX2icbT55Y8Jx9k",
+    "crc": "4cc10f6d",
+    "md5": "bb14232cfdd5302c9a2017ee3d224451",
+    "sha1": "7182022240cd7a6b56f02fe37b8cdd26fa1836c6",
+    "sha256": "776be8d07d6d3aef4373e3c3a861e92de7a94b5c8b38cd7e5565d6c6ed749a7f",
+    "size": 569370
+  },
+  "atarist_fd4fb012": {
+    "id": "atarist_fd4fb012",
+    "name": "Klax (Europe).ipf",
+    "cid": "QmQdLsZJdeHSi3k6uH4eKdN5HNded1AvjgXooUk9yv3WzG",
+    "crc": "fd4fb012",
+    "md5": "2219ae4b8c36ecca077170691df20c04",
+    "sha1": "021aa27199cc30f7737b02fc471fbf14bf1a3541",
+    "sha256": "8c2f518c87c4250b65183b155dcf21e39a20ceeacd20488b05d5e24d1d4449c5",
+    "size": 1022242
+  },
+  "atarist_7f458cd8": {
+    "id": "atarist_7f458cd8",
+    "name": "Laser Squad (Europe).ipf",
+    "cid": "QmWrXjdFt6ruyhRoDTrWzxr6ieQZibQsxLnDbDQhvM47Zi",
+    "crc": "7f458cd8",
+    "md5": "1c1843c39ca6b42784b2d36ff9997dc9",
+    "sha1": "3c1feff969345c21bda71681d64263f4af82bdea",
+    "sha256": "be8e7633ade6e79bae83c52504dbe44ff98a1c1321f6f6056f95bb5aa70c7db1",
+    "size": 517627
+  },
+  "atarist_e30dcfb2": {
+    "id": "atarist_e30dcfb2",
+    "name": "Leader Board (Europe).ipf",
+    "cid": "QmVeb5AJLErqwFnkgGixm7PyAV9FrmugkJXuUpESurtFEx",
+    "crc": "e30dcfb2",
+    "md5": "30ba7d54be41fd07425c375b31b06b49",
+    "sha1": "9485340898b0196e4bf77f78ce425c577817e2be",
+    "sha256": "c6c47489e9886e02859dee60dd4048f7f648616775aea2d2b52d924244a64186",
+    "size": 468252
+  },
+  "atarist_0caa8be5": {
+    "id": "atarist_0caa8be5",
+    "name": "Leader Board Tournament (Europe) (Compilation - Leader Board Birdie) (Disk 2).ipf",
+    "cid": "QmNu92GA4EaYSbVJ1uvtGyx7otjt5xjNPyfUDqd9nhyM6n",
+    "crc": "0caa8be5",
+    "md5": "8d3fd4a51f28d2a7f07766d495e254cc",
+    "sha1": "99d6bc3b456a4e1f7488f31a98286ab96e4f674d",
+    "sha256": "ecde7c051bd826457c3f5bb84c3f01d0712ec8824a39d92ae8d49b24d2f9e146",
+    "size": 468252
+  },
+  "atarist_f4c91add": {
+    "id": "atarist_f4c91add",
+    "name": "Light Corridor, The (Europe).ipf",
+    "cid": "QmeHSDajb6MWbV9oxbV28rEbS6GJviCHTZxM31kVvVmjfT",
+    "crc": "f4c91add",
+    "md5": "9867fc33e1b1532fb797c072a66248b6",
+    "sha1": "785cf66c33f5fa0202954d24b95d604a12b821a1",
+    "sha256": "1dc6382c10d4c1ef7098f06a15acb0166d2a151270b399205c37264829c365f2",
+    "size": 471664
+  },
+  "atarist_e85b531e": {
+    "id": "atarist_e85b531e",
+    "name": "Locomotion (Europe) (Byte Back).ipf",
+    "cid": "QmetW8NV6RCiYpgL8jQ3Yeb1C3VY4oJoyxE7UciUduWtaj",
+    "crc": "e85b531e",
+    "md5": "de034f15e41da916a49e32cbea100e40",
+    "sha1": "19be92dc4c84293d88ced646a6b4befeb1e7045f",
+    "sha256": "69ceede0efe76596649a5d9a61e2121577c294202bf3ec5e316386efe3f3bd56",
+    "size": 518252
+  },
+  "atarist_ef80321e": {
+    "id": "atarist_ef80321e",
+    "name": "Logical (Europe).ipf",
+    "cid": "QmTZhJ12pQFt9Ti2P87smEC1jA9iQzWMFERzoj8RdUQNDk",
+    "crc": "ef80321e",
+    "md5": "446e530abdbd662c1940baff6a22d599",
+    "sha1": "66776e6f33fc7cceffee706fe4fccfce60fb47c0",
+    "sha256": "f340bf07e41a3f2a0c5ceb01b095812795b4aafa30838c664d5f4af117a791fc",
+    "size": 518252
+  },
+  "atarist_810fd34b": {
+    "id": "atarist_810fd34b",
+    "name": "Lurking Horror, The (Europe) (r203).ipf",
+    "cid": "QmWhLcfne29hY8tWRYok6kq6evCb9z6dZB52MZ1SM2Jzq8",
+    "crc": "810fd34b",
+    "md5": "b94d51e97620152138e25d7c792a6b3f",
+    "sha1": "5b64bb062db9bc31feefb2770e283d59e7b4e7ef",
+    "sha256": "06b3820a2d2a1a6fa1e2b3a5e1649d76565d351002bcb4c36dbaeb531f0169c7",
+    "size": 468252
+  },
+  "atarist_2760d237": {
+    "id": "atarist_2760d237",
+    "name": "Mafdet and the Book of the Dead (Europe).ipf",
+    "cid": "QmPz9mtNm1ZBJjnfSM4JrsMJKyiRpsfbc5Cr5RPohJbCTi",
+    "crc": "2760d237",
+    "md5": "aabbebf70c9a0dba6c23c3c9355b8702",
+    "sha1": "ddf1280e0c97dc698e19dfb67ffa823edd4018c2",
+    "sha256": "41abe3cfb6abf4ff46e6895196564ef36268b103ee271d77344e20e429577f69",
+    "size": 518252
+  },
+  "atarist_b1034c7d": {
+    "id": "atarist_b1034c7d",
+    "name": "Matrix Marauders (Europe).ipf",
+    "cid": "QmZQX4moNJhyqckWUvhEqRxwoMowBGbczJyBhRRcKkx9qp",
+    "crc": "b1034c7d",
+    "md5": "d11fd72b7b4e9b235ee089427b2a9e78",
+    "sha1": "361299b42c1414b0643f328284314b2be38523de",
+    "sha256": "b16b927211c3f77e5e2146ab2513119887ac79ed053a5ffe07fef656927f02f9",
+    "size": 522604
+  },
+  "atarist_7a448e10": {
+    "id": "atarist_7a448e10",
+    "name": "Mercenary - Escape from Targ & The Second City (Europe) (Compilation - Premier Collection II).ipf",
+    "cid": "QmSHQks7dBF9ASRXyjKjDHNU33J5L86fWjtgCaKYBDvuvk",
+    "crc": "7a448e10",
+    "md5": "3dd11cb4abd61df99a7cbd0b08bb99d1",
+    "sha1": "4538fb322a8faf2a7a95c7dae5da565083a8a8e8",
+    "sha256": "765ce7b8b17a88c58cab9293fe1707474492fbaf8d073bd7c6f96f887122fe0f",
+    "size": 468252
+  },
+  "atarist_cd252332": {
+    "id": "atarist_cd252332",
+    "name": "Metro-Cross (Europe).ipf",
+    "cid": "Qmax1vwQrawC94KpDg2x313sJt1xuPYmNT2dG1EUEqhVdH",
+    "crc": "cd252332",
+    "md5": "77b8386d554a2ff6fd4305a612562b07",
+    "sha1": "7a296cb6301a0e087da4c1ee8b01e3976606dac9",
+    "sha256": "cfd287aa93a4ec36019f903a06ecea139b2250a7441c7127f80061472c9f88d9",
+    "size": 527932
+  },
+  "atarist_7c99fce7": {
+    "id": "atarist_7c99fce7",
+    "name": "Mindwheel (Europe).ipf",
+    "cid": "QmcaTZKtDGNmAzy6EBmqnfT2FH3osdkXbtTssfzaU7x7VE",
+    "crc": "7c99fce7",
+    "md5": "0b9de6dcb1de23099ffda7b56ba33bc3",
+    "sha1": "6e5f7a529b67839061d4ed3399cb9d66f6a234cf",
+    "sha256": "aa3562b7189749740f75931e20d16a542685e5fe2da8e7ccaa2de3eb5af0a65a",
+    "size": 468252
+  },
+  "atarist_a4cf2e54": {
+    "id": "atarist_a4cf2e54",
+    "name": "Missing - One Droid (Europe).ipf",
+    "cid": "QmT1kr1EzBPUFgDozb6QpXRqvy6mKSfJY2nagcsMzxqZ9X",
+    "crc": "a4cf2e54",
+    "md5": "11af1d7f513493eee733630040b72ed7",
+    "sha1": "be458a296eb4d3474172fcd008f44af3e7807e3e",
+    "sha256": "ee01a13674cbd370ec125c4fe0a22ca396134f3bed78f05578c6328873c9c887",
+    "size": 243252
+  },
+  "atarist_060d37dc": {
+    "id": "atarist_060d37dc",
+    "name": "Mission Genocide (Europe).ipf",
+    "cid": "QmPTcPAHgWGtnipvZLA9zbhxMKRaHwzrhyxeBaG45DyhE4",
+    "crc": "060d37dc",
+    "md5": "ce6684ea8de8667a7e8ea39ad422372c",
+    "sha1": "e105683beeaa7bbdd06520fcb3923b11def5a4dd",
+    "sha256": "e38f6de84c8059a4ea3cc40ceb24005dc4921e6b2a67b49e25c86a1d7e765717",
+    "size": 517822
+  },
+  "atarist_be6095a0": {
+    "id": "atarist_be6095a0",
+    "name": "Monster Business (Europe) (Amiga + ST).ipf",
+    "cid": "QmVJMqoLJwnMSHhpWc5n4jUJbZRpu3DfFayHYc5oV1g4yf",
+    "crc": "be6095a0",
+    "md5": "8a98d2544d42a3bac5dc29df575be591",
+    "sha1": "c6d0706c363f3fd7f5e40864b49568ac9e157c8b",
+    "sha256": "5695da649003d46dd7811f82614ad8e064219b2a2b46703e4b0caa8d7785f4c4",
+    "size": 1009109
+  },
+  "atarist_0321e01f": {
+    "id": "atarist_0321e01f",
+    "name": "Nigel Mansell's World Championship (Europe).ipf",
+    "cid": "QmPZMsCotYCAQeTQCaYtU7UKp4uLSj5PLuZUT8hznykMQi",
+    "crc": "0321e01f",
+    "md5": "e472cc9a2eaa0bce4e8155885488858c",
+    "sha1": "2d76db1251811591b489ae892173eb28828ff28e",
+    "sha256": "e3d5afe369ebf9481ae3fcc44d4104a16e8f6ec96b516e46b1854a7265f8ebec",
+    "size": 918252
+  },
+  "atarist_bfe03968": {
+    "id": "atarist_bfe03968",
+    "name": "Night Walk (Europe).ipf",
+    "cid": "QmSwHHgVbHCSAMK9FLumfxfiBfi7QsGvivNoRbWPh8zKFp",
+    "crc": "bfe03968",
+    "md5": "0abdb7c21677fb54231d288a32fdbb62",
+    "sha1": "d3563e282cede1c604208a88f0521aff5f878ea4",
+    "sha256": "cc4ad506277498f1558abd23908537b387ec6015c9f1751bbeea5bfaa205b64c",
+    "size": 517627
+  },
+  "atarist_017b04b1": {
+    "id": "atarist_017b04b1",
+    "name": "Nitro Boost Challenge (Europe).ipf",
+    "cid": "QmNociU5hUXVhfyYbJWwbU1cZZC4LkfhnTvFHKxVi3Y6e3",
+    "crc": "017b04b1",
+    "md5": "cd778a1e205617528eb5294e86bac67b",
+    "sha1": "3452f036b3bdb4d1933717ddde10f7bda072ed03",
+    "sha256": "8b010020134aab7874a73dce02ea4d69f4cd9cb504ce1e5d44c470cf5c238a87",
+    "size": 517627
+  },
+  "atarist_40cf641e": {
+    "id": "atarist_40cf641e",
+    "name": "No Excuses (Europe) (En,Fr,De,It).ipf",
+    "cid": "QmVbLpF1v2jGkqtZzdM4bYiEFNwT6eamhjzdTtftegLsMF",
+    "crc": "40cf641e",
+    "md5": "b2cb49937adcf8dfa10c608be657db26",
+    "sha1": "b37dedecfc4840a65c7c7969d6b3102db5dbdd67",
+    "sha256": "c14be78f8290986c3f76fddd42124511a3018ca853eeee997a11acf899f99172",
+    "size": 468252
+  },
+  "atarist_de3bab95": {
+    "id": "atarist_de3bab95",
+    "name": "North and South (Europe) (En,Fr,De,Es,It).ipf",
+    "cid": "QmcE5us1SsteQuVLMAonSDAbWESCFN3Yo42C735ehL6iF5",
+    "crc": "de3bab95",
+    "md5": "e5b85e8b5acbaf58f3a4a0082816b7da",
+    "sha1": "979e8375cda1a2bab00902ae7e3055c137248533",
+    "sha256": "3c85da70e81d5b38a800d053cd583b4df7eabde2ae429a3d42627c4b8971c30e",
+    "size": 916039
+  },
+  "atarist_f435f18c": {
+    "id": "atarist_f435f18c",
+    "name": "Official Everton F.C. Intelligensia, The (Europe).ipf",
+    "cid": "QmRs4EQYnvJWK4PZCwz3ksdmZiQeHHYHDd55kLJJoPWHyx",
+    "crc": "f435f18c",
+    "md5": "457aed1686aba5319b0836f4625d531c",
+    "sha1": "d7000e73518f0b07c8f5c229b7b18f073f625b16",
+    "sha256": "b4347bb49fe9bfe152c9cddcac2042ff19ebe5df4a4e889adf56c7230655bb68",
+    "size": 918252
+  },
+  "atarist_0984b4b8": {
+    "id": "atarist_0984b4b8",
+    "name": "Operation Harrier (Europe).ipf",
+    "cid": "QmR6g3MLx3nHjrmB5vZLRnNsdPrkxx2oPGpbHCGqTvZDtW",
+    "crc": "0984b4b8",
+    "md5": "16f942357073f8e5b7709b81aea9762f",
+    "sha1": "42726a1a7dad4ca28c84e95f7eac93e8361729ca",
+    "sha256": "76596b8b54f2a6154d3c45cd1b9710352f60a9e950896401cc3a2e3ab00c8c7b",
+    "size": 1018252
+  },
+  "atarist_74879679": {
+    "id": "atarist_74879679",
+    "name": "Orbit 2000 (Europe).ipf",
+    "cid": "QmR1koxoHdYi2t8FiSDDnbMLEjFRwcfN51b3JgzaQjdJRe",
+    "crc": "74879679",
+    "md5": "7f032bfb4d08da52651d864b443bc278",
+    "sha1": "8192052f7e8ac1e152cfa0c696866b730e715f62",
+    "sha256": "c0d9158e2a1ab0f51be9a89be995d7ec6ee1c01b194aba4ed12d5e04edc9f515",
+    "size": 518252
+  },
+  "atarist_52444471": {
+    "id": "atarist_52444471",
+    "name": "Outcast (Europe).ipf",
+    "cid": "QmcUmD52WDmTxysgxSTFrRQonzdSRv51CKjF9rYDcv5vvQ",
+    "crc": "52444471",
+    "md5": "4f46575e216e8be51b8cb3a47dca020d",
+    "sha1": "6e6abbcd1dfffd3c39167b8662ab3fbb8feb3c54",
+    "sha256": "bc87efcc1f25de6443d29d4a6f7c4e222097229335cd5e91cc8a5b924545c71c",
+    "size": 468252
+  },
+  "atarist_66c2e498": {
+    "id": "atarist_66c2e498",
+    "name": "Overlander (Europe) (Compilation - Finale).ipf",
+    "cid": "QmRAZdbHMZ8KJ9r6QxFo5xcWvuk7VYmvVoAy2ii8R4UVH7",
+    "crc": "66c2e498",
+    "md5": "de359b416521bbe579a72a0ec401cddf",
+    "sha1": "ba0a6f3f48002c254b20e74b38efcffd4353bdce",
+    "sha256": "9a67962f476409f0a10739755cdcb73a332205c6c01286977024439b3fdfb70b",
+    "size": 520242
+  },
+  "atarist_f4548c59": {
+    "id": "atarist_f4548c59",
+    "name": "Overlander (Europe).ipf",
+    "cid": "QmV7K9PujfW1vXuMPPoSmrLqgBckra5UJNo7N91Drwmw6h",
+    "crc": "f4548c59",
+    "md5": "452e77668469f2eb5f84336b9cba5021",
+    "sha1": "6edbc8b1bd89c8cf60e836cbd690a47966f5cf80",
+    "sha256": "1bc708bb4c4dbbadac876741d15cc292e08e5e3d7aad02dd0e5068aed5b3b65e",
+    "size": 468254
+  },
+  "atarist_9190ad7d": {
+    "id": "atarist_9190ad7d",
+    "name": "Oxford Softworks Go Player, The (Europe) (En,Fr,De).ipf",
+    "cid": "QmfRwbKDaHuKQzVdkYwkek78xJ91QwV196n7vDWdDdgu4E",
+    "crc": "9190ad7d",
+    "md5": "6a911b3b13018e2429a1927cbe601546",
+    "sha1": "4a0a64dce055869706e6468f070da4edb90da404",
+    "sha256": "ebac126fad8ec34c6cc2ff31193e08de8a6d31bdc953469ec72bdd2be45721b3",
+    "size": 468252
+  },
+  "atarist_eaa700c3": {
+    "id": "atarist_eaa700c3",
+    "name": "Pac-Mania (Europe).ipf",
+    "cid": "QmZPgTzERK4AGbPSQcA4Tk3XDG4LScrHKhen8djRjANhmY",
+    "crc": "eaa700c3",
+    "md5": "a169210fedd07488c6b389eb904f0740",
+    "sha1": "5e60bc1be307627bc1db8e944d92db184094136c",
+    "sha256": "58bc01eb6ea4364bcb8e0e2ec12bca8fb927e4bdafb3cec5e18530126f9e599e",
+    "size": 518252
+  },
+  "atarist_c13b362f": {
+    "id": "atarist_c13b362f",
+    "name": "Pandora (Europe).ipf",
+    "cid": "QmYnzhv5J6MMJFnycwUy1z7hcVmsGiQDrnustLLJBMAikK",
+    "crc": "c13b362f",
+    "md5": "8b255704b27d735f30924d9c97e4250b",
+    "sha1": "a425e0c33500ae04352c35f7f9e9af01601b1722",
+    "sha256": "a29a8c174fe435d65a13708991d50f76e4cb6b23257ff6ac266d7b5cd04276b1",
+    "size": 518254
+  },
+  "atarist_1f431b44": {
+    "id": "atarist_1f431b44",
+    "name": "Paperboy (Europe) (Compilation - Finale).ipf",
+    "cid": "QmNuMApDTQdTnf89RP6AFm78L5ZKbY2n3s4Djq9XJCNQ3v",
+    "crc": "1f431b44",
+    "md5": "af25fd7d0d6b62e536fcf7dd91ccd434",
+    "sha1": "c7623602de34ae813958b8b5c840fc8a15bc9488",
+    "sha256": "4c89c719889f93f50a384ac05d090dfa7defd706c97f5393d1211b4e2adf161d",
+    "size": 520242
+  },
+  "atarist_bec7e827": {
+    "id": "atarist_bec7e827",
+    "name": "Passengers on the Wind 2 (Europe).ipf",
+    "cid": "QmT8hikMCp1NCVSZh2R3q2NdbqhhGseBZQgzjjcVR6WRCa",
+    "crc": "bec7e827",
+    "md5": "e95efb58fa2a993053a6882cb4ba578e",
+    "sha1": "0f234ef8f8400f89807e852a8116bd10bfbcd8e3",
+    "sha256": "6bb11b75095a1384b6c4f09b06a85a8b24faeaad8757a301237530a3558bf4df",
+    "size": 468258
+  },
+  "atarist_5a863ad1": {
+    "id": "atarist_5a863ad1",
+    "name": "Pawn, The (Europe) (v2.1).ipf",
+    "cid": "QmcPbuVqSwuqja5WkdhN51n9XQvJXiVQh6D8rCrPh6Ur7k",
+    "crc": "5a863ad1",
+    "md5": "172e9c31a66e50ba6e418cbf71e89320",
+    "sha1": "9da4b05d4825fdfa6118fae68ccff9f1c881a279",
+    "sha256": "439e0adbf6f4d41d9b1f057482b97cb947e699f73e322a2a70ab2c6443b7bbb0",
+    "size": 472560
+  },
+  "atarist_40279d1a": {
+    "id": "atarist_40279d1a",
+    "name": "Pharaoh III (Europe).ipf",
+    "cid": "QmaNrSatJCuukdwxRyz3bYEjikgJePBR8d58uNfKvjiTBp",
+    "crc": "40279d1a",
+    "md5": "282c97edff93136b1c634f39ab5d3570",
+    "sha1": "c0dd0bfd288bbd484aa5043ee8e1c4df682b0f18",
+    "sha256": "dd6b243705744fb5fc96fd3abe0e39d1523923248662fe2300bcf6e853da18ad",
+    "size": 518252
+  },
+  "atarist_7f06eab5": {
+    "id": "atarist_7f06eab5",
+    "name": "Pictionary - The Game of Quick Draw (Europe).ipf",
+    "cid": "QmdxQfbL7QzShcUkESi1Bbdy9tR1FpaNgTLdZE1DyMkqG2",
+    "crc": "7f06eab5",
+    "md5": "b57f955cb8a5d6c5e4289cb1ce75fcf9",
+    "sha1": "f62a9390308a001a07fcdaafbb41f470ca235420",
+    "sha256": "0bb2e817096d7bef3721ac6a7340d5e195894dcb51e591daf140ea7cd71c476d",
+    "size": 468252
+  },
+  "atarist_0dc48ed2": {
+    "id": "atarist_0dc48ed2",
+    "name": "Pirates of the Barbary Coast (Europe).ipf",
+    "cid": "QmPDDVFWViQuLQ6k6V4xKVA5KVNs9DJmqcuoaxaU4BWpjb",
+    "crc": "0dc48ed2",
+    "md5": "3eb75380643513cdd5e40367f0086e64",
+    "sha1": "731c51bd3d0500a9ae4e91d94c3107ba3154fab1",
+    "sha256": "7b03021866cde6358e09dcf51e0a3902fa6977a3321d8fadea5e7b81df8ac9e1",
+    "size": 468252
+  },
+  "atarist_938060a7": {
+    "id": "atarist_938060a7",
+    "name": "Player Manager (Europe) (Compilation - Football Crazy Challenge).ipf",
+    "cid": "QmciPjH39EkBryE9ibmV6qTe4Db1QC2pY7xXSHosRvHafm",
+    "crc": "938060a7",
+    "md5": "7045c3eaef3810143fde3a62c040d5fd",
+    "sha1": "3bef25fdbea9f68a049e5b0586a139ce43a5adf5",
+    "sha256": "c6463be382b39b03d6170fe0afe8d6ca93e084932c3af3981105625602dbe21f",
+    "size": 519442
+  },
+  "atarist_de09f0a3": {
+    "id": "atarist_de09f0a3",
+    "name": "Populous - The Promised Lands (Europe) (Amiga + ST) (Addon).ipf",
+    "cid": "QmbpEB9Znh3cDeBuERBZvuP38jS8UGvtELpBFJ25RJxchR",
+    "crc": "de09f0a3",
+    "md5": "73f1ca231d950bdb8fb3da42bd11f364",
+    "sha1": "21301177eb04122183aa716c081e8a4fda35cff8",
+    "sha256": "0e71fc6bfb76dbc75b9194a5ba078b32adb519b3df91d19252c2672803f34ba2",
+    "size": 1037012
+  },
+  "atarist_82fe6664": {
+    "id": "atarist_82fe6664",
+    "name": "President is Missing, The (Europe).ipf",
+    "cid": "QmYfLutQvxSX2RrvMS2cyJh88VEteh5TN8dQrFXSg22Gen",
+    "crc": "82fe6664",
+    "md5": "ca2817a335c5edfd493eae3ee023b5f5",
+    "sha1": "fb8ac7c4c96860c2e8f43d978d559377e9cce304",
+    "sha256": "d6da60e61d825cb12de0c1055d42b100c926f73e7e345251ddb3c9a7861d1d46",
+    "size": 518252
+  },
+  "atarist_cd245f0f": {
+    "id": "atarist_cd245f0f",
+    "name": "Prince (Europe).ipf",
+    "cid": "QmfBqydSt8fbgHpVshzwi9QK2ZCzTRj34qyKNHRUUjwkU5",
+    "crc": "cd245f0f",
+    "md5": "7365dea1c0e370fcfa85436ef9d1f365",
+    "sha1": "7718e05befff092806c53de4003e0785d0025822",
+    "sha256": "db9448fcc1ecf3d61fe5b24075534c8f964fc44f087c31575d177e5d4b2cd340",
+    "size": 1022242
+  },
+  "atarist_bf30e373": {
+    "id": "atarist_bf30e373",
+    "name": "Puzznic (Europe).ipf",
+    "cid": "QmZPqDvLUmU7kNzMW4dgAe85whpTKpF4sebRnNreqjypWG",
+    "crc": "bf30e373",
+    "md5": "b4649aff27aee5092c738b45aa80674f",
+    "sha1": "f0d0ea8620bc19e988af26c99fda87cae0372535",
+    "sha256": "04417f0897be9e354af04b178193c97e89799ed82690613234f54690f1bfd64c",
+    "size": 1022242
+  },
+  "atarist_ba6001ee": {
+    "id": "atarist_ba6001ee",
+    "name": "Quink (USA).ipf",
+    "cid": "QmbeZZZX4se1vxY6u2DcvEUHnMyzh8gfRpFLSH8j2X8cq3",
+    "crc": "ba6001ee",
+    "md5": "84c8181b53477dbfb069d6b4f8cd6ff6",
+    "sha1": "60f50797be41e19229254c6c7b8960e9e73cb233",
+    "sha256": "d4c28570bc0ae808c2b1aa2b66f4bcb27e60a70e701456d7b279d41833a59987",
+    "size": 469240
+  },
+  "atarist_ae0dc018": {
+    "id": "atarist_ae0dc018",
+    "name": "Raffles (Europe).ipf",
+    "cid": "QmNXMqF9YpXrV5AYxUm38rhDKz6DtoAzBzNgnnNzDtXeFm",
+    "crc": "ae0dc018",
+    "md5": "c881dd42113aa75eb613f0ba13f6a6d3",
+    "sha1": "4a1bd0fd4f61e6f549cb560e46b4ae3bc7da2749",
+    "sha256": "f632e9c002218e6f9c9c7e6b42e0212ea77595ac5b1dcf6f6b8f126557611db1",
+    "size": 918252
+  },
+  "atarist_8aba62dc": {
+    "id": "atarist_8aba62dc",
+    "name": "Rally Cross Challenge (Europe).ipf",
+    "cid": "QmPuDztMP7Jnh7CN2DedJAUXhLw99pY8YGVMsT6EMNpxYw",
+    "crc": "8aba62dc",
+    "md5": "53b0f6a0975bfead5198ad49616513f9",
+    "sha1": "1229664b54b4182754d9159f277b2ec4a5eef7d5",
+    "sha256": "d15f9762d3b58fb3ccfdba735489f166c875e62286e42037e7e3505f0a6b1fa6",
+    "size": 520242
+  },
+  "atarist_f2447ee4": {
+    "id": "atarist_f2447ee4",
+    "name": "Real Ghostbusters, The (Europe).ipf",
+    "cid": "QmVD87s1MNXxNfT1MtWbLAdXGmcmouxhJAN5VbL1a7bZrb",
+    "crc": "f2447ee4",
+    "md5": "04705950fcf23fa0726aa25b360a89a9",
+    "sha1": "8cada93ef9663e339d6a028cbd5fced1d0d45e08",
+    "sha256": "ad5742284ea2e9782708a81198f47742deb62879e292be3f1ef36f9c4406ab6b",
+    "size": 557852
+  },
+  "atarist_c2035bd0": {
+    "id": "atarist_c2035bd0",
+    "name": "Resolution 101 (Europe).ipf",
+    "cid": "QmbFQYw7RSj5itatk8LTAU6waGmiNwQM7pZx4bEwnwEExQ",
+    "crc": "c2035bd0",
+    "md5": "d43ed27a2c64e7b411a392a2735776f7",
+    "sha1": "640729e6be35556973174ea0cc774dd0af26eec4",
+    "sha256": "d464734327290766b11cc8be1f5bd095ac7cc34816d60616bd860afb8fc4c169",
+    "size": 519810
+  },
+  "atarist_7f0fe084": {
+    "id": "atarist_7f0fe084",
+    "name": "Revenge II - Revenge of the Mutant Camels II (Europe).ipf",
+    "cid": "QmYjFn8M8TQmeoGHUFmaMtErKhNxevovBybcJ2j9KsUFvF",
+    "crc": "7f0fe084",
+    "md5": "ce7c0778281ffc20475787c2893e110f",
+    "sha1": "4bd9af5151f3e12503621e560f5e259e7e0107bd",
+    "sha256": "e4ab6504f4caf03298dbc1d75dad1e9a845ee56c45a6a6ad4119bd6f1cace491",
+    "size": 517627
+  },
+  "atarist_48cf06af": {
+    "id": "atarist_48cf06af",
+    "name": "Roadwars (Europe).ipf",
+    "cid": "QmPBLWjRDPrQHzK6RzAFcQAZNmdbSVeWukxB231rqBXSAu",
+    "crc": "48cf06af",
+    "md5": "26896907bdced20e4a4e0b6a72e445c0",
+    "sha1": "f8fc1fa34fca68686dd279a7f2b39df6af68f67b",
+    "sha256": "e1b1d0a017e1de2759a12c70353108ca44917caa942a2b2cfed5a128d560c7fb",
+    "size": 517627
+  },
+  "atarist_1226738e": {
+    "id": "atarist_1226738e",
+    "name": "Rock Star Ate My Hamster (Europe).ipf",
+    "cid": "QmY1dXt58ZLtaWMDSeCu9u5fYAYTqxRhTMJBb8SWtYj9xr",
+    "crc": "1226738e",
+    "md5": "598b3160fd07c2853cc0b951e8050c79",
+    "sha1": "04213fe88c6255d5288aed6293ffb99ca845c575",
+    "sha256": "628d9d058ecf0631af111a0e93c042b6da70c548bdc7410b1a8d723c633b74e2",
+    "size": 520242
+  },
+  "atarist_846a8e73": {
+    "id": "atarist_846a8e73",
+    "name": "Rody et Mastico III (France).ipf",
+    "cid": "QmUvAs6KR8PQTkrWTQkiiPMZcnMZxoq3P8jR3KU6KPDU8c",
+    "crc": "846a8e73",
+    "md5": "f028a14c9404d22fe1ea9ed722fa76be",
+    "sha1": "e5440806ab3e9a54ae23dd261365cc1d61d73b60",
+    "sha256": "d3858a35c20adeb29af197a7c3b2eaad9bb1bcdd93521322b199213752415b98",
+    "size": 520607
+  },
+  "atarist_4cb9efae": {
+    "id": "atarist_4cb9efae",
+    "name": "Rotor (Europe).ipf",
+    "cid": "QmQKwqJHxKUhuEa7W1QiJbwUo5zzS4P1swPbaALKJJzREV",
+    "crc": "4cb9efae",
+    "md5": "5acfc336c6ace581bce573ddb66b22ba",
+    "sha1": "fce7b61b9d3c3bd3ab4d94fe46c18657ab96bbea",
+    "sha256": "012d0b5f6c3bc833c88f78ff3e58946c0c2c9ce29e1f2ba090bacdfe88e4e69d",
+    "size": 517627
+  },
+  "atarist_778ea9ab": {
+    "id": "atarist_778ea9ab",
+    "name": "Sargon III (Europe).ipf",
+    "cid": "QmdsSdRbdroktoF43TGkRboLyoBMNVE3YquQUdfpUPfAHZ",
+    "crc": "778ea9ab",
+    "md5": "c307708046df347c14896a7500999cf1",
+    "sha1": "52e1231b236d4c52f08abce13436b28217d4d20e",
+    "sha256": "6dbc86ba3182fecfcd17d461757a10b0d2ab86cd920fb2141f440530592518a5",
+    "size": 465752
+  },
+  "atarist_00afc741": {
+    "id": "atarist_00afc741",
+    "name": "SAS Combat Simulator (Europe).ipf",
+    "cid": "QmWNJX7nRdv79pxUVqHRMsTHmRvQFi6KGJk4NuM5yLsVUC",
+    "crc": "00afc741",
+    "md5": "73ec413340f24d4d63c42c3cf8682a97",
+    "sha1": "b40dfc1c65cfca8624f3331caa38c5542ca2b631",
+    "sha256": "d9edc523533d843193aded6d1bf5dc5b2800e7c5ec5456bce23a6d2f8c0df86a",
+    "size": 520242
+  },
+  "atarist_1baee40a": {
+    "id": "atarist_1baee40a",
+    "name": "Silent Service - The Submarine Simulation (Europe) (v725.02).ipf",
+    "cid": "QmYgGuZTkSD3n2zZDNX3tCF7xDEnVmD3bGz2iGvzsCnFYL",
+    "crc": "1baee40a",
+    "md5": "cbc34eee573664665ecb1239fa81752f",
+    "sha1": "7bb755ad54a7b8409ff083ea2266eefd14ab24c1",
+    "sha256": "bfdbeb74024d1f48553574f11b5cf9120364ce9360fbf92d70c01e4109b442b0",
+    "size": 468522
+  },
+  "atarist_bee632c4": {
+    "id": "atarist_bee632c4",
+    "name": "Silkworm (Europe).ipf",
+    "cid": "QmYnQx7D4WbsPF8oQLn7tGy4eqrZXLLb7kZEMD6PdJMP7d",
+    "crc": "bee632c4",
+    "md5": "70fdc9a8b96a80245b7b60083ec6c633",
+    "sha1": "b062f1d048855b8f259fcea2a7e87f0d2d84d46d",
+    "sha256": "d5a180b094a23eac8ef58b5b906bde3101c331726e30e8c71b35f90f450a84f3",
+    "size": 517627
+  },
+  "atarist_7b3415e4": {
+    "id": "atarist_7b3415e4",
+    "name": "Space Harrier (Europe) (Compilation - Finale).ipf",
+    "cid": "QmYjXXMFLyKXX1Hbppmy58RmvMFdUqy8EpQExbdPraor2i",
+    "crc": "7b3415e4",
+    "md5": "2c5cb1f7eb12f8d603e4ccbc4ef07281",
+    "sha1": "146d50a9635b45783373482a68c14ae7c769c528",
+    "sha256": "fdac0dac81597d938397c78d2f60aa7a7ebef6be2e7fbe86aa9fc6faffc52f23",
+    "size": 1018252
+  },
+  "atarist_c8146e89": {
+    "id": "atarist_c8146e89",
+    "name": "Speedball (Europe) (TRIAD Volume 3).ipf",
+    "cid": "QmX2YznLRA6qFY94fVyQp8jzQcdSJqBN8XqBUhwCoLipyN",
+    "crc": "c8146e89",
+    "md5": "19c656633115003a6db1b64c21fb0830",
+    "sha1": "c2e0cc209acabd775b8056e78ca46a8dd55ef72e",
+    "sha256": "c7021cd2c3c0ba95140e9bcd5527dadda026a8c79923ceff4f977d727da44e93",
+    "size": 520242
+  },
+  "atarist_f1e6df96": {
+    "id": "atarist_f1e6df96",
+    "name": "Spidertronic (Europe).ipf",
+    "cid": "QmcdSAVqtNxyKiDXHBa269FFznYo9jtH4TpS5es2ZdKufp",
+    "crc": "f1e6df96",
+    "md5": "bc25fef55729af29b801eb61a86bc908",
+    "sha1": "f52b44f4e27eb1cc76408cafb678812a5fc269df",
+    "sha256": "783cb6eca595a2519aa5f81d981441fdf03a00d5b0c77904adcb9bf8a1516d79",
+    "size": 471664
+  },
+  "atarist_9fb5f1ba": {
+    "id": "atarist_9fb5f1ba",
+    "name": "Spitfire 40 (Europe).ipf",
+    "cid": "Qme34UpuFF9BQ2jLHHGRvyoiSQz1cUM1HaQzrkscF5zDLA",
+    "crc": "9fb5f1ba",
+    "md5": "3f081955191014e2a3fca51a7aea14d0",
+    "sha1": "b223275e72f0d54ee1fe7f8736fbd53fd9ace4e7",
+    "sha256": "93834d4f16d1c2fb1841db1e43d1d850b6c81596325ada45d3b396538708730e",
+    "size": 517627
+  },
+  "atarist_8bfe0283": {
+    "id": "atarist_8bfe0283",
+    "name": "Spitting Image (Europe).ipf",
+    "cid": "QmS4tXiVLbS3Ak2SjDPTGYFxwNqUrjHDkhtvq21y43Jgzn",
+    "crc": "8bfe0283",
+    "md5": "aae950c1bf7513320c2f31162638a377",
+    "sha1": "6624dfdd592087ea837d62675307b9d9a46f7bba",
+    "sha256": "c8147a73cb24d9c71f675489a4620ee47397718f5d9aee0dc22325f9db22a331",
+    "size": 480127
+  },
+  "atarist_120c7444": {
+    "id": "atarist_120c7444",
+    "name": "Star Trek - The Rebel Universe (Europe).ipf",
+    "cid": "Qmcz1BbhCuuQGhh5cw73aVoZ4oE7eTvyRZ54aHqhxd9xsE",
+    "crc": "120c7444",
+    "md5": "23250263a60e55d86df8994e189fc907",
+    "sha1": "61b37a905f5965a33e8d88947131fe2df2078931",
+    "sha256": "bff23ee748548d76699ba04fa7de956e7030696f02fc7be8317a0a27880976d7",
+    "size": 517852
+  },
+  "atarist_e3ca5fa2": {
+    "id": "atarist_e3ca5fa2",
+    "name": "Star Wars - Return of the Jedi (Europe) (Compilation - The Star Wars Trilogy).ipf",
+    "cid": "QmZW6H7uJYEgNXUBr681sB4vPSxaq1CXLtb7524epFtH6V",
+    "crc": "e3ca5fa2",
+    "md5": "6021537230cc2997d74ef9484c1280c0",
+    "sha1": "b9afbddd1300154fa65f0b7dedfc0df7c8d8e024",
+    "sha256": "398acee75ea56369e1c2e958a9e0689b5ca024e5eac0a99f7d0647dbc089eb2a",
+    "size": 518252
+  },
+  "atarist_c0c4329f": {
+    "id": "atarist_c0c4329f",
+    "name": "Star Wars - The Empire Strikes Back (Europe) (Compilation - The Star Wars Trilogy).ipf",
+    "cid": "Qma3B6BWbLJLzyXi56EYT2TsyM2XzJMkatGaudAn1LaTPf",
+    "crc": "c0c4329f",
+    "md5": "1dfd281f13377c67e64ac79e9ebd8ae5",
+    "sha1": "04de6eaf22f5db39485847ba6afd8875b68b1a19",
+    "sha256": "81984f25ea08b02de225b41d45a11bc458cf8da4080093dd6b1ac980664dfb63",
+    "size": 518252
+  },
+  "atarist_e1cc5280": {
+    "id": "atarist_e1cc5280",
+    "name": "Star Wrek (Europe).ipf",
+    "cid": "QmR7VkMzCA5MTYJfhYsHNvP1cnf4YhGECfZwCqS2ePBzVu",
+    "crc": "e1cc5280",
+    "md5": "14e72fdc680b293cc2c17d394ba6b7cf",
+    "sha1": "0af3a592992cea6701b2e5a13e6958538b3c35f7",
+    "sha256": "c2c09c258fc36458814dfffdf981eb27c0257b2218cc467926b386f7356b804f",
+    "size": 472812
+  },
+  "atarist_feaa81e0": {
+    "id": "atarist_feaa81e0",
+    "name": "Starblaze (Europe).ipf",
+    "cid": "QmQhoit8ff5LXLciMNKeoVkrYYqbJHN74JoSbS7xtcFgFh",
+    "crc": "feaa81e0",
+    "md5": "494c7354208d8b618779f76f4f2aa9a3",
+    "sha1": "f3d054d299e41b8f751a0040f745675519e4873c",
+    "sha256": "63453a53a6de896dd9d7841594d2c40980f9f66f3fb2f521df2fdcad8e867b56",
+    "size": 517627
+  },
+  "atarist_b0472c8c": {
+    "id": "atarist_b0472c8c",
+    "name": "Starglider (Europe).ipf",
+    "cid": "QmSaryKbJfV46KkY4Sc5gt5cEcDaunKfXc7c5zvazqXJwZ",
+    "crc": "b0472c8c",
+    "md5": "ac16a80326d54e4b76b9dc79935773f5",
+    "sha1": "aae5e32c2bbd5c31631d65da238d947d1a749c5c",
+    "sha256": "25e0a9200ace3a9cfa1e93d026b8746da47964b82113db4e025e971998bebe0c",
+    "size": 517820
+  },
+  "atarist_ed38c67f": {
+    "id": "atarist_ed38c67f",
+    "name": "Starglider 2 (Europe) (En,Fr,De) (Amiga + ST).ipf",
+    "cid": "QmT2TqLVVHTbdr841etuStzsxoQULnnfHHnZc6cKdj8Yen",
+    "crc": "ed38c67f",
+    "md5": "b2d2de4c643859241490c378fdf297d1",
+    "sha1": "c2cb4b2f517e2f20205577b8ba16331920660160",
+    "sha256": "34ad554ee97e3e7ebb9f227cfbf8d5c45251640f4c0e999175d4b56d5ed8d55f",
+    "size": 1019021
+  },
+  "atarist_cd1aee1b": {
+    "id": "atarist_cd1aee1b",
+    "name": "Starquake (Europe).ipf",
+    "cid": "QmeyH1tAa7EbN6xekvLpzHPu8MeqSTyeNM6pLFCbzZaj1N",
+    "crc": "cd1aee1b",
+    "md5": "02d1b3b0007ba249fd3d4622c3961c84",
+    "sha1": "ddff723f14c56a2591ca5fa74670ceff2499d4c7",
+    "sha256": "5199bc6baba8df92c98640b66653f060483d511d12654a50c840f11deafe43ea",
+    "size": 468252
+  },
+  "atarist_6454b0e4": {
+    "id": "atarist_6454b0e4",
+    "name": "StarRay (Europe).ipf",
+    "cid": "QmP331E4o5MfnFmTX1r6Kd3JfkRHfqTsezLQvCHBzvnmoF",
+    "crc": "6454b0e4",
+    "md5": "4683a636c2e6d05aed1cb390063a6f8d",
+    "sha1": "5b11c3d32747e9e999dd18f1f8a28f6454e467b7",
+    "sha256": "6c1cc1977109b7a54ed5f3f42c6732274f321b5e79f89863dd6a730a725ed779",
+    "size": 862002
+  },
+  "atarist_6ac8b3b0": {
+    "id": "atarist_6ac8b3b0",
+    "name": "Steel (Europe).ipf",
+    "cid": "QmZhyuv6wZYeaa8xDF1pDTvjNHbzqB7RWDwHSKCdi46URc",
+    "crc": "6ac8b3b0",
+    "md5": "61d1f74b8ba230457a08de28bcd152ad",
+    "sha1": "3c562fba4b6654ad28835ebeebd7eecbb7e22af2",
+    "sha256": "f3c10a0acc3ee3813ec42f7ab7e8e009e2afaa22fde210158047845b287a5504",
+    "size": 520242
+  },
+  "atarist_47688571": {
+    "id": "atarist_47688571",
+    "name": "Stone Age (Europe) (Amiga + ST).ipf",
+    "cid": "Qmde2v7XWJt6QgKZZzVEUP1nVy1QNooWLWmWx5xrGURPwx",
+    "crc": "47688571",
+    "md5": "4ea1d7e97116e849c9833e82bf05e6b9",
+    "sha1": "f01bfca44a627b1b8bbdf52b722aadcc584145d7",
+    "sha256": "c3ef6d14c8468586b48340319990cd8e87543a6eea546c5c9459e3c38a193b52",
+    "size": 1008605
+  },
+  "atarist_1fc8c46c": {
+    "id": "atarist_1fc8c46c",
+    "name": "Storm Master (Europe).ipf",
+    "cid": "QmTPdaKx5d1rRRjPafEuViiqJwQEtfnHsToeA3tpUBxMst",
+    "crc": "1fc8c46c",
+    "md5": "86a78b00494837659025fa7455e24b59",
+    "sha1": "f442bab4751112a0c60ebf3ec68d9d77cc65f796",
+    "sha256": "bceca05bb71333c5dd87b61c80fbc5f871e092837e9e73de5fc5a0916c2f84aa",
+    "size": 1014649
+  },
+  "atarist_508fbd09": {
+    "id": "atarist_508fbd09",
+    "name": "Strider (Europe) (Compilation - Les Chevaliers).ipf",
+    "cid": "QmR5SDNL16XMNpXRpVo19AyAkZyextrwXxaZ9QdgfrginX",
+    "crc": "508fbd09",
+    "md5": "5749dbf59d2a4fc9d95b109a9984e4aa",
+    "sha1": "1042302ce7a68f39e8a862a66544a61d3c61977f",
+    "sha256": "2d581a190da36798d60f5cf9c1ba3e51b66e5d2abfa86c210a407eb53d275815",
+    "size": 1010945
+  },
+  "atarist_43013dcd": {
+    "id": "atarist_43013dcd",
+    "name": "Strike (Europe).ipf",
+    "cid": "QmSU1WTc4bJ7z7w3Z7Mg5K8KY7EP5ExoYV1ue9tDBk7iLD",
+    "crc": "43013dcd",
+    "md5": "f9a683c6f23bbed7b25634a8706b1aea",
+    "sha1": "98836048190c82466f39dbad065d38b0682759ce",
+    "sha256": "e99efa861fa00d3047de6c06420437322d18cf3234c195f16430dfdc96f2ca8f",
+    "size": 517627
+  },
+  "atarist_46f0ae7e": {
+    "id": "atarist_46f0ae7e",
+    "name": "Sundog - Frozen Legacy (Europe).ipf",
+    "cid": "QmcqeqJ6UM4y33EhwNfoSHwtDTMwCCingWvwSpDQFEFAdv",
+    "crc": "46f0ae7e",
+    "md5": "0ad024051de9bd891105e3c4ebf4a8fa",
+    "sha1": "512b89b7bece87df8ffc7c3a3fb6f22496ff69a7",
+    "sha256": "ec74dc64e81dc40af192870d2e6521020856cf248761129ad93cd6dd428ada21",
+    "size": 468877
+  },
+  "atarist_c1af7fdd": {
+    "id": "atarist_c1af7fdd",
+    "name": "Swap (Europe) (Budget - Fox Hits).ipf",
+    "cid": "Qmaq319HhXyDs9mL6M5Xe5sN1rC3UyXvv62qt6dBb867M8",
+    "crc": "c1af7fdd",
+    "md5": "b7999f29beb1e91a9d3483b12acd25b5",
+    "sha1": "e3e4e972b05d23d9784b495d1fd081bac5e40344",
+    "sha256": "8f850dc336a69ed6cf594d7052202ea6b5ce12541a25fd4f00080d5bc3cf3c68",
+    "size": 918252
+  },
+  "atarist_8ce5a8a6": {
+    "id": "atarist_8ce5a8a6",
+    "name": "Tai-Pan (Europe).ipf",
+    "cid": "QmRDm9rVjBDSdP43ic27tM1XAR6cUvuoAQvFPN3EDLoC4b",
+    "crc": "8ce5a8a6",
+    "md5": "d790ed6609fa9986521b898ddc8381bf",
+    "sha1": "529a47fc044410f0bd8b8ffa36449146448781fe",
+    "sha256": "8458c272f233173ecf4b960780a636bcdbc1c2da30094a4f5aa637b6ad2abb85",
+    "size": 520092
+  },
+  "atarist_bff7a431": {
+    "id": "atarist_bff7a431",
+    "name": "Tau Ceti (Europe).ipf",
+    "cid": "QmfCpYTCHqsVbsnJyBVPkUeULEYzBM2P1gjuexokTNBdTd",
+    "crc": "bff7a431",
+    "md5": "6b156a950f873ecabcc6049c927a30c1",
+    "sha1": "1d6715f7cd019a0e78da3d0907791cd58f708378",
+    "sha256": "70bcf139b00b201a8eebea94dfadef770893ea64375cf19581da717f9037e159",
+    "size": 468252
+  },
+  "atarist_47e02070": {
+    "id": "atarist_47e02070",
+    "name": "Tennis Cup (Europe) (Budget - Action Sixteen).ipf",
+    "cid": "QmQvs86bM74bHggpqRVRpXP1NWA3C8bMHix3ZMjCD1q4TZ",
+    "crc": "47e02070",
+    "md5": "5ef126349d6ff00504af89091546fc24",
+    "sha1": "c802950995652c2a0b2d330193445d1b8ac78f79",
+    "sha256": "ab91b334638340b23024fba82e3f526546ac500d04ae4c3bf139aefc4ddbee42",
+    "size": 1023233
+  },
+  "atarist_adafa9ca": {
+    "id": "atarist_adafa9ca",
+    "name": "Theme Park Mystery (Europe).ipf",
+    "cid": "QmRTUXGcaLwVBcz5dAHWdfWhQJkC7YZU7Zo4iJutARbkpR",
+    "crc": "adafa9ca",
+    "md5": "27c9294be4f35bdcc905cc0a30c9d6da",
+    "sha1": "eed220be58a12d2affc3535417558ed60b360cfa",
+    "sha256": "6e05bf26c9b7a4f5b08122f85d210551881e2f036f53537a1bab8153d8b0cdd8",
+    "size": 1021810
+  },
+  "atarist_e2a2f206": {
+    "id": "atarist_e2a2f206",
+    "name": "Thrust (Europe).ipf",
+    "cid": "Qmb4XSqtegW3dDBnLvxZgo7UQsoVXW2SaSgnFCBLCm3ak6",
+    "crc": "e2a2f206",
+    "md5": "b76986a30c093cf22b718a3d7af771d6",
+    "sha1": "4d89490441faffca7952c0b38701159718b2be4b",
+    "sha256": "7aea244dd9102af51c56df1644564abd3f339a8d76648c3ad0b136d186bb7914",
+    "size": 518254
+  },
+  "atarist_6f8e0512": {
+    "id": "atarist_6f8e0512",
+    "name": "Thunder Burner (Europe).ipf",
+    "cid": "QmcNq2Wa97hEfE3h9oLRKa5vhFTedhWdzjDUuetLNyKddg",
+    "crc": "6f8e0512",
+    "md5": "c033ab6c7d71cc144a0d4bbd514a8f7b",
+    "sha1": "ce97963bbf852945295c44bb1a3c276b2b9de99b",
+    "sha256": "13b849ce47760d0e6eaaf877116921a6a7a56b146ffd397ef6807c51b90d88b7",
+    "size": 1014859
+  },
+  "atarist_3ae4ef28": {
+    "id": "atarist_3ae4ef28",
+    "name": "ThunderCats (Europe) (Budget - Encore).ipf",
+    "cid": "QmcimJxn2nLCAUzfDf4X5WkwwcBYGmNM8uNeHGmyk6Bbci",
+    "crc": "3ae4ef28",
+    "md5": "98434202cc5d8c8209564c8a7775b215",
+    "sha1": "41481fd1d7afd83e8c543b3a8c407150ef0c6d4f",
+    "sha256": "7a45a7448fc81f465484f4d45d78a6a99b3e65dc77c443779c73a17d3ccbba23",
+    "size": 468254
+  },
+  "atarist_8039ccd0": {
+    "id": "atarist_8039ccd0",
+    "name": "ThunderWing (Europe).ipf",
+    "cid": "QmbNdcwGoybpSZuS3vg2gJSt75HBLZdUSAiB15Y1ZJogwT",
+    "crc": "8039ccd0",
+    "md5": "38847f9421d297ce837f9d6a84b5e3ab",
+    "sha1": "c05b20e3501a7738164607503759021086389645",
+    "sha256": "fc9b70828039cf0f5e4fce219a1051d6696c98fbe4daef16594741c3772c814e",
+    "size": 512002
+  },
+  "atarist_d2b9af2b": {
+    "id": "atarist_d2b9af2b",
+    "name": "Timeblast (Europe).ipf",
+    "cid": "QmYYCC53Tnpvq8Ke4xa8yipEJ9iXMkhu7EbjgPGYTUAipH",
+    "crc": "d2b9af2b",
+    "md5": "80d8479f3d7658c31d8b86ef4f6366ab",
+    "sha1": "868edc2c1aa97138392fd1b06cdbdd0dbf3e3039",
+    "sha256": "13aca91024fd83c3c3a1acec8fbfaa64deac4b73ff67f96bc9cc6dcb8a0ffe72",
+    "size": 468252
+  },
+  "atarist_46500bf0": {
+    "id": "atarist_46500bf0",
+    "name": "Tintin on the Moon (Europe) (En,Fr,De).ipf",
+    "cid": "QmPetbGm9oQkav2sxBtMAvLEV1hQgq2cjBwPiMvTcvYc6h",
+    "crc": "46500bf0",
+    "md5": "383d18bf3487ecbb974db80097eb9f2a",
+    "sha1": "8cf545d304ac6c9d41cbfe3800d1c20429f58b9f",
+    "sha256": "7fdf719d3690cfd65353e96949b5132e2f757cd43321521e9de951bd73d6bd34",
+    "size": 918252
+  },
+  "atarist_894947e5": {
+    "id": "atarist_894947e5",
+    "name": "Toobin' (Europe).ipf",
+    "cid": "QmQzLrV1L5ep3vmeCm9og5qKYXfSX7DhyKSvVDG51cyHyh",
+    "crc": "894947e5",
+    "md5": "07e3e60f33cb6c18eba9098e57b15b3e",
+    "sha1": "e11e91bfd4573eed471ed9fa7b8716dbc6413b91",
+    "sha256": "3d33078b0d99f4ad58a15dd149867380eff8abf429bf9c578c7993c321e9ca38",
+    "size": 520242
+  },
+  "atarist_b22c9b87": {
+    "id": "atarist_b22c9b87",
+    "name": "Top Cat Starring in Beverly Hills Cats (Europe).ipf",
+    "cid": "QmcS2LpZfSPPh4sijpK8P3u9EPLCz3my7kwncQjmbZXNSS",
+    "crc": "b22c9b87",
+    "md5": "aa56c9cb6568e2bb20b3544f66cacac9",
+    "sha1": "f6bee6b766d85c87721ed4a16c0bca602440ead3",
+    "sha256": "276dc0f78acf828fc8254853336a13d2844564976febd2fae995961b1fd8f084",
+    "size": 518252
+  },
+  "atarist_dc83d3fb": {
+    "id": "atarist_dc83d3fb",
+    "name": "Tower of Babel (Europe).ipf",
+    "cid": "QmZyrq8tDgGdiDVvdGrscQtsSY3iCiSh3xHzQhmPbHXG1W",
+    "crc": "dc83d3fb",
+    "md5": "cdb333a142d30a4e7d7c87364aca12fc",
+    "sha1": "47e73c3522e53194cfd6ff538e2d0813682e41d5",
+    "sha256": "593f6499a7d4707629eb70f3dcf519c7ffbab25cf02b71dd7ea30eaebbc6c2b9",
+    "size": 520242
+  },
+  "atarist_05edff74": {
+    "id": "atarist_05edff74",
+    "name": "Trailblazer (Europe).ipf",
+    "cid": "QmbVdWSgHFbSVrvcKtWVFVUpCVXsPGw2BoW3f28SbdNgNs",
+    "crc": "05edff74",
+    "md5": "4639e8a62b0fa875ebe4ea40896ccc8d",
+    "sha1": "bf48ebeec193f9baefdddb5f67282f8754e1bfdc",
+    "sha256": "37022026021c93f95041843f35b54368510bce8a2a202d14457acdbe376cf30c",
+    "size": 519292
+  },
+  "atarist_ca67cf86": {
+    "id": "atarist_ca67cf86",
+    "name": "Treble Champions (Europe) (v1.0).ipf",
+    "cid": "QmVni1BpH642tcwDdBR53ivNjWqgegzmhXYafJo73wFFmq",
+    "crc": "ca67cf86",
+    "md5": "a9335601bc9d072f37a8fc90bc4d609f",
+    "sha1": "52481690d88f9f77736ea36251d8334bb3e84465",
+    "sha256": "dbd4b1db2aca162f4f66153436faa342210104a49a5c0dea9da298ea61d6106f",
+    "size": 518252
+  },
+  "atarist_9d9283ad": {
+    "id": "atarist_9d9283ad",
+    "name": "Trinity (Europe) (r11).ipf",
+    "cid": "QmVm63AaJ28SB5HhviyWccqhpfrPm8HDdMYafqzDVrBNkE",
+    "crc": "9d9283ad",
+    "md5": "3d75950faded525596b5317594e38785",
+    "sha1": "4aeeb5ff209c7c78b928d2114cc69693c7de42b7",
+    "sha256": "8409cfc0e9edb51e1f00a998eac394e1e05a5f3e863faa2fafbccb350d15c019",
+    "size": 467820
+  },
+  "atarist_28c85cd1": {
+    "id": "atarist_28c85cd1",
+    "name": "Trivial Pursuit - A New Beginning (Europe).ipf",
+    "cid": "QmeeWsPfekiBYkNQxsW9M7Gz3Attpn8k1uAVD5V48QNXCn",
+    "crc": "28c85cd1",
+    "md5": "c1e13677075a95fb57719343ceca7a94",
+    "sha1": "b7f24d9a884f5812f5b30ef21b146bb0de5cf5f9",
+    "sha256": "6b5b05a8711ba0f80b6eaa7dbdc7f72ed528eb86239302e41e60223a9061c284",
+    "size": 518252
+  },
+  "atarist_58193517": {
+    "id": "atarist_58193517",
+    "name": "Turbo GT (Europe).ipf",
+    "cid": "QmWL2GZDD8YbxKt1U4fYrGZ3U78zDJLcVF8VreY4P7jowU",
+    "crc": "58193517",
+    "md5": "b21c3bf765c3005e9a0199b0d207cc2e",
+    "sha1": "6d0711d422ead8bfdb529ffe713a16da82ca2e84",
+    "sha256": "8348fcb1f79bc7e5dd80dd457829d35335720e332055573b09723a96fd26961f",
+    "size": 468252
+  },
+  "atarist_93ae44b1": {
+    "id": "atarist_93ae44b1",
+    "name": "Turbo OutRun (Europe) (Budget - Kixx).ipf",
+    "cid": "QmXHskpXFAyGHBNAbhva6NMp31mT8Qk1VgzRiq8RjYsGWU",
+    "crc": "93ae44b1",
+    "md5": "2871aa2dded016981080d81741d9569b",
+    "sha1": "07c058d0eb50f06a5ce682a0ead7146483f888c6",
+    "sha256": "d52ca17ab71099f89982d4616d7576c40e8abc5a3305ff26ee427a8c8b17f88f",
+    "size": 1095692
+  },
+  "atarist_1c16f12e": {
+    "id": "atarist_1c16f12e",
+    "name": "Turrican II - The Final Fight (Europe) (Budget - Kixx).ipf",
+    "cid": "QmdQmGNrpwAnf7v3g9Hgjo8sjBrv8bmgWALh11oiLzQxMg",
+    "crc": "1c16f12e",
+    "md5": "f18557040f7370b5c682456e668412ef",
+    "sha1": "f0b2e01d9ec7dce0a33a14caf63d0dda5705f778",
+    "sha256": "f4358a0ac1b692eaed26f1696e9696ed2a48b6bd547f9f26a9f459eaaf213d90",
+    "size": 1019827
+  },
+  "atarist_c1630d7a": {
+    "id": "atarist_c1630d7a",
+    "name": "TV Sports Football (Europe).ipf",
+    "cid": "QmZXeHEQF54PQuMai7UKMwaUxPVtSxYHho4EKikmXqCzG8",
+    "crc": "c1630d7a",
+    "md5": "a6b4309e3ae7b9d8dfb0fa75d4d04f7e",
+    "sha1": "4fbd579361f68fe20bbc881e53b07873447893b7",
+    "sha256": "9d6b87dba513ca243c917a899262736fe51e9d17d0e281b5b6c70556647cece2",
+    "size": 520242
+  },
+  "atarist_af320fb0": {
+    "id": "atarist_af320fb0",
+    "name": "Twylyte (Europe).ipf",
+    "cid": "QmafPDeZq17g5o5ik5w3drLPXvXu5aiQVX3VZuRKGDMaed",
+    "crc": "af320fb0",
+    "md5": "faa7a6315012617400a8680b4a900730",
+    "sha1": "01f07eb08bee89999de4735267cf19ebe46c385e",
+    "sha256": "97f5d0cf451a1c0018360ac2c929db61f967018e92ca08597d3bf2e602960e83",
+    "size": 518252
+  },
+  "atarist_1afe1220": {
+    "id": "atarist_1afe1220",
+    "name": "UMS - The Universal Military Simulator (Europe).ipf",
+    "cid": "Qmee7sE13FnBnVUZ1cXjyQwdtJhGg5RqQiipcNb2ryGsmm",
+    "crc": "1afe1220",
+    "md5": "6c3fb5d24062ad6704434a3b6a48cfdc",
+    "sha1": "2e28e66236b56578591431eb08a3f486690a6b74",
+    "sha256": "549db745937109028b948b6e1d60a6f60f506f0c7914dbe5eb1b37603d9932a2",
+    "size": 468252
+  },
+  "atarist_08506a17": {
+    "id": "atarist_08506a17",
+    "name": "Vectorball (Europe).ipf",
+    "cid": "QmUY7TUxXWLZQ35Dm9SwHRpNmbvv6W2WeRWg3LCjaB13gS",
+    "crc": "08506a17",
+    "md5": "346abbe3bf266b1aad7a45288383a0f2",
+    "sha1": "a66f3904ae26eea2d0bae25fb5d6c2fe9c697819",
+    "sha256": "0eb978ceb18804b184f3f52f0f24a5d77271112be494de618a43c1ec06f14124",
+    "size": 517627
+  },
+  "atarist_28ae7efb": {
+    "id": "atarist_28ae7efb",
+    "name": "Virus (Europe).ipf",
+    "cid": "QmVzHzS41ve7jYeH2tX9MhbRm5JWntpceCvQETEnP8EMUr",
+    "crc": "28ae7efb",
+    "md5": "bbb3b730fdcc0d4d6f242f7f2520bd95",
+    "sha1": "108882d71030cfed99ccf6e51d59b29da07c85f3",
+    "sha256": "f4f6475274e36f1c911e41ce23f9c85a9d2c6fd5a1adeecf499d7a06b66168f1",
+    "size": 175752
+  },
+  "atarist_7eb28e97": {
+    "id": "atarist_7eb28e97",
+    "name": "Wanderer 3D (Europe) (Budget - Encore).ipf",
+    "cid": "QmPhFCVjo9nALeLryKn8B55HLYLicX7mcHwYYmLxbf8LTz",
+    "crc": "7eb28e97",
+    "md5": "c00c3ec157bf91c6d3661e1a30f68a86",
+    "sha1": "29bbdfd5c88375db134111962fd096342e092dff",
+    "sha256": "bf1c063a829db9de1046de320e4a82b8ae57b5e042bfab32d5bedd28378d5102",
+    "size": 468254
+  },
+  "atarist_85d4beef": {
+    "id": "atarist_85d4beef",
+    "name": "Warhawk (Europe).ipf",
+    "cid": "QmSbe9xZKsJygwa3NfC4Eoa9jv2UANsyKBwUaJGfVpgPkR",
+    "crc": "85d4beef",
+    "md5": "91e39ab7ee00d44ccc8526be37b32843",
+    "sha1": "f52b5659cc52461564f8a8081b19a95181b710e2",
+    "sha256": "41dc06e2788d2186a9b9132d042ae47b94bcd4df43119b766afb982db46b65a3",
+    "size": 518254
+  },
+  "atarist_d2fd5a69": {
+    "id": "atarist_d2fd5a69",
+    "name": "Warlock (Europe) (The Edge).ipf",
+    "cid": "QmRmfK5g48RNo3fVehijjEK1i4PtdRDqtUw456kDS6Nt7t",
+    "crc": "d2fd5a69",
+    "md5": "a3b7aa6b7d1af4d8761cbd4d346d3067",
+    "sha1": "6e1d2626020e409efba790322cdb25f73ca64eb5",
+    "sha256": "3a6ff69e96adfa3b6ef6c74a41a92925cffa85000c8286474480dc9b95aeff97",
+    "size": 468252
+  },
+  "atarist_c911962e": {
+    "id": "atarist_c911962e",
+    "name": "Warlock's Quest (Europe) (Budget - Pocket Soft).ipf",
+    "cid": "QmdHQgnjdcNf9ykRF6mWzZYQDUAZyamiDViYiWqNV8WuMP",
+    "crc": "c911962e",
+    "md5": "d4efb5f2f158f77e363dab492dc2452c",
+    "sha1": "3cb786659a2c53e8a986d5e51561eca5775ae0e3",
+    "sha256": "67fde504c5104ece4badeafa8da826cc9b0c077b26b2abf10dd67a0708ec8a58",
+    "size": 471664
+  },
+  "atarist_8829de66": {
+    "id": "atarist_8829de66",
+    "name": "Where Time Stood Still (Europe) (En,De).ipf",
+    "cid": "QmexPPTefdfm6yGH7e6demy4wCkMPCJPTx2p4NhXw6Z74t",
+    "crc": "8829de66",
+    "md5": "1fa3560cc197e2a511395566b2ded6b8",
+    "sha1": "bfed208fab0cdfe8c8a5de5ff99003a93ce4b0c2",
+    "sha256": "a064b41495a267bfbb1c1299e06eff01dedfb7d826203659c1d15b87af607256",
+    "size": 517002
+  },
+  "atarist_ce2a4c3d": {
+    "id": "atarist_ce2a4c3d",
+    "name": "Whirligig (Europe).ipf",
+    "cid": "QmfFNoNa4KPqc5U6yYrtKUau1opKihQmkwdYLQRRxTYjHW",
+    "crc": "ce2a4c3d",
+    "md5": "14b8764527889ad06d8b4e688d10082c",
+    "sha1": "8daae90f3677674510a5c95bad6cbe1be244214b",
+    "sha256": "3cdf42a0c03d4cb49a4f179a44fe9bb3ddac9f853d00ec390e12f13a45d4b72d",
+    "size": 468252
+  },
+  "atarist_723f49ed": {
+    "id": "atarist_723f49ed",
+    "name": "Wild Streets (Europe) (Budget - Fox Hits).ipf",
+    "cid": "QmWpqUUBHYtJ4TBYZjHpkLzQ9oyDeUsMPdMoBNkXDeVYHM",
+    "crc": "723f49ed",
+    "md5": "32e8bb23d37ebd9c5f8381030cec0f5f",
+    "sha1": "c5d7fec78f1e0f630f44a469f554be4e35cad873",
+    "sha256": "5ddd3ddd98a9d32947a9875bf96543dac6eda69430b6be2622ceee692cfd02b5",
+    "size": 1025674
+  },
+  "atarist_0ce69ad4": {
+    "id": "atarist_0ce69ad4",
+    "name": "Winter Olympiad 88 (Europe) (Summer Pack).ipf",
+    "cid": "QmSMx11UtdDR3AjsxjWH4QnFuAf1smP3QMgwq5RQV1HcBY",
+    "crc": "0ce69ad4",
+    "md5": "7037c64be4119b59c10c4182519bb84c",
+    "sha1": "cabfc8d352e46c59f6a2a0088616015bd58f672d",
+    "sha256": "ac67f8452b7d1e5644b427125c1be0ae492ea096b4a927e30191f1a7e2f140ff",
+    "size": 1018254
+  },
+  "atarist_cc8a9a06": {
+    "id": "atarist_cc8a9a06",
+    "name": "World Class Leader Board (Europe) (Budget - Klassix).ipf",
+    "cid": "Qmb4dfK4nCZwCgiAXNC9qE4m61xuSjBLyh1L4BpsbY255c",
+    "crc": "cc8a9a06",
+    "md5": "c0480c5ddc1fc37ff1519ccfa1916df7",
+    "sha1": "97289ac4f0e7a2d083edfeb96f1500dc83bbc5a4",
+    "sha256": "e3ca37bce930c0c2d62d12b96c807e98f3f3d68c82e45f1ea14ed1afedfbee2a",
+    "size": 517627
+  },
+  "atarist_74bc5a25": {
+    "id": "atarist_74bc5a25",
+    "name": "Wrangler (Europe).ipf",
+    "cid": "QmfAJkbXfYWtEy4hxw6Nmxr8zrSWLjMLyRmQYbBbbkcCLh",
+    "crc": "74bc5a25",
+    "md5": "564cc0952b4f274df01081875d975185",
+    "sha1": "a0babad97a71be52b7f48839f8962649d67acda1",
+    "sha256": "b51518f3b2a3ea1be40fab1351c61a81894aea0317a5eb9f5ceceedfc5fd21b3",
+    "size": 517627
+  },
+  "atarist_ecf4be37": {
+    "id": "atarist_ecf4be37",
+    "name": "Xenon (Europe) (Budget - 16 Blitz).ipf",
+    "cid": "QmTqMFuKFFBYZBbdS85x9EXMx7g4YgvrVLL8oGJJf7AyUN",
+    "crc": "ecf4be37",
+    "md5": "d2beef77a5c7af0e17067502398450aa",
+    "sha1": "f3ac6a228aa620137eba057a591ea05031e68030",
+    "sha256": "7462077f5c9df88c8f64f8fbc5b2cdc622c51937a4e7a3e2f445215a97543fe6",
+    "size": 518252
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "2048": {
+    "id": "2048",
+    "name": "2048",
+    "version": "1.11.1",
+    "standalone": true,
+    "description": "A port of the popular puzzle game 2048 to libretro. In addition to being fun and deceptively simple in mechanics, this core also has extremely low requirements and can be useful as a benchmark in some cases.",
+    "author": "Gabriele Cirulli",
+    "license": "Public Domain",
+    "js": {
+      "name": "2048_libretro.js",
+      "cid": "QmZrbgbtDE2cTF9gBKaYC9566NQKAhsJQtfjv6j9F1xs4G",
+      "crc": "f9dedbee",
+      "md5": "6bc05168d36f7a6fc42b7c4d7af5e294",
+      "sha1": "fe263f14526d0aa5acfcaf7dc767493b424878a6",
+      "sha256": "1d9b2b31247ab0bbd9394da05241a4cf37b9fa51b30255efb1565ff451f33d08",
+      "size": 221196
+    },
+    "wasm": {
+      "name": "2048_libretro.wasm",
+      "cid": "QmVLmHE4FNzyzXGDdaTx7xDupRN1ZWoGcT5ky2e8LMbNgr",
+      "crc": "3d3078bd",
+      "md5": "3d1db885152a22e8f4fb3698688019c6",
+      "sha1": "d122c09fb3975e397913cc89b4f795271b1e32c8",
+      "sha256": "3d63768dea5972e328c7e47a8e3f1b76ade7c4407ac547ce4d6c101bbc1ec559",
+      "size": 1965192
+    }
+  },
+  "bluemsx": {
+    "id": "bluemsx",
+    "name": "blueMSX",
+    "version": "1.11.1",
+    "platforms": [
+      "msx2",
+      "msx"
+    ],
+    "supportedExtensions": [
+      "rom",
+      "ri",
+      "mx1",
+      "mx2",
+      "col",
+      "dsk",
+      "cas",
+      "sg",
+      "sc",
+      "m3u"
+    ],
+    "description": "A port of the blueMSX emulator to libretro. This emulator is cycle accurate and covers all generations of MSX computers, as well as SVI, ColecoVision and Sega SG-1000 machines. This core requires the 'Databases' and 'Machines' folders from a standalone installation of blueMSX to be placed in the frontend's system directory to function.",
+    "manufacturer": "Various",
+    "author": "Daniel Vik",
+    "license": "GPLv2",
+    "js": {
+      "name": "bluemsx_libretro.js",
+      "cid": "QmYGigPeCVo4KXAbADWSdRyALL8gPHN2HRiEvYfAMGcRsF",
+      "crc": "54821e5f",
+      "md5": "aa9f657154ea404e19cfdc7762f8ae35",
+      "sha1": "ea5112e13cdc9952177e7bb8772de5056b2f51d0",
+      "sha256": "89dab9e8e5271f3a470f81374ba414da13e7037aa9ac5c2e8ad6f8f510430d53",
+      "size": 221381
+    },
+    "wasm": {
+      "name": "bluemsx_libretro.wasm",
+      "cid": "QmZYZNPZqQYZmepxyDqC6JsSSHoH5DncdR4xGBk18pCqK9",
+      "crc": "c5aed2aa",
+      "md5": "e2a3ba4da190f2630a3829882faca5d0",
+      "sha1": "0f7e7561296bdd18680e028bf447e19acc1c699b",
+      "sha256": "ce64b0175dfa806a4087ddd7f1e51dd378a13eafdebed967958e8becf04cb052",
+      "size": 2977461
+    }
+  },
+  "fceumm": {
+    "id": "fceumm",
+    "name": "FCEUmm",
+    "version": "1.11.1",
+    "platforms": [
+      "nes"
+    ],
+    "supportedExtensions": [
+      "fds",
+      "nes",
+      "unif",
+      "unf"
+    ],
+    "description": "FCEUmm libretro is based on the FCEUmm (mappers modified) fork of the FCEU emulator. It is very fast and supports many mappers, including those for weird, obscure bootleg carts. It is tightly integrated with libretro features, which makes it a good choice for users seeking advanced frontend functionality, such as runahead and rollback netplay. While most NES emulators are lightweight, FCEUmm's particularly low resource requirements make it a good option for mobile, low-power/embedded and console targets.",
+    "manufacturer": "Nintendo",
+    "author": "FCEU Team | CaH4e3",
+    "license": "GPLv2",
+    "js": {
+      "name": "fceumm_libretro.js",
+      "cid": "QmYabdxcE832aYbKSRNAkQ7stBiM5JnVEA9QTiU9x1jdsV",
+      "crc": "5dd52b5d",
+      "md5": "7c55e66f8fbc0f6a86a3a6e4b59fd9c6",
+      "sha1": "b6ae1070daec3d5023d3e45291458733a969b301",
+      "sha256": "ac76df43de94ddbb293b25842a89af9e6004897069e264da3f91930aa144d744",
+      "size": 221101
+    },
+    "wasm": {
+      "name": "fceumm_libretro.wasm",
+      "cid": "QmddwS7yq9GBQdeJ2nfExwg1ypR2dqKP7zDqoRAB26WVLh",
+      "crc": "db300d2e",
+      "md5": "de2a9b962973139d0ee71bc40008afe7",
+      "sha1": "fd8200971fad27407293c694f85f6eea9bb2c7c1",
+      "sha256": "028dbd019a34fa88c47fe2352dcea66895f08e4b5c2ea8c1ccdee66e53ffda0a",
+      "size": 2514571
+    }
+  },
+  "gearboy": {
+    "id": "gearboy",
+    "name": "GearBoy",
+    "version": "1.11.1",
+    "platforms": [
+      "gbc",
+      "gb"
+    ],
+    "supportedExtensions": [
+      "gb",
+      "dmg",
+      "gbc",
+      "cgb",
+      "sgb"
+    ],
+    "description": "A port of the Gearboy Game Boy emulator to libretro. Gearboy is a new and highly accurate Game Boy emulator from indie/homebrew dev and all-around smart guy, drhelius. It supports both Game Boy and Game Boy Color games and is an excellent choice for playing these games on a modern system.",
+    "manufacturer": "Nintendo",
+    "author": "Ignacio Sanchez",
+    "license": "GPLv3",
+    "js": {
+      "name": "gearboy_libretro.js",
+      "cid": "QmTqw7eZANZE8xnjAguWUcutiBgihupjurs3AFpQtVetZ8",
+      "crc": "8e136301",
+      "md5": "e91c643c3eacc6322a46326d514cf8b8",
+      "sha1": "3660e5f9974e66bc5b74c78bec3f2d2dee3a1410",
+      "sha256": "8427260bd2793ab35402977ddf22a142768d8d3e21e26ef9e95c593fece6bfe4",
+      "size": 222523
+    },
+    "wasm": {
+      "name": "gearboy_libretro.wasm",
+      "cid": "QmPn81hPTGj1ZMSFkMTPbes7voXU9eqcctV7jCbXEbMLLD",
+      "crc": "2a426048",
+      "md5": "8192c084dfb70b99a1bf3bbcd11c915a",
+      "sha1": "955e784549052912b72820759314b0ed98a05822",
+      "sha256": "26be8ed58f4f1c7d95c6eca08d8a01f2c1eb3c06e97db268ca607811b5894801",
+      "size": 2152767
+    }
+  },
+  "genesis_plus_gx_wide": {
+    "id": "genesis_plus_gx_wide",
+    "name": "Genesis Plus GX Wide",
+    "version": "1.9.1",
+    "platforms": [
+      "genesis",
+      "markiii",
+      "segacd",
+      "gamegear",
+      "segapico",
+      "sg1000"
+    ],
+    "supportedExtensions": [
+      "mdx",
+      "md",
+      "smd",
+      "gen",
+      "bin",
+      "cue",
+      "iso",
+      "sms",
+      "bms",
+      "gg",
+      "sg",
+      "68k",
+      "sgd",
+      "chd",
+      "m3u"
+    ],
+    "description": "A port of the Genesis Plus GX emulator to libretro but with the addition of a widescreen hack that can be applied to games automatically (not all games play nicely with the effect, but a surprisingly large number are pretty good). Otherwise identical to the normal Genesis Plus GX libretro core, this core is a great choice for any 8- and 16-bit Sega consoles, from Master System to Game Gear to Genesis/Mega Drive to Sega CD. Only the 32X is not supported. The core is both fast and highly accurate and it benefits from a tight and feature-filled integration with libretro.",
+    "manufacturer": "Sega",
+    "author": "Charles McDonald | Eke-Eke | heyjoeway",
+    "license": "Non-commercial",
+    "js": {
+      "name": "genesis_plus_gx_wide_libretro.js",
+      "cid": "QmakUQRoSbgULmWJPSTrYypBN6mBeKbZRvCSvoGGtFSwbb",
+      "crc": "f1b5cd28",
+      "md5": "7a9afd63ccfab7a93fac611e5def2b47",
+      "sha1": "2b049b2008d141ca1a692c16e1e8333d0e37296d",
+      "sha256": "ec8a604ae222ca1d342333367b9c49ba275bf5a79924c3a7880dab86aea5dc1c",
+      "size": 221326
+    },
+    "wasm": {
+      "name": "genesis_plus_gx_wide_libretro.wasm",
+      "cid": "QmQDRoP4Z1JRiqNMMMR2u7hgndZhyabiaB2xrHaAhYWhbG",
+      "crc": "5429479f",
+      "md5": "640bdfcee9545b0b50c17b835fafbe00",
+      "sha1": "0db3c332e6386083e629fcdf2d4d32660fa1d53f",
+      "sha256": "ce9ad253601b4dbf885ed03f7f15e86d7e0a8e46d8c92a0abf97c26088e65e00",
+      "size": 4101283
+    }
+  },
+  "gong": {
+    "id": "gong",
+    "name": "Gong",
+    "version": "1.11.1",
+    "standalone": true,
+    "description": "A clone of Pong written for libretro.",
+    "author": "Brad Parker",
+    "license": "GPL v3",
+    "js": {
+      "name": "gong_libretro.js",
+      "cid": "QmRWQsDfik1LxXNuVdbwTxt1DcCy3iL4ULdXigbWxkM1qm",
+      "crc": "2288edc1",
+      "md5": "a60205287020481b8b3bcb29fed875d1",
+      "sha1": "1b38d74b22194ab65aba70ea2553df0ff0cbe6d5",
+      "sha256": "e57d06a1a11557bb442e7e4b5b9b92007e0af982008c821b2dd424c1e839c35e",
+      "size": 221196
+    },
+    "wasm": {
+      "name": "gong_libretro.wasm",
+      "cid": "Qma1omfGZq8MduLswvz6bfitbPN4dmADCc4VcbCbwgGCU2",
+      "crc": "2fb39d20",
+      "md5": "a4250d4b82e711c4dedf3a6116ef7b5c",
+      "sha1": "09d8d742153f91b1cafce9b199b4e55b81a61402",
+      "sha256": "f42ee4cfb0376c6859fe196bcb77840c3344a0ae670056ba77365c890bab9463",
+      "size": 1965067
+    }
+  },
+  "handy": {
+    "id": "handy",
+    "name": "Handy",
+    "version": "1.11.1",
+    "platforms": [
+      "atarilynx"
+    ],
+    "supportedExtensions": [
+      "lnx",
+      "o"
+    ],
+    "description": "A port of the venerable Handy Atari Lynx emulator to libretro. This core provides a solid emulation experience for this console, with support for video rotation, etc. but the hardware's unusual screen refresh rate of 75 Hz means scrolling for this core will always be a bit choppy on more common 60 Hz displays. This core is a good first choice for playing Lynx games via libretro frontends.",
+    "manufacturer": "Atari",
+    "author": "K. Wilkins",
+    "license": "Zlib",
+    "js": {
+      "name": "handy_libretro.js",
+      "cid": "QmSFfCC44XevGwdcWa9uAzqj8suyquYr1yZnrhxkTBEUHh",
+      "crc": "49dc1ad3",
+      "md5": "0ebda851cf130cdf024980aca2831e55",
+      "sha1": "c178ca72ca24f637fe5842b660af5151527c042f",
+      "sha256": "a6481a109f0ffd73f7b6b51d134f5315b2cb3915e29e8a2e61db71219788ec23",
+      "size": 221100
+    },
+    "wasm": {
+      "name": "handy_libretro.wasm",
+      "cid": "QmXPHFRuGNrPe6kqbuS1xueExNT6DQaTDPcTThd6TKfsTg",
+      "crc": "42650251",
+      "md5": "c9bb61f8dd7a3810e3bd379aa9138fe5",
+      "sha1": "5d120c2dd70188cc98136825349c6355bb469871",
+      "sha256": "419a4a218925f32a8fe8f9f0c96ddf5751799d9b331c13c810bf574cd3ed69d6",
+      "size": 2087844
+    }
+  },
+  "mame2003": {
+    "id": "mame2003",
+    "name": "MAME 2003 (0.78)",
+    "version": "1.11.1",
+    "platforms": [
+      "mame"
+    ],
+    "supportedExtensions": [
+      "zip"
+    ],
+    "description": "Based on a snapshot of the MAME codebase circa 2003 (v0.78), 'MAME 2003' is compatible with MAME 0.78 ROM sets. MAME 2003/-Plus cores have tighter integration with libretro features than the more modern snapshots and are significantly faster, though this comes at a substantial reduction in both accuracy and compatibility. These cores are ideal for very weak hardware, such as Raspberry Pi and other Single-Board Computers and consoles, where even FBNeo may be too demanding. If you do not need the additional libretro features and your device can run any newer snapshot core or FBNeo, those are probably better choices for most users.",
+    "manufacturer": "Various",
+    "author": "MAMEdev",
+    "license": "MAME",
+    "js": {
+      "name": "mame2003_libretro.js",
+      "cid": "QmY3XLUcmGT5fQmetiU6FbMCKeeH81ieTQUrwc6FGp2hsn",
+      "crc": "65c752c9",
+      "md5": "0e53fa6dd58ae8df286548fe6e44ad50",
+      "sha1": "a12999596516261359b2e9f0c43c54657addc083",
+      "sha256": "4b109c2e5c0a3ed8c7d5be27059d058074fd187e61c17ef5e91666c723b53857",
+      "size": 221757
+    },
+    "wasm": {
+      "name": "mame2003_libretro.wasm",
+      "cid": "QmWH5PbPibswbDK3C9DbkWWVe5rRbAmcqgxDXHJwP9nGot",
+      "crc": "55b432d0",
+      "md5": "af9ea0e9252596c4142950f26f039c8c",
+      "sha1": "ffef8a78f9dcb700e280df03e2df3fb45f3b0248",
+      "sha256": "03b9661b372875a5396bd1aaca8eec192fd7e66ae2f38fe415f6c1bc0062cf02",
+      "size": 19437944
+    }
+  },
+  "mame2003_plus": {
+    "id": "mame2003_plus",
+    "name": "MAME 2003-Plus",
+    "version": "1.11.1",
+    "platforms": [
+      "mame"
+    ],
+    "supportedExtensions": [
+      "zip"
+    ],
+    "description": "Based on a snapshot of the MAME codebase circa 2003 (v0.78), 'MAME 2003-Plus' is compatible with MAME 2003-Plus latest ROM sets. Contributors have backported support for an additional 350 games that are not included in the standard v0.078 ROM set, as well as other functionality not originally present in the underlying codebase. MAME 2003/-Plus cores have tighter integration with libretro features than the more modern snapshots and are significantly faster, though this comes at a substantial reduction in both accuracy and compatibility. These cores are ideal for very weak hardware, such as Raspberry Pi and other Single-Board Computers and consoles, where even FBNeo may be too demanding. If you do not need the additional libretro features and your device can run any newer snapshot core or FBNeo, those are probably better choices for most users.",
+    "manufacturer": "Various",
+    "author": "MAMEdev, MAME 2003-Plus Team, et al (see license and changelog)",
+    "license": "MAME Noncommercial",
+    "js": {
+      "name": "mame2003_plus_libretro.js",
+      "cid": "QmNcvS8BfE4QUXjQw5mVjExQ9szHmmZhnaPeDxVvhDZn5Q",
+      "crc": "74e02932",
+      "md5": "bb2c4b10e6c9439d533bd8a3d7d64ce8",
+      "sha1": "4e9ce0505f0b9fab6db714107529c5fb17abe1c8",
+      "sha256": "6672028a8cd02bf32f2c66c731c98d02bb29f81269125b635f289d2848cf66b9",
+      "size": 221881
+    },
+    "wasm": {
+      "name": "mame2003_plus_libretro.wasm",
+      "cid": "QmcrmkfXhJfoq2Vm4Z5QVj78Esaacda4beXWrofX184dkg",
+      "crc": "f1155da8",
+      "md5": "7d327bba551ced704f809c5f254ebebe",
+      "sha1": "a58a4f4594fe62be615acf21d97a08b5dbee0f6d",
+      "sha256": "7f15a12dd6608ff159cdcf18a2b9348d45fd92e5b512b937581d7a28e73d4e92",
+      "size": 20707511
+    }
+  },
+  "mrboom": {
+    "id": "mrboom",
+    "name": "Mr. Boom",
+    "version": "1.9.1",
+    "standalone": true,
+    "description": "A fun, multiplayer and feature-filled clone of the classic Bomberman series, converted from DOS using asm2c. It includes an advanced CPU AI for single-player sessions.",
+    "author": "Remdy",
+    "license": "MIT",
+    "js": {
+      "name": "mrboom_libretro.js",
+      "cid": "QmZTK3X8yjVstNBRU2v6hM5Q38eTTMHL38rGtckHeiKd27",
+      "crc": "d0eb7367",
+      "md5": "06e2f06df28e398b5f968bb3d46714cc",
+      "sha1": "db5a341eb83cc4d268ed869fef46bd0d884d34a9",
+      "sha256": "42a07327e934edc466dd2624a1fa02ae915f3984ef4a4ec7607bf1a44fe1443f",
+      "size": 221965
+    },
+    "wasm": {
+      "name": "mrboom_libretro.wasm",
+      "cid": "QmZQphV8Vnqd7BpDkamRgUKMPBuTbNizTkgxzPNV7gnmFQ",
+      "crc": "dd6258fa",
+      "md5": "dec353cf19edbfe8a880367357aff935",
+      "sha1": "47a2ece0312cb846cad72805b3caf38122477dba",
+      "sha256": "7cd164b4a41df48ab43d230dc77a39a7b88ca1d8ab7945d15b3107809a78d802",
+      "size": 9127630
+    }
+  },
+  "snes9x2010": {
+    "id": "snes9x2010",
+    "name": "Snes9x 2010",
+    "version": "1.11.1",
+    "platforms": [
+      "snes"
+    ],
+    "supportedExtensions": [
+      "smc",
+      "fig",
+      "sfc",
+      "gd3",
+      "gd7",
+      "dx2",
+      "bsx",
+      "swc"
+    ],
+    "description": "Snes9x 2010 is a fork of the classic and popular SNES emulator Snes9x from circa 2010, with some additional hacks and fixes backported. It was originally created and tuned specifically for maintaining full speed on Playstation 3 hardware, but it can also be useful for any device that is not quite full speed with the up-to-date Snes9x core, such as budget mobile devices. Users who cannot maintain full speed with this core, either, should fall back to Snes9x 2005.",
+    "manufacturer": "Nintendo",
+    "author": "Snes9x Team | Squarepusher",
+    "license": "Non-commercial",
+    "js": {
+      "name": "snes9x2010_libretro.js",
+      "cid": "QmYo3XBS8AC8tksNDJJDttbFhKJD4Xhro61qf5bDFecfQv",
+      "crc": "577966fe",
+      "md5": "c3515610b33021e46af1ecb28cfed038",
+      "sha1": "20d8235e5200be055996974e00bb113b4b33d3ff",
+      "sha256": "7ad2b0918a14eb087d6a8e9bdbf61885d22e12c6139ebe7156f9821da3adb53c",
+      "size": 221106
+    },
+    "wasm": {
+      "name": "snes9x2010_libretro.wasm",
+      "cid": "QmajV84AAW8HYFaKmwuftFRbDrttbR6KDCwuYxS7mVuAKy",
+      "crc": "b71036e5",
+      "md5": "e208e7edfadf404e6cde5c17f81b4456",
+      "sha1": "a9d0c16e28b9cfc4e8fd7369dc7cc1df42a68781",
+      "sha256": "e2ac2fcc537245a09f858cd203290c13df5cc7beef5f11bb5aa5c867448e2ab7",
+      "size": 3690722
+    }
+  },
+  "vba_next": {
+    "id": "vba_next",
+    "name": "VBA Next",
+    "version": "1.11.1",
+    "platforms": [
+      "gba"
+    ],
+    "supportedExtensions": [
+      "gba"
+    ],
+    "description": "A fork of the venerable Game Boy Advance emulator, VisualBoy Advance-Merged, branched off circa 2011, but with some backported patches for improved performance and compatibility. This core runs a bit faster than the up-to-date VBA-M core, but it is based on an older snapshot of the codebase and lacks many years of development and improvements, resulting in compatibility issues with some games (mostly related to a lack of support for the tilt and solar sensors). Most users should start with the up-to-date VBA-M core and only fall back to this one if they need the additional performance boost.",
+    "manufacturer": "Nintendo",
+    "author": "Forgotten | VBA-M Team | Squarepusher",
+    "license": "GPLv2",
+    "js": {
+      "name": "vba_next_libretro.js",
+      "cid": "QmP8h9B2tRznvLVbVkeXBP3beJB6vq6hqi5gAE94qpnabV",
+      "crc": "980db887",
+      "md5": "c05fa77d190d62571a293f7feba19576",
+      "sha1": "5d6a8b40acff96daa735c1252483b865bca0e2fc",
+      "sha256": "d502f2c0a9d0c33d9a4a993bb3f24a2fe958acc92e04fe7e030e7762e2c90fbb",
+      "size": 221251
+    },
+    "wasm": {
+      "name": "vba_next_libretro.wasm",
+      "cid": "QmU3bvemHz9FjZ91fVzo23aYDs7tvLwVZb8WU1mgUurCnM",
+      "crc": "24e478f4",
+      "md5": "cacb672836e67571714fc14600fdbf5e",
+      "sha1": "eb33377997cf6c40c7e9c5af83879b3a9037e9bf",
+      "sha256": "78958c0e89d755719e59f4b971986400343aa9ced45001088d3791623a36649f",
+      "size": 2598882
+    }
+  }
+}

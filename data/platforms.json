@@ -1,0 +1,116 @@
+{
+  "standalone": {
+    "id": "standalone",
+    "name": "Standalone",
+    "shortName": "Standalone",
+    "company": "Standalone"
+  },
+  "atarijaguar": {
+    "id": "atarijaguar",
+    "name": "Atari - Jaguar",
+    "shortName": "Jaguar",
+    "company": "Atari"
+  },
+  "atarilynx": {
+    "id": "atarilynx",
+    "name": "Atari - Lynx",
+    "shortName": "Lynx",
+    "company": "Atari"
+  },
+  "atarist": {
+    "id": "atarist",
+    "name": "Atari - ST",
+    "shortName": "Atari ST",
+    "company": "Atari"
+  },
+  "msx": {
+    "id": "msx",
+    "name": "Microsoft - MSX",
+    "shortName": "MSX",
+    "company": "Microsoft"
+  },
+  "msx2": {
+    "id": "msx2",
+    "name": "Microsoft - MSX2",
+    "shortName": "MSX2",
+    "company": "Microsoft"
+  },
+  "gb": {
+    "id": "gb",
+    "name": "Nintendo - Game Boy",
+    "shortName": "Game Boy",
+    "company": "Nintendo"
+  },
+  "gba": {
+    "id": "gba",
+    "name": "Nintendo - Game Boy Advance",
+    "shortName": "Game Boy Advance",
+    "company": "Nintendo"
+  },
+  "gbc": {
+    "id": "gbc",
+    "name": "Nintendo - Game Boy Color",
+    "shortName": "Game Boy Color",
+    "company": "Nintendo"
+  },
+  "n64": {
+    "id": "n64",
+    "name": "Nintendo - Nintendo 64",
+    "shortName": "Nintendo 64",
+    "company": "Nintendo"
+  },
+  "nes": {
+    "id": "nes",
+    "name": "Nintendo - Nintendo Entertainment System",
+    "shortName": "Nintendo Entertainment System",
+    "company": "Nintendo"
+  },
+  "snes": {
+    "id": "snes",
+    "name": "Nintendo - Super Nintendo Entertainment System",
+    "shortName": "Super Nintendo",
+    "company": "Nintendo"
+  },
+  "gamegear": {
+    "id": "gamegear",
+    "name": "Sega - Game Gear",
+    "shortName": "Game Gear",
+    "company": "Sega"
+  },
+  "genesis": {
+    "id": "genesis",
+    "name": "Sega - Mega Drive / Genesis",
+    "shortName": "Mega Drive / Genesis",
+    "company": "Sega"
+  },
+  "markiii": {
+    "id": "markiii",
+    "name": "Sega - Master System / Mark III",
+    "shortName": "Master System / Mark III",
+    "company": "Sega"
+  },
+  "sega32x": {
+    "id": "sega32x",
+    "name": "Sega - Mega Drive 32X",
+    "shortName": "Mega Drive 32X",
+    "company": "Sega"
+  },
+  "segacd": {
+    "id": "segacd",
+    "name": "Sega - Mega-CD / Sega CD",
+    "shortName": "Sega CD",
+    "company": "Sega"
+  },
+  "segapico": {
+    "id": "segapico",
+    "name": "Sega - PICO",
+    "shortName": "Sega Pico",
+    "company": "Sega"
+  },
+  "sg1000": {
+    "id": "sg1000",
+    "name": "Sega - SG-1000",
+    "shortName": "SG-1000",
+    "company": "Sega"
+  }
+}

@@ -1,0 +1,1962 @@
+{
+  "msx2_17e58926": {
+    "id": "msx2_17e58926",
+    "name": "[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan).rom",
+    "cid": "Qmdg8EsYwsm3SEH2Uv2X14uSESKMRbp2MCgPaAPAmXSytw",
+    "crc": "17e58926",
+    "md5": "cb30a978bd4bddf957c66d1d05273658",
+    "sha1": "f4dba5ba267b5dd1a35eb74a6ec4fd4d5ca9a1b4",
+    "sha256": "7b4d4cddcb20f8043b95d3171b59430e92378ce0ea216aaf4e7a9110420dcabf",
+    "size": 262144
+  },
+  "msx2_c99e5601": {
+    "id": "msx2_c99e5601",
+    "name": "1942 (Japan).rom",
+    "cid": "Qmd4t6AF5VmuSLXvURrrTbYNMVp9fxFmnBzF8abVCFpD5w",
+    "crc": "c99e5601",
+    "md5": "668570dd413d5cdf271e58d61b5b99e7",
+    "sha1": "c9135b1e451193bd4c06d8143eaca934cc89fe05",
+    "sha256": "d8442d2c08958f0bc9be7d2078e3cf07224e1ec3493ddce3215ed8df2bd37b1f",
+    "size": 131072
+  },
+  "msx2_c956e1df": {
+    "id": "msx2_c956e1df",
+    "name": "A Ressha de Ikou MSX (Japan).rom",
+    "cid": "QmXrdYHHWzdRWC6S9MzgF6NQK5NTTNSs5H8mFJuNe3w1vS",
+    "crc": "c956e1df",
+    "md5": "9c8bc23c7acad95ba2cbda6cbf48339b",
+    "sha1": "5fd07ed5b7c0492d42ed91a54a0fe80ce6e4e40d",
+    "sha256": "84273badc70f6811fa2a322c65a80e1d9237015f47cd3df056fe2519e35bbe6b",
+    "size": 131072
+  },
+  "msx2_d2ee4051": {
+    "id": "msx2_d2ee4051",
+    "name": "AcroJet (Japan).rom",
+    "cid": "QmdaqS5UMNmStnDZ4AJBmnw1gKkPmqUQjqhXtAPaC16qma",
+    "crc": "d2ee4051",
+    "md5": "1f73a16c2b3cd400e026b578b7567a72",
+    "sha1": "1f17e46190635a3214057d33ad4a768939d5a071",
+    "sha256": "89c0f51a4fcfa76fb749b74e0d8d141d48e55f488879028947188f362c2ea380",
+    "size": 131072
+  },
+  "msx2_c29edd84": {
+    "id": "msx2_c29edd84",
+    "name": "Aleste (Japan).rom",
+    "cid": "QmbLi28SdWPE1jTA92UYx52pTozTMUazzTzSFbK82G3JmL",
+    "crc": "c29edd84",
+    "md5": "7087b51f3ccfdf314ce60d5d8aaf644a",
+    "sha1": "12f6f31f495bfb384c9ca9067bfbf8f98af6adf9",
+    "sha256": "42a0470e9ff22881039e4fdfdbed3b3348c07fb3a7a21591cca49a93d85d977e",
+    "size": 262144
+  },
+  "msx2_225705cc": {
+    "id": "msx2_225705cc",
+    "name": "Alges no Yoku (Japan).rom",
+    "cid": "QmWg7NaBF2R56QbzZQAszgiK9cH2oEcWR4ZDD8ewSaCnuf",
+    "crc": "225705cc",
+    "md5": "790e45f34cec0f5064161109653537c5",
+    "sha1": "a8059dc1820b461418713acf2af14f3a25734bd3",
+    "sha256": "17d836e10c413f285649d4c3374ec508513f0a8b3b2b7bfd6a25889441299593",
+    "size": 262144
+  },
+  "msx2_bcf03d8b": {
+    "id": "msx2_bcf03d8b",
+    "name": "American Soccer (Japan).rom",
+    "cid": "QmUkKPLKvLjAqvYeDjnje1ssLssp2WAUeo9XfVQAhfeReA",
+    "crc": "bcf03d8b",
+    "md5": "a3648a5dd95179c00fc11fe455bb5828",
+    "sha1": "1545566bd7decb1612009daa2daa71758fa6e4a1",
+    "sha256": "e128f69bb8f51fad98e403bf8294210aea9953b7ac3610009a36c763482118b2",
+    "size": 65536
+  },
+  "msx2_075ab646": {
+    "id": "msx2_075ab646",
+    "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).rom",
+    "cid": "QmeicjWsfc958r7xcR8rpkTAQpDwj9qT1UYw6naEPeJyHg",
+    "crc": "075ab646",
+    "md5": "76bba6b3f1ae93cfafb3af904b978098",
+    "sha1": "74d1c7f66242335c736da29413037bd23384efaa",
+    "sha256": "a6946770f1cf1b13feab0126b54a9d60cd8c0931fbc802df97bccb672edb4018",
+    "size": 1048576
+  },
+  "msx2_3b5b3fd8": {
+    "id": "msx2_3b5b3fd8",
+    "name": "Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).rom",
+    "cid": "QmWYnmzQk9ztDmTNnMrKwC8EtuFBS35ktnBWTERhygxbY1",
+    "crc": "3b5b3fd8",
+    "md5": "67bc15b268c9e35df72121911d4412ea",
+    "sha1": "8a4bcf0f38c9f243443a4d4865278f695bd83dc8",
+    "sha256": "93496f086751fc4c2a0e6bbeda285b552bcb385632ebf0fe6a50cc226ba6d200",
+    "size": 524288
+  },
+  "msx2_614554c4": {
+    "id": "msx2_614554c4",
+    "name": "Arctic - Active Rail Playing (Japan) (Alt).rom",
+    "cid": "QmVSKJjGyDK22bWyoUm3tsauSk195pBLzX1XC7SxdbP9jW",
+    "crc": "614554c4",
+    "md5": "634dd13762378630bfe50ac9b87dbf5f",
+    "sha1": "9c89215dd36eded769691708eb8c82dec1ce5109",
+    "sha256": "da49e1db4a702da6670cbe9f5721ce4f4f89071d7cbce2bc8f52a24f831909d8",
+    "size": 131072
+  },
+  "msx2_ae3167ee": {
+    "id": "msx2_ae3167ee",
+    "name": "Arctic - Active Rail Playing (Japan).rom",
+    "cid": "QmZry7cUDH69ExEUCG5c94rth4k5MCupDufuQ1JPy2uDRS",
+    "crc": "ae3167ee",
+    "md5": "f709083da5b2b078c3621a17374aaf1e",
+    "sha1": "e8e416977f5dae3635362c513bba004ea89a0bf4",
+    "sha256": "3dcb85704006e2a3d95f11e9e2dbf13f1457b55f89727d70940ed7720ea0c78c",
+    "size": 131072
+  },
+  "msx2_00d36af6": {
+    "id": "msx2_00d36af6",
+    "name": "Arkanoid II - Revenge of Doh (Japan).rom",
+    "cid": "QmfAYiTZPjLnexvTYd9434eAEQMsoPDbmt9L9wkwbz9LWB",
+    "crc": "00d36af6",
+    "md5": "2d594d9ebfb36faba7eea3c6b4e55dc8",
+    "sha1": "1642891b693df616f27431299352e1d7750ac94b",
+    "sha256": "d364c82a4be93d0495df543946d696ae2b84fd9d6e3856e25a5edbb65bf8d751",
+    "size": 131072
+  },
+  "msx2_3cb34efb": {
+    "id": "msx2_3cb34efb",
+    "name": "AshGuine - Densetsu no Seisenshi (Japan).rom",
+    "cid": "QmTy35JU84qdzTJLPGKfbffgS28JcXomowRjYZfesHWs3s",
+    "crc": "3cb34efb",
+    "md5": "851aca1e5d3f0e8d9b1cbec2e8451831",
+    "sha1": "f57b46154cf0711e3f5218e00f67c375d95d1d5d",
+    "sha256": "3668e0ec34b2e69c5a84ee6082e277466d60e99807936c06bc79a8a87b23d850",
+    "size": 131072
+  },
+  "msx2_47a82d74": {
+    "id": "msx2_47a82d74",
+    "name": "AshGuine Story II - Kokuu no Gajou (Japan).rom",
+    "cid": "QmeQdHceXygvCpg9Ffryjr8dgNXEKaSbn2yLQctSgqHNNs",
+    "crc": "47a82d74",
+    "md5": "3b191ba16e7c5def2f1e9febc1fb92e5",
+    "sha1": "efdf63f01293251dc593163a42f31556fd042282",
+    "sha256": "25556813df44c5062a22174978f8919d341d7ba6088878e5ec2ac52d100d6048",
+    "size": 262144
+  },
+  "msx2_353382ce": {
+    "id": "msx2_353382ce",
+    "name": "AshGuine Story III - Fukushuu no Honoo (Japan).rom",
+    "cid": "QmbD7kC2PrHcWxPeLQCLQx2fhVhgndhwz74osyK2PACDpi",
+    "crc": "353382ce",
+    "md5": "f582df437dde65d958eec72260801b32",
+    "sha1": "6fd90e7573abdb5a7bd6e4e8dc44db80fc163e30",
+    "sha256": "3639d50b155fcc59d508311fb29af19e6152abf6db258548befdc53776edf42f",
+    "size": 262144
+  },
+  "msx2_8b73f133": {
+    "id": "msx2_8b73f133",
+    "name": "Bubble Bobble (Japan) (Alt).rom",
+    "cid": "Qmc36EUsB7dJVAWEpYgCYbR1raTjRXWMLtFbYkBpRV3F7M",
+    "crc": "8b73f133",
+    "md5": "78cfcd46880a80b26839158cba7094a1",
+    "sha1": "c5edd1c74e72ddaeba1027da1e848e2c4fda94f5",
+    "sha256": "e75a2986387cdc2eeca02b66a519ab733e89021528ea211a5e9cd6e3c7679f0f",
+    "size": 131072
+  },
+  "msx2_6524d9fc": {
+    "id": "msx2_6524d9fc",
+    "name": "Bubble Bobble (Japan).rom",
+    "cid": "QmQnPKrgPW6M1csCRTYFQWfhf2hrDtQoNoPMzoPk7q3udm",
+    "crc": "6524d9fc",
+    "md5": "bd8b1f6c998657b96bf7dc7825d0a600",
+    "sha1": "e73946f1f26589d77926276ca4f9dbee60c53fde",
+    "sha256": "15962fd815c3fd8d28cbb664c8f99d10825979fb5b9bd975b7aac785d35532eb",
+    "size": 131072
+  },
+  "msx2_2ffb49c3": {
+    "id": "msx2_2ffb49c3",
+    "name": "Cheese 2 (Japan) (Program).rom",
+    "cid": "QmQXFDcz9A2Vy13ufofFoznn9jCu5NeUikyP4o8wFcmNpi",
+    "crc": "2ffb49c3",
+    "md5": "16f08e7cdce9aa13259b9e904eeb0e2b",
+    "sha1": "930b4896c1590ebbb74d330447ec36e3feb5cab6",
+    "sha256": "28047d281735c776792a403c6ba8ae024d785285d5b5322a26f7ea18cc084932",
+    "size": 32768
+  },
+  "msx2_5f354e65": {
+    "id": "msx2_5f354e65",
+    "name": "Cockpit, The (Japan).rom",
+    "cid": "Qme1hr5xt1L579EKBW6D3ydUXkqvoSzi14Xgw8NXQe79xX",
+    "crc": "5f354e65",
+    "md5": "10b02d5c4600b342e98559518bdbc96d",
+    "sha1": "e36e16acfdfa76fa72b218da2bebc668db39d21e",
+    "sha256": "0be38a676ac6f6bae0ee2b36b9ae14f90843b688cd3f652261a5d7a9abb54c57",
+    "size": 131072
+  },
+  "msx2_4e82660d": {
+    "id": "msx2_4e82660d",
+    "name": "Contra (Japan) (Wii U Virtual Console).rom",
+    "cid": "QmeGYS2mcmisGsX56y8qu3JsFgeaSyYFc5azjd5PPwWLc6",
+    "crc": "4e82660d",
+    "md5": "855dc91e683d897662c2f676b4dc3e3a",
+    "sha1": "90003c78975d00b1e5612fd00dffabb70d616ecd",
+    "sha256": "f823346e745203ff87dd2a00a414c729a5556e42332489219538d169395ea62a",
+    "size": 131072
+  },
+  "msx2_8528a795": {
+    "id": "msx2_8528a795",
+    "name": "Crimson (Japan).rom",
+    "cid": "QmYwGiGBbAyLoDk7ZYsnttineDutWghDxAYaGZVhouizGs",
+    "crc": "8528a795",
+    "md5": "c787a2825169fa5b13bcb1eaec3e289a",
+    "sha1": "a21adba681956ec35816af673a9d4f6c7743253a",
+    "sha256": "5d9ce9e86fdb3f8e456acf4c468b99356f2414946a2bdf6a48be96cf4b2306f0",
+    "size": 262144
+  },
+  "msx2_ec7a8012": {
+    "id": "msx2_ec7a8012",
+    "name": "Daikoukai Jidai (Japan).rom",
+    "cid": "QmTmpyBpPtznKGGKvs3jfU9CucxRvmYVPdCpaV7PAtartN",
+    "crc": "ec7a8012",
+    "md5": "cc6d64c4a9880b6111f6b491275eb62a",
+    "sha1": "2a4aef32db28c059c30f5f972f1c09708ef6ce62",
+    "sha256": "e9a64c465d31d4a59091c62af4ae570852c7df9626961205325024b32a63a027",
+    "size": 524288
+  },
+  "msx2_a987a0d8": {
+    "id": "msx2_a987a0d8",
+    "name": "Daisenryaku MSX2 (Japan).rom",
+    "cid": "QmP2DYdk2CGkiohtAZvmRTpU8XG5wCzsMUDVnGYp5Ua2wC",
+    "crc": "a987a0d8",
+    "md5": "57f718a9f3add36b71f606d636cb1d6f",
+    "sha1": "10c38f91d8f5db2438414ea58f26dcac78352088",
+    "sha256": "f2f227cc198fcc085d6aea4b565a1317f995254b7a8ad9eb70bfeacb4abf0580",
+    "size": 131072
+  },
+  "msx2_6fb05f43": {
+    "id": "msx2_6fb05f43",
+    "name": "Darwin 4078 (Japan) (Alt 2).rom",
+    "cid": "QmcebhrXwsztvxzhRmDTthJwkBoUesNrApersSXZAaikMh",
+    "crc": "6fb05f43",
+    "md5": "1a06186f14de3c724215997eee18d6fd",
+    "sha1": "3f072673752badfbd234d6005ddad60a494a9438",
+    "sha256": "cecefdc90dc87d26423a60813e03ed1facdfb3e61e32c2f71b71549fff653dc2",
+    "size": 131072
+  },
+  "msx2_ce86a52f": {
+    "id": "msx2_ce86a52f",
+    "name": "Darwin 4078 (Japan) (Alt).rom",
+    "cid": "QmU3SXist2Jo7hvGrrmDLwF8EjbZM1P1ZEcWBKemGv3M7h",
+    "crc": "ce86a52f",
+    "md5": "e84d7e53b40d406042e9b3ae837aad62",
+    "sha1": "3bb2f9f4be38b5b08da03ee190c39caec30e2f08",
+    "sha256": "8eeabf9a4e81a24ff21a1ae272582f3bf457a49d0e3bbf0a3b940ad6397acfa2",
+    "size": 131072
+  },
+  "msx2_7098faf0": {
+    "id": "msx2_7098faf0",
+    "name": "Darwin 4078 (Japan).rom",
+    "cid": "QmfJpewkFLqRF8hXqXkzFNTUf4vY3sfqJbyWxWGA9M3LRB",
+    "crc": "7098faf0",
+    "md5": "ca9cb10e2415775418c85f47e1bfb5d5",
+    "sha1": "d4da7236bd09d735dcb92127c73e43b3ca94dd7f",
+    "sha256": "0aefd43d0ffab71acee32a37e0c118489b9cb1b1595985752ad6d548e893a3f7",
+    "size": 131072
+  },
+  "msx2_3615e623": {
+    "id": "msx2_3615e623",
+    "name": "Deep Forest (Japan) (Alt).rom",
+    "cid": "QmRF9LEba3FCYgjDq1GpgtYzn1q68qMesMmpWbaq57eZL4",
+    "crc": "3615e623",
+    "md5": "56dae5f0998359d68cdba7cb6947fd3f",
+    "sha1": "35c02d8d590d92053f083b0c0c897277a5375af6",
+    "sha256": "dcdd88ade3fbe9f0e93e9da3caf2a3df8d952644565e8a080333970def2e62cb",
+    "size": 131072
+  },
+  "msx2_f221b845": {
+    "id": "msx2_f221b845",
+    "name": "Deep Forest (Japan).rom",
+    "cid": "QmXsjog5mGBGivwjtR4rCQdrwsYocQP1rWVzGeXy8tN8Y7",
+    "crc": "f221b845",
+    "md5": "dc9c2178fec7958fdde3f7762ffe0b2e",
+    "sha1": "fc9adbd816109f7705f342c01f168bb09ca4b2ff",
+    "sha256": "454dcc57c152e619104734e99b2119b1dec17a467624a06c8e1984c218b59457",
+    "size": 131072
+  },
+  "msx2_5acbd591": {
+    "id": "msx2_5acbd591",
+    "name": "Dires - Giger Loop (Japan).rom",
+    "cid": "QmVxijzEecuAc3zmjV5udaKyedeFrZXG6KozfNAPhUioQ7",
+    "crc": "5acbd591",
+    "md5": "9c16b2ba7956a86819bdbc12cd266e29",
+    "sha1": "1ba6b699b4e34c23ee60db4e58e1265dc03f0b50",
+    "sha256": "b720df7dd6cbcd97b855e14fd1124d929534dbf4035e090a8b824c15bd17d8f1",
+    "size": 131072
+  },
+  "msx2_e1148738": {
+    "id": "msx2_e1148738",
+    "name": "Double Vision (Japan).rom",
+    "cid": "QmXSfsY2eMDdxLw47GiZJdXJvasPeCVfW2VFDvv3gyD2Xz",
+    "crc": "e1148738",
+    "md5": "0cb6d4d086306f22d6d4a8c96a0f44e3",
+    "sha1": "87a7fa43602f74c47151e79f1aaf7f641331ba51",
+    "sha256": "db5042f9ec91e6fc518e6a332e67b34edd946ab2048bf92b80969a3461643ec1",
+    "size": 262144
+  },
+  "msx2_49252882": {
+    "id": "msx2_49252882",
+    "name": "Dragon Buster (Japan).rom",
+    "cid": "QmXVBgsVv9kj7zA9J5a7rJB428ErcDGdgyEUZk3CizBWJc",
+    "crc": "49252882",
+    "md5": "52bd14a491aa5802e842bff023d4f728",
+    "sha1": "ecbf33a376a7a108176f8d1009d042e01519241c",
+    "sha256": "8685052f84a430ec9c198ba5f29329ad2f6aa43a92979db8a55621885a06a8a7",
+    "size": 131072
+  },
+  "msx2_7729e7a9": {
+    "id": "msx2_7729e7a9",
+    "name": "Dragon Quest (Japan).rom",
+    "cid": "QmQm2KRtMBLw3ZLvc1qu1BrVU1EQBmraDAzwGiVfMVyzB5",
+    "crc": "7729e7a9",
+    "md5": "b6a39a89fb0df0be5dff7d64f5fe8900",
+    "sha1": "5577e483caca553cfbfc0cba26f3ab2444569f81",
+    "sha256": "cc5f1faad8cdb8877ac9ee05931e2d80e1efa4fa2d5b031cb8c4a8d4847bd785",
+    "size": 131072
+  },
+  "msx2_e012ee7a": {
+    "id": "msx2_e012ee7a",
+    "name": "Dragon Quest II (Japan) (Alt).rom",
+    "cid": "QmYtGFcjeZcZxxxtaA1hUSyDuwEk84mNjgkujXuEJbXgkn",
+    "crc": "e012ee7a",
+    "md5": "92139e59f1e8fe30d5550112b300cc5c",
+    "sha1": "77fcce7b7c9c915fb0adff059141d4d4307f5a22",
+    "sha256": "271ca3b131c1baecd7327a6d996aa97561409a30a9a2de434f9639ac8209c9ea",
+    "size": 262144
+  },
+  "msx2_0bf0c3f5": {
+    "id": "msx2_0bf0c3f5",
+    "name": "Dragon Quest II (Japan).rom",
+    "cid": "Qmbts7CWoTh2LZnQFsfPf6iXixusfzHnknry3xHNFSuQV3",
+    "crc": "0bf0c3f5",
+    "md5": "b2e0120f0a937fab09a37a252ab0faea",
+    "sha1": "05280f0a26ac5c42ab63b80a487bb909683e7461",
+    "sha256": "3e10e074973c5cc704db9398c7e41c1d84f712495a336ee5dd4f8882fa60ba20",
+    "size": 262144
+  },
+  "msx2_53163cbc": {
+    "id": "msx2_53163cbc",
+    "name": "Dragon Slayer IV - Drasle Family (Japan) (Alt).rom",
+    "cid": "QmVNm1g7h61qYzmdZLzRXETmqXByPthHjikDrdXk5sNcma",
+    "crc": "53163cbc",
+    "md5": "e6936c2b6472591505acd1ee1b6c5865",
+    "sha1": "3f87c3413c8cc2a25e1f64cfdcd01155a13711f0",
+    "sha256": "01d52513b01a0d7596c4ecd506385c5fc845355f1bb4b06a7a7de0f05263cbcc",
+    "size": 262144
+  },
+  "msx2_98095852": {
+    "id": "msx2_98095852",
+    "name": "Dragon Slayer IV - Drasle Family (Japan).rom",
+    "cid": "QmaqVf9D3fMdjVTi5sAZuGMEkZ9eqPdmudzAZpGgTNWRSG",
+    "crc": "98095852",
+    "md5": "38209dd384ca5a791e97ffc6c68097a2",
+    "sha1": "6d7a8ea1b283ecc1cc94c359e5f053a6e82ab3f5",
+    "sha256": "29ecd3ac6d07c73566d3be8582f8383ddad9dd7b03ce42a50e35dcecb45c57e3",
+    "size": 262144
+  },
+  "msx2_17f9ee7f": {
+    "id": "msx2_17f9ee7f",
+    "name": "Dragon Slayer Jr. - Romancia (Japan).rom",
+    "cid": "QmVpfBogajc6TP6h8gpz6dBR2c5ak3VwaHtTBzVBXM9nU8",
+    "crc": "17f9ee7f",
+    "md5": "560544f37bf6f806b200d5db3d562e26",
+    "sha1": "b63fc17c1d004ca4d7f3b1ef8962210a779ca665",
+    "sha256": "097060b1c8d6b0728e8bfc9dc726389cf439515845e3686aade2f7e6403f3cb6",
+    "size": 131072
+  },
+  "msx2_c3242b0a": {
+    "id": "msx2_c3242b0a",
+    "name": "Druid (Japan) (Alt).rom",
+    "cid": "QmT33g51VCsiDNQViAaqDmPS8j6JYR3fRGk1QbJzNrBuUj",
+    "crc": "c3242b0a",
+    "md5": "65845a220992ea4962d96919278b7a23",
+    "sha1": "af3524caccd33ccb7a5b42b1ce4314d055e01672",
+    "sha256": "7d1bb47740cd961293da656a5c67d698d9090eec579c8409cc3408cf598c9f62",
+    "size": 131072
+  },
+  "msx2_94982598": {
+    "id": "msx2_94982598",
+    "name": "Druid (Japan).rom",
+    "cid": "QmTBR5P2DNU7MKWKqqxuwnVghj4gdrrD5uRXW3kqPzmBko",
+    "crc": "94982598",
+    "md5": "62f67225074fec95baa131f687238fd0",
+    "sha1": "b11c0ded529af18c29ec46b9e0a795ed0405e7ec",
+    "sha256": "efd7494030ef50f34287b8f1908e9e115a530bf4ab6da6fda944b5f75f64b2b8",
+    "size": 131072
+  },
+  "msx2_a4996aaa": {
+    "id": "msx2_a4996aaa",
+    "name": "Dynamite Bowl (Japan) (Alt).rom",
+    "cid": "QmNnwHZAiJ3enKDGVRkDaGkuNZFaQHm28ASGQFiWu6HoVz",
+    "crc": "a4996aaa",
+    "md5": "a495dc8678497b284b8a2b675f8bb6cc",
+    "sha1": "a6d285e515ad1e2c15b4352d9b699ebe060b1dba",
+    "sha256": "76e54d559ec9488fbea85a82467dc5d759b9221cc81122a9946bfb788826293a",
+    "size": 131072
+  },
+  "msx2_9935e9bd": {
+    "id": "msx2_9935e9bd",
+    "name": "Dynamite Bowl (Japan).rom",
+    "cid": "Qme6PXGjxrK18nThL6egPaT1TGap7rQosUXBnDiSCo8N3k",
+    "crc": "9935e9bd",
+    "md5": "14311b9fe54716ed22efe313a7503e53",
+    "sha1": "bd70b00ccb8fafca883c7160585e9c5920cca58f",
+    "sha256": "8eb70ae57d8e606c73ef937e94fd01e3fa85f02db298e23005afb85b87a17120",
+    "size": 131072
+  },
+  "msx2_14913432": {
+    "id": "msx2_14913432",
+    "name": "Eidolon, The (Europe).rom",
+    "cid": "QmevqW7KxSGsh8x54vhhJ4jpojbTPSCGfnN9e4cPbZGRfo",
+    "crc": "14913432",
+    "md5": "ff25f8ccde5cf7d49a758d19f46e41d0",
+    "sha1": "cd8ee800822ff0cd295621faafafc73be4bacad0",
+    "sha256": "b353d4d8c50f9ef15d0fd9a03664f0c8ae868d65fd3339015f40aa1c15a61faa",
+    "size": 131072
+  },
+  "msx2_a8e9ac9b": {
+    "id": "msx2_a8e9ac9b",
+    "name": "Elthlead (Japan).rom",
+    "cid": "QmZ1MVHKAMfAjdfoXNptncYFCwqyQrpgVAP7Y6fQnvY3uB",
+    "crc": "a8e9ac9b",
+    "md5": "3f68d8e286b9b46b5400381bdacbaa52",
+    "sha1": "caeca37113c56e696d7053d90f5f9f3e02de8ad1",
+    "sha256": "27cb7fe89ca451d824ef459c90bd37021c3f01c36c0cc4f857d89facef0c9b66",
+    "size": 131072
+  },
+  "msx2_c7521809": {
+    "id": "msx2_c7521809",
+    "name": "Empereur, L' (Japan).rom",
+    "cid": "QmY8JSwyFK6RZFCwL7JuNgq6fucCv39AHKxoYfCc8QomjK",
+    "crc": "c7521809",
+    "md5": "cafaa2eab655943ad4064a1dbdb09a67",
+    "sha1": "22f5998b4de47bf2ccc077d5881ac448e6b0484d",
+    "sha256": "0bacc708ff143c8bc954ce5d8861102107f277f8feb306e5127995a8a0aff907",
+    "size": 524288
+  },
+  "msx2_413d4700": {
+    "id": "msx2_413d4700",
+    "name": "Europe Sensen (Japan).rom",
+    "cid": "QmTddcFfnMPAqrfVzmkerHXta5Pph7xitdGtd7L1P35QxV",
+    "crc": "413d4700",
+    "md5": "35d9d247a298181bb0c70a45d5e0746e",
+    "sha1": "475c3af7495922759a5f424d2e22d7e4073d5992",
+    "sha256": "28bfb18e2d6c4446252fdf9a7adebb1c2a4a8d7f95b5b503bef8c3c4d3ea2f92",
+    "size": 1048576
+  },
+  "msx2_53cce88d": {
+    "id": "msx2_53cce88d",
+    "name": "F-15 Strike Eagle (Japan).rom",
+    "cid": "QmQ751ZZihwyQHdWHagHQL1VQit1D8KtShuwCeuwh7CR4a",
+    "crc": "53cce88d",
+    "md5": "c4c2bf153650b33aaab97ac00d07685b",
+    "sha1": "39bc111c953bdf25683db7ff4c0bad79b5c49958",
+    "sha256": "0159f4bafdf0919e51373ea80b2791f82b9a1fa5031c28997816c19bcc69ccf5",
+    "size": 131072
+  },
+  "msx2_0e03847b": {
+    "id": "msx2_0e03847b",
+    "name": "Famicle Parodic (Japan).rom",
+    "cid": "QmPrpBHvK7m1eJnVLxwy6qksVsMiMwmtNavxWuNGtjGJys",
+    "crc": "0e03847b",
+    "md5": "eccbb5b0e92ba466da7a55434bbc0556",
+    "sha1": "f12ad34dc3b4279da0fc7094f3d50d6b8bb517dc",
+    "sha256": "6ab912861b6ba38c6c2eedee6f23389e92fb88d01ee7df61f0e1000fdf55554b",
+    "size": 262144
+  },
+  "msx2_7c867d98": {
+    "id": "msx2_7c867d98",
+    "name": "Family Billiards (Japan).rom",
+    "cid": "QmfFzEsivhemtxvd1Ze3TA5zKZmNVSFthMX9UPvziRx2LH",
+    "crc": "7c867d98",
+    "md5": "54038e0dcc4ad3f0a2fd3859eb3e5c9b",
+    "sha1": "924fcf87b3747dae06e621975903ee73c42016f2",
+    "sha256": "3335f19264e3434cb78689d1dff6caee14c8354b26e804b1c9ccb9269f5ad2b6",
+    "size": 65536
+  },
+  "msx2_7030f2ab": {
+    "id": "msx2_7030f2ab",
+    "name": "Family Boxing - MSX Title Match (Japan).rom",
+    "cid": "QmcteapEzte5AvSqsGtAtKDcbihJKDwg93UcgfbAZbL6gh",
+    "crc": "7030f2ab",
+    "md5": "9b92eb8a340fed695fb4d86d94e6a4d6",
+    "sha1": "d78d763e72e23418f31dc3ce91deea1e8ee10490",
+    "sha256": "913fa26b38af54b3fd3ba6024ec7e578ad84760f62ed31bb6e5aafd5205222f6",
+    "size": 262144
+  },
+  "msx2_3459ce01": {
+    "id": "msx2_3459ce01",
+    "name": "Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt).rom",
+    "cid": "QmcUq2BUn5CGDv9PJcESaZ9JUVG8HP7kVXmm54vux3Ljdd",
+    "crc": "3459ce01",
+    "md5": "88ab9038be379184c70ed4aef1766a57",
+    "sha1": "1f39c472f1e02511fa7eaaf8ed9fcce4d45861b9",
+    "sha256": "7185674d4865405df21c0236d340f047b8f4fe95e8b589fa4d31d56ed1abc9e9",
+    "size": 262144
+  },
+  "msx2_1bdfaeeb": {
+    "id": "msx2_1bdfaeeb",
+    "name": "Fantasy Zone II - The Tears of Opa-Opa (Japan).rom",
+    "cid": "Qmd15XLXDZK5w6CfqSQQuiYCGAcgAPNhp8BKMF3A7VEbCK",
+    "crc": "1bdfaeeb",
+    "md5": "cf739db66adc5a2f2d06f19e3d852ccb",
+    "sha1": "a58ca651f4c12bf07cf3840d5e37b534f5fc075e",
+    "sha256": "10bc91ad54ecc837e3323fd208bf62398bc06247b91866b2672ab628ebba2da3",
+    "size": 262144
+  },
+  "msx2_fe797d88": {
+    "id": "msx2_fe797d88",
+    "name": "Final Mystery Murder Club - Satsujin Club (Japan).rom",
+    "cid": "QmX78F2mmFLB7MFQivCQkXf4dH1gVjREDBfqwL1EWNKh9x",
+    "crc": "fe797d88",
+    "md5": "f65b39a6475911f935b3d8c00b8b52a0",
+    "sha1": "c1923ab5c5dcaf67af3e23fd1ac42e2d4c61aca7",
+    "sha256": "fdce612bd6ec9215ae216f65ef43640ea01e0890de41e28f3e793cec99613dfd",
+    "size": 524288
+  },
+  "msx2_cdcdc6c0": {
+    "id": "msx2_cdcdc6c0",
+    "name": "Fire Ball (Japan).rom",
+    "cid": "QmZRJCW4djNCo9GUorg7G2S4hDpbtMDSgAPfoqGvQf1urJ",
+    "crc": "cdcdc6c0",
+    "md5": "beae4b0bee7b028644804fa41da96f40",
+    "sha1": "cdeadd6cf7bf5b53aa7d901446b0ce586542c580",
+    "sha256": "49055f4a390f41e99913b82e8911c8c9ffa4bc09668502105737ff517743445e",
+    "size": 131072
+  },
+  "msx2_9f152e9b": {
+    "id": "msx2_9f152e9b",
+    "name": "Fleet Commander II - Koukon no Kaiiki (Japan).rom",
+    "cid": "QmbGeevcidGKEeQkNN2QvEbxXxMndvnYh7h2uqBg3k5myP",
+    "crc": "9f152e9b",
+    "md5": "c164b82e38be62c3cfe38d587e20cc31",
+    "sha1": "8cbfd94324f297a418e7eec6920dfead7b9bed08",
+    "sha256": "f847ac31986712fa38eacbb2f48bf6474156526dcb06df268ee53d14871359b2",
+    "size": 262144
+  },
+  "msx2_fbdafe4e": {
+    "id": "msx2_fbdafe4e",
+    "name": "Gakuen Monogatari - High School Story (Japan).rom",
+    "cid": "QmWyRL4xzydz2JwZhfynhT8eEq9vJRTE4WZBPdJ3AgfdMq",
+    "crc": "fbdafe4e",
+    "md5": "d58d87e7a359df92c3aeae0ea93672b5",
+    "sha1": "32dd4df2b39461c0694f6bb84de0709478a69d31",
+    "sha256": "47d916a77ca586f1e4316fc476fd824403d77e6483f79ac333e6fdbf0429ed46",
+    "size": 262144
+  },
+  "msx2_eb67d4d6": {
+    "id": "msx2_eb67d4d6",
+    "name": "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).rom",
+    "cid": "QmUKYX5XTQUmKZm2GHoKueZcv6jqNdKhPZhnaovodgCpfq",
+    "crc": "eb67d4d6",
+    "md5": "889e438fea6eeece702446311afce84f",
+    "sha1": "1f3f586255dd49b0f912bf41e07e88fe3eb3fb61",
+    "sha256": "8874410adac7a066818edacca11adb6124e896d610f39229dbb000856a919f40",
+    "size": 262144
+  },
+  "msx2_40e53ea3": {
+    "id": "msx2_40e53ea3",
+    "name": "Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console).rom",
+    "cid": "QmcFP4Yt8XDDDFPXPgYZ6jqX6bG7sxRHMcYQt7JUD5vaxU",
+    "crc": "40e53ea3",
+    "md5": "44c47ae77d38ee95d311f90204ed4ac5",
+    "sha1": "fd71df03b0e9f3caf701ecfc6d5232060cab3b13",
+    "sha256": "a436addc241d977ba38081463322e7e611d6bab4d10cd06305fe5a71f02a549c",
+    "size": 131072
+  },
+  "msx2_33c37313": {
+    "id": "msx2_33c37313",
+    "name": "Garakuta (Japan).rom",
+    "cid": "QmXDSYZW7UuNdDr1vxPzgmAVEZ5Rd9FLr7MfVSw1tnASC5",
+    "crc": "33c37313",
+    "md5": "a0fb9b61195d7cfa9905f72d32c0c730",
+    "sha1": "f4da2be2ee712ba2e7cccf56fcd15483fe0023ed",
+    "sha256": "cd52afa6ee2ceb75e7cca960306943ec3e35c7aa2bb6ad64361d6312b52515d4",
+    "size": 65536
+  },
+  "msx2_40d009fe": {
+    "id": "msx2_40d009fe",
+    "name": "Garyuu Ou (Japan) (Alt).rom",
+    "cid": "QmWnwZmTtqy9uBc2e5HfH4NfX3vyLtwRGJUeGjXunwTYfc",
+    "crc": "40d009fe",
+    "md5": "ed4978ec21c4d0e7c7a336c58e9b7800",
+    "sha1": "2a1c91bcc9b1b621773232061d74b7098420f1d4",
+    "sha256": "98b075f6b777c0af71e630b1b46b9b39a7351c1ed4a9f3d1a05d05b3ef4ea361",
+    "size": 262144
+  },
+  "msx2_2fb0ed30": {
+    "id": "msx2_2fb0ed30",
+    "name": "Garyuu Ou (Japan).rom",
+    "cid": "Qmbh3YHefzGbQsAKKGzhnZnszT5ZrDrpv2xavarzfVYEpn",
+    "crc": "2fb0ed30",
+    "md5": "c9a6c43add06e8f57ffdb4fe40df753c",
+    "sha1": "1f26dfa026b116c80c951a995633b4c2f7fa033d",
+    "sha256": "85904d7cfa9768c1a285f9ac842411cbfc103a950b3a23aa7c9103ee4062d607",
+    "size": 262144
+  },
+  "msx2_0ad36e2b": {
+    "id": "msx2_0ad36e2b",
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).rom",
+    "cid": "QmQ7TV7fsHN6XdcUUC28qQaYbQ3yNCCFjqF43h5XgKyLrf",
+    "crc": "0ad36e2b",
+    "md5": "b82bddbc0dec393986c0fadaa7dac22c",
+    "sha1": "ad995ede603a28c72dad06c245fc7d4dad85d230",
+    "sha256": "5badb96ad5f67e2dcd5e7a10e2d29cee7e88344b8fad4f39ceaca6f969c376ff",
+    "size": 131072
+  },
+  "msx2_bc1b1ace": {
+    "id": "msx2_bc1b1ace",
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).rom",
+    "cid": "Qmd3sqAQGnuogjykGX9w4JoNgngZqDyqgCJQsvKMjsU54V",
+    "crc": "bc1b1ace",
+    "md5": "933618a3d26ee6beb32527113996f483",
+    "sha1": "d89922ed43ea4fc0b87d7e5baef3f072bb566849",
+    "sha256": "cf27aaba7b6e6106a20f6460ee4141f8d10005ea46036a45e344eea93b759d10",
+    "size": 131072
+  },
+  "msx2_b0a7800f": {
+    "id": "msx2_b0a7800f",
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt).rom",
+    "cid": "QmXn5Az3rFfCEhdHt5H2HDB3CWCD3VzWzLfiMJpsmSitXD",
+    "crc": "b0a7800f",
+    "md5": "ab8c5e6d4be4a2979019df24ca0ad679",
+    "sha1": "b8f4ee146c3cdb8f506371d001e6398ecda85251",
+    "sha256": "73d0010369bbbd4ca65af721fba396ae393e1414ee995b6489ae0649017c3cc3",
+    "size": 131072
+  },
+  "msx2_c08faf0e": {
+    "id": "msx2_c08faf0e",
+    "name": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).rom",
+    "cid": "QmTA7zpaCW4Nj1KydQpLJPkVjsrDEhnCiRoGAJnyCDTjsb",
+    "crc": "c08faf0e",
+    "md5": "d289fa8bcf442197900082a0d6f87b25",
+    "sha1": "e22a6317747903475095008d0d5ad9427ddb34af",
+    "sha256": "6576a4cfdd389fd47e4f314c775f3814118027764a75d7b8ec64a09efce82cbb",
+    "size": 131072
+  },
+  "msx2_e92fc432": {
+    "id": "msx2_e92fc432",
+    "name": "Gekitotsu Pennant Race 2 (Japan) (English Menu).rom",
+    "cid": "QmTBp4c4ijrjfuFLo7Bx26zXfkJYgS1AzPeFg6ipFNZ7ux",
+    "crc": "e92fc432",
+    "md5": "97936e206e44474e7a2062d2682d5f54",
+    "sha1": "dbed87a53c604f7140577d6707ca0fc8490463a6",
+    "sha256": "48d0a7ce888ceeb0081c7a825b80395ef62d0bf2a21ad5d8d1d6392e3159b97b",
+    "size": 131072
+  },
+  "msx2_c44c6330": {
+    "id": "msx2_c44c6330",
+    "name": "Gekitotsu Pennant Race 2 (Japan).rom",
+    "cid": "QmP4i1UPs6r3dH5PnzXjsanwJ5f7wBPYDpXmufVqYqd2nG",
+    "crc": "c44c6330",
+    "md5": "af91306740ff42ffd25f0f75d3e4fca8",
+    "sha1": "93b07e3cd5ae2f00b36824a74f83a3ef0d65d0d5",
+    "sha256": "e013db9efce513e993dc8fb77ca08aa486c1284e1db36c388c01f8426d736461",
+    "size": 131072
+  },
+  "msx2_28094960": {
+    "id": "msx2_28094960",
+    "name": "Girly Block (Japan).rom",
+    "cid": "QmZ6XPoTsizPfrPsAj7VsM28F1BBrG4jxQLZvx1vCVBKov",
+    "crc": "28094960",
+    "md5": "8a5f64a74e66be96ebf1f1719e669b89",
+    "sha1": "bb99fe7702733ab0f9e8856e91f5ddcb55d30b5f",
+    "sha256": "19c35b10615e3532d4e30b442cf741cb9593d2c7b27648d70afc8527aac07ad9",
+    "size": 131072
+  },
+  "msx2_8df56d42": {
+    "id": "msx2_8df56d42",
+    "name": "Hacker (Japan).rom",
+    "cid": "QmZodZdyxfMXdJGAg2578QSWWsdqwpT1saQc96dkNyczbo",
+    "crc": "8df56d42",
+    "md5": "5fd491b7b8c674fc78a56405c27d9221",
+    "sha1": "920f141db0d42952130855ac1dce446c327e7d9c",
+    "sha256": "cc4f1938d56528928ff46e1365aea43d7d6dcfc02c1e64763693a59c9569f00a",
+    "size": 131072
+  },
+  "msx2_e0e72736": {
+    "id": "msx2_e0e72736",
+    "name": "Hai no Majutsushi (Japan).rom",
+    "cid": "QmVYZJuRLYHnncEBn3iX9VLYUVMYrs6T9guWW7gDKGcPtU",
+    "crc": "e0e72736",
+    "md5": "a9187c70ab0f678e06c773dabf2f7e5f",
+    "sha1": "25022c4f5cfc805e93026fd5fda781e9a1807474",
+    "sha256": "7839c843dc787e01765c1ba3efbd26dcf5209d27e38bcee1345db3b3cffdf5db",
+    "size": 131072
+  },
+  "msx2_40313fec": {
+    "id": "msx2_40313fec",
+    "name": "Hal Note (Japan) (Program).rom",
+    "cid": "QmTR7evHatNKBRhu4r3NDbKT8Egk4waWZVirPzRscYzFdJ",
+    "crc": "40313fec",
+    "md5": "43e912285287a9cf52abdc3bfab2951f",
+    "sha1": "1af617bfd11b10a71936c606174a80019762ea71",
+    "sha256": "42f9808450578dd45a4b45d24fff6d51f9341c98aea2c4763409e6e4598613e6",
+    "size": 1048576
+  },
+  "msx2_eaf2bfcd": {
+    "id": "msx2_eaf2bfcd",
+    "name": "Han Seimei Senki Andorogynus (Japan) (Alt).rom",
+    "cid": "QmRh9dHVgqTcTVYTHh5niM9RNFJUnT1p4WExJP26WBPQ7J",
+    "crc": "eaf2bfcd",
+    "md5": "79363f8f57233e4e4ae544fdbb6e21a0",
+    "sha1": "ae3c3c2c022f566d2e790aba193470d5826f36cf",
+    "sha256": "77e2f8e284640bf76c09e44fc0df17d4b7cbb2a142b3300f255edf4dec593c72",
+    "size": 262144
+  },
+  "msx2_c6f74489": {
+    "id": "msx2_c6f74489",
+    "name": "Han Seimei Senki Andorogynus (Japan).rom",
+    "cid": "QmWkqg2XFATcfPFtiSFETZJPgUzHqxMd3a4FmFBiEtdvmK",
+    "crc": "c6f74489",
+    "md5": "65ed7fce763e5e7ec60306e86fff872f",
+    "sha1": "55183b7b7df66950dbb65ef1065d7d987e0fdf5a",
+    "sha256": "f298db966471bd45851fe50a22926087d1d9cebb98c7bceaa68ee266fa3d5934",
+    "size": 262144
+  },
+  "msx2_1d7040af": {
+    "id": "msx2_1d7040af",
+    "name": "Hard Ball (Japan).rom",
+    "cid": "QmVfwD2DbhpGKKAbTFXCjY8PxR9YZn3hMxhoPSkaefXXLy",
+    "crc": "1d7040af",
+    "md5": "53cb808a7a5a5e4cb13f8905e8bd9a34",
+    "sha1": "32151ddc4303290c09889bf8107493dd34296043",
+    "sha256": "d887952513acc9a44f262c078d018a3f33e61d4968799ce6edb96ed0ec70556f",
+    "size": 131072
+  },
+  "msx2_95f2eb6d": {
+    "id": "msx2_95f2eb6d",
+    "name": "Heroes of the Lance (Japan).rom",
+    "cid": "QmYVhmkXKYnhfVETBZy6Kn536URG1M1Yqtf6bKnh9pSnDS",
+    "crc": "95f2eb6d",
+    "md5": "20698b1fd96753f31d4a577d7f151460",
+    "sha1": "6e1d2d5b0688860b0a04d53fe9e5e3939dfba547",
+    "sha256": "bdefe47d953f09693c1c10757b872c2fed623b2b141b3dbcc7de0f4008803dbd",
+    "size": 524288
+  },
+  "msx2_17baf3ed": {
+    "id": "msx2_17baf3ed",
+    "name": "Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).rom",
+    "cid": "Qmd2zeSeLD8JibPouwPPExJiQHxgC1HLTgcj9hi2AjMtBt",
+    "crc": "17baf3ed",
+    "md5": "1811f67fac1f6c98c83ef0281371c7fb",
+    "sha1": "de0eb1c46c47924879e2a49f9eafba0ab344fe5f",
+    "sha256": "d840babd34f724b5866efcdc9755911431144120066cdbbfa5b98f0ce21d45f1",
+    "size": 131072
+  },
+  "msx2_1123545c": {
+    "id": "msx2_1123545c",
+    "name": "High School! Kimengumi (Japan).rom",
+    "cid": "QmfLU2QTHupN4PkiY4EvYxQGpfdL8uXh3w8LiRNsmN7M1M",
+    "crc": "1123545c",
+    "md5": "d18fa99ae42ebb6ac7b10556c172de7e",
+    "sha1": "13fbb273a95481330d33c9edc4263e30ccf1774d",
+    "sha256": "071109d4805a64b8f42494f1d7d5d6c472fd3692b168b14c570232a99a80ebe3",
+    "size": 131072
+  },
+  "msx2_5928f406": {
+    "id": "msx2_5928f406",
+    "name": "Hinotori - Houou Hen (Japan) (Alt 2).rom",
+    "cid": "QmS89pnVW4ocNHXLpEdDQvDBnrNKdtvBCk9NDxkdEdZmMd",
+    "crc": "5928f406",
+    "md5": "e2ae336ebffbc696633a57fe46e170b5",
+    "sha1": "300f20adde3941ab10eb158db48250e8e856a911",
+    "sha256": "6d60891e2e12e1535c7bec010dd1f65568da502b6fae29d238787fd8e35b1207",
+    "size": 131072
+  },
+  "msx2_d95116b0": {
+    "id": "msx2_d95116b0",
+    "name": "Hinotori - Houou Hen (Japan) (Alt).rom",
+    "cid": "QmeGXMYGLHkNqtPYi7tS3hCiJwFDHf9FXTD8AVbTqRQs59",
+    "crc": "d95116b0",
+    "md5": "c35d87613bc6c7f5c03bfb8fa220a3f6",
+    "sha1": "612c18616bc800d9eb69b9da3cd29eca31f50c1c",
+    "sha256": "d4d443c18203f1a463b4d0b356a95c5dc578e24e47e5ea596c773b63ad20fba0",
+    "size": 131072
+  },
+  "msx2_3ab5ae57": {
+    "id": "msx2_3ab5ae57",
+    "name": "Hinotori - Houou Hen (Japan).rom",
+    "cid": "Qme7EVE111qnWkx7smzTFRF61HZNeXQBo5SfR5ZtxxVD79",
+    "crc": "3ab5ae57",
+    "md5": "8d89caf4804637e302fe1d57d2e2af73",
+    "sha1": "d723f2eb1c887db5448fd56be5e7c57e60d88e63",
+    "sha256": "79bfdbbd0e9e6a6e6d49389339e02789538724fab0b8790ae0c52314887f05b3",
+    "size": 131072
+  },
+  "msx2_4708bdd1": {
+    "id": "msx2_4708bdd1",
+    "name": "Hole in One Special (Japan) (Alt).rom",
+    "cid": "QmVS4fnjgRQKZg1NFKFCURetgY7pR35L8HvBEmGnAFXGiE",
+    "crc": "4708bdd1",
+    "md5": "df9d9e1dd54409d5b35339ea60b1045e",
+    "sha1": "3837d3a72498caa070866d947956a2e30fb94fbe",
+    "sha256": "4bdd8ef5ec8517abd162512abe1b8fae4effd746a2d2ba4e281ed71ab58c1bf8",
+    "size": 131072
+  },
+  "msx2_f35df283": {
+    "id": "msx2_f35df283",
+    "name": "Hole in One Special (Japan).rom",
+    "cid": "QmdUAvpRcSN3CYzPKRPft8RU2imsarXqDQfbukN9vPZhpc",
+    "crc": "f35df283",
+    "md5": "6beaf41221e7cd325d32b3112cc898da",
+    "sha1": "facb967717c21fed9b375481908aa337b3361c45",
+    "sha256": "aa00aba4b100812116ff2824f4ff87d4ea4c0625324bf4d0a68e318c58452364",
+    "size": 131072
+  },
+  "msx2_00db86c8": {
+    "id": "msx2_00db86c8",
+    "name": "Hydlide 3 - The Space Memories (Japan).rom",
+    "cid": "QmdeVRZygFMKS5JwbQVJq236vyH6QF3Lj99X38gv3qna5Y",
+    "crc": "00db86c8",
+    "md5": "c8f2a1a93f852096eaebaa18e59350cf",
+    "sha1": "f182d4785e3eed00292f7ff4795c9dcc6c990a0a",
+    "sha256": "8b3c5d7e802c3644a3c8b7816c5101955c2f8750b44b958341b081d1fad42283",
+    "size": 524288
+  },
+  "msx2_935f1bde": {
+    "id": "msx2_935f1bde",
+    "name": "Ide Yousuke Meijin no Jissen Mahjong (Japan).rom",
+    "cid": "QmTW2pCmydFfQ3PpbzXW8pPURZoEBMDhtXWNFP5SqKRY3C",
+    "crc": "935f1bde",
+    "md5": "77a23da8af09ccb05f19ca50e717875b",
+    "sha1": "219e9acc2c023c25a8bbe9fb7d1764ffcff66034",
+    "sha256": "f4d665ef1f6f00587356697f84b7c73394e3ef5854527698b62fe3634073bd4e",
+    "size": 131072
+  },
+  "msx2_93999a38": {
+    "id": "msx2_93999a38",
+    "name": "Ikari (Japan) (Alt).rom",
+    "cid": "QmTXEKcPZpdMoDceTV6iXDMaSfPFbQH3Mt3wDqDRD1PBB1",
+    "crc": "93999a38",
+    "md5": "ccab31de87cc187e5a3cc63401f43b00",
+    "sha1": "fe8aae62fdec28631d8f7b6659dd95135c1bcbb7",
+    "sha256": "b58d7375de7e9fe7cd0272ce66c53ef77825c5a9b6ba0fee8d35d718afbaee06",
+    "size": 262144
+  },
+  "msx2_a9a66075": {
+    "id": "msx2_a9a66075",
+    "name": "Ikari (Japan).rom",
+    "cid": "QmcrgpVcbbjZKDUpz9FF6xoDASZbcGM3F1FU7CGSseUSSy",
+    "crc": "a9a66075",
+    "md5": "65c426e4cf02a1f211641a2dfc035486",
+    "sha1": "e065238580b9e118b6c9e789d797cdd99e0a1c69",
+    "sha256": "04f86f7239ba4423c583d0e09ba4bd25155bb842153ce011a4feb39f615e5e76",
+    "size": 262144
+  },
+  "msx2_f5174422": {
+    "id": "msx2_f5174422",
+    "name": "Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).rom",
+    "cid": "QmbbvrfZr6VrthG39xPVsPJzrgokuoKzf7eJzZWyD8r1qM",
+    "crc": "f5174422",
+    "md5": "4761dc4891d87f2f2feeeb237c9cd526",
+    "sha1": "66508bbdc3b133b9a69ea96789bc134eea46796a",
+    "sha256": "ba1c020ab8c7133648587e1d9170d5662b2e7b6a1443ec7f5fe32b750acb2ca9",
+    "size": 131072
+  },
+  "msx2_881b3849": {
+    "id": "msx2_881b3849",
+    "name": "Inindou - Datou Nobunaga (Japan).rom",
+    "cid": "QmYHyASzk3srQomVnJuuhZWxUGpqVajBTvpvoDPLhdiHpx",
+    "crc": "881b3849",
+    "md5": "d2f178fb8b16b2ebe002fefccb7d3191",
+    "sha1": "0cc6c30c6918fcf780e57d40f58a4cf2a82225cd",
+    "sha256": "d0c8091d62113ba041676cec9e480fb199cfb528bb45ff54dad5f506814d85d4",
+    "size": 1048576
+  },
+  "msx2_8bc34dca": {
+    "id": "msx2_8bc34dca",
+    "name": "Ishin no Arashi (Japan).rom",
+    "cid": "QmUFBoT9PqJmwKJ6L55GkMNPocB1tECiYoMvPs4tanXsEX",
+    "crc": "8bc34dca",
+    "md5": "6c3ac4fc067d82977a11611ec29ae4c4",
+    "sha1": "6420d61002da325403fcb6f41afb1d348eeba3b4",
+    "sha256": "295b93ca3516f60dba546df2b621c435335ed04cdca2ca1959d25c73f71971e0",
+    "size": 524288
+  },
+  "msx2_2c2924ed": {
+    "id": "msx2_2c2924ed",
+    "name": "Jansei (Japan) (Alt).rom",
+    "cid": "QmUx9WHiJMrNfKnuz9X42vkV5wCorx64rkWqsD4WNZUwhi",
+    "crc": "2c2924ed",
+    "md5": "f64c38d0010b872a435b041936100cbd",
+    "sha1": "d78293133b075f48c9dc5c4cf0c4a985ae964b08",
+    "sha256": "0ac0756a7b4305948e00209f5cd4057e7444d534f87c5452a10de0de09bb1fb7",
+    "size": 131072
+  },
+  "msx2_00b8e82e": {
+    "id": "msx2_00b8e82e",
+    "name": "Jansei (Japan).rom",
+    "cid": "QmY19AGbnJU2r7Te3W5bGuACEWfzxq6EHLAQKGd23SaNYF",
+    "crc": "00b8e82e",
+    "md5": "d9c9ee473b5e1e372b2b53a3c9558d5f",
+    "sha1": "0eb3a48a8ab90826726f0c06daadf4bf13390758",
+    "sha256": "dae4c31bdc74d5c0d06b647f6ecb266262cf28a7024c2f0c22f7458c4009a508",
+    "size": 131072
+  },
+  "msx2_459478cb": {
+    "id": "msx2_459478cb",
+    "name": "Japanese MSX-Write II (Japan) (Program).rom",
+    "cid": "QmZaKnB9HEdNSUV6B1AEqFvcYk8geUTLhCnHABvVtrahEt",
+    "crc": "459478cb",
+    "md5": "1e4ef11e18575f052ea5de49872d4f4b",
+    "sha1": "9afdee40e7b243f99cc50dd1ad710ab0928dd820",
+    "sha256": "8db375f31bcbd0951f9fae02199a1702ffa49be8770945d351c31a215549b357",
+    "size": 524288
+  },
+  "msx2_053aa66e": {
+    "id": "msx2_053aa66e",
+    "name": "Kempelen Chess (Japan).rom",
+    "cid": "Qmbp6rcSuU6FtrHn2h5WGUzMLErz4JQPxQNA8kM4JwohwX",
+    "crc": "053aa66e",
+    "md5": "a7e3b3b64a54078d7d92fbea2e1cf8a8",
+    "sha1": "a0c486d0f25a3dc586717d5d3e1f5a46d36735fc",
+    "sha256": "581e06a111c6e9d565573074897482905a8863b454ae717cd8bbc554b56c34d1",
+    "size": 131072
+  },
+  "msx2_5c859406": {
+    "id": "msx2_5c859406",
+    "name": "Kiki Kaikai (Japan).rom",
+    "cid": "QmefUrU1cnREnEYPSKHyMLbjRWuLYj2QyJWag3FLvBzvPn",
+    "crc": "5c859406",
+    "md5": "7c981f0ddf3a459fb854c9b827061a44",
+    "sha1": "6dd28797f9d1fe7cc041077ebe77d08f2ccc0937",
+    "sha256": "75138d3f744891ce45f26fdc8ac8c722dd73f60f5c49ef33f084b9a786147904",
+    "size": 131072
+  },
+  "msx2_23b78a2d": {
+    "id": "msx2_23b78a2d",
+    "name": "King Kong 2 - Yomigaeru Densetsu (Japan).rom",
+    "cid": "QmeHtNZMHpRgXckBzjvdpgfqWaTeAo1FdiNSfcSqKwZUbX",
+    "crc": "23b78a2d",
+    "md5": "a7bc0525d6367fe9b32eb568a14133e7",
+    "sha1": "fe4bd35e87dd50fddd255172129b9bec38691188",
+    "sha256": "9c42a0b4d4219176e0e894c434deb0b479cde3ce9edbd9e99395a8baae6c01d6",
+    "size": 131072
+  },
+  "msx2_167a53da": {
+    "id": "msx2_167a53da",
+    "name": "Kisei (Japan).rom",
+    "cid": "QmbFTQP3QvNgCNrzrzThpymyDGisvE55rfJkR5hS8g3Vht",
+    "crc": "167a53da",
+    "md5": "8cfe4ebb5bfd4c2ab838b81b0d2acb37",
+    "sha1": "2e2543ac99193f76b4f35463142294c016f0cf3d",
+    "sha256": "17358d6e583b6b06c9220cdf9f4870794ae693f5989d9cc64a274f37a3c4fd6a",
+    "size": 131072
+  },
+  "msx2_0767af40": {
+    "id": "msx2_0767af40",
+    "name": "Kitahei (Japan).rom",
+    "cid": "QmWZYvTmYPd1Gru1pQx7KJRPjUx2uQ2oQhsTUbD31SpDwb",
+    "crc": "0767af40",
+    "md5": "cb955ec12b62b62d8f3df6f2073acfc1",
+    "sha1": "b74f759ba3837968a04e9b64321b47cf087e76ff",
+    "sha256": "c9868555f8db57e235c1460489f7d2a305cf34d7129e1f3ab9e7c8d7eeb07bfd",
+    "size": 131072
+  },
+  "msx2_fb348de6": {
+    "id": "msx2_fb348de6",
+    "name": "Koronis Rift (Europe).rom",
+    "cid": "QmZur3afMGTYQBiWNNoy17okRTCfcEi4TsufRZjx13ebT2",
+    "crc": "fb348de6",
+    "md5": "e95759a5332959a0f497c99508f738cc",
+    "sha1": "523330d609ca0e527f3e28a078635b3d28489ec9",
+    "sha256": "3d1014ebe49672547b3cbc541d9d94c3b1190c018ae53815f346c7f479d5777d",
+    "size": 262144
+  },
+  "msx2_a295e608": {
+    "id": "msx2_a295e608",
+    "name": "Labyrinth (Japan) (Alt).rom",
+    "cid": "Qmbyzf3NUAhjqCEXEe6hm8Vew3xCiNvR3ovymKbejZy6CE",
+    "crc": "a295e608",
+    "md5": "82a73f6b3186409232f988f28226f9e6",
+    "sha1": "51e4231e245ffd733590e3205fa3ffea92ad509f",
+    "sha256": "5a7046e64deb4abcb7a909e76f3e00b23702ebb413f20b7553fb8f910bd7395d",
+    "size": 262144
+  },
+  "msx2_9926f43c": {
+    "id": "msx2_9926f43c",
+    "name": "Labyrinth (Japan).rom",
+    "cid": "QmcSHy8x9cV3VhaeM9bcUNSZcU9DBkaAD6sVUyJJAain7d",
+    "crc": "9926f43c",
+    "md5": "121eb1b9dce5c12832a5c7b97265a773",
+    "sha1": "e003d57d2102e8fdf5d9eea7bd78a3cf67d75778",
+    "sha256": "7653fad3417927288c252445e99913ddde50bfc8ab1f5a1fec342b242ba252c5",
+    "size": 262144
+  },
+  "msx2_5a090675": {
+    "id": "msx2_5a090675",
+    "name": "Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt).rom",
+    "cid": "QmR4nxKqK3dzh1p6ocan95YGpdiAgvU11iVFWTZzkaSGgJ",
+    "crc": "5a090675",
+    "md5": "2bd8b20b342976a5cf7b4b30399c5083",
+    "sha1": "1aee947b1ad6d478c0def550868a3851c2910809",
+    "sha256": "9d730a322d2fd74a6eeb6002635507b22fa28e1cba18e31b306bfb7c460165f7",
+    "size": 131072
+  },
+  "msx2_bfe150c4": {
+    "id": "msx2_bfe150c4",
+    "name": "Lupin Sansei - Babylon no Ougon Densetsu (Japan).rom",
+    "cid": "QmadosUB5j4KD7MD6nqo1CUhKo8zYUxt6m9fYqAJkjvDKL",
+    "crc": "bfe150c4",
+    "md5": "b15c73f408756e444bd8ee347e7f98ae",
+    "sha1": "c4a919f31d20008b5d6540aa5d2be59aa4cef5cf",
+    "sha256": "fc196d14088481b8068c0b7d2f8ab89ab5c13dc851beda40147c9d172b11c103",
+    "size": 131072
+  },
+  "msx2_f12bec91": {
+    "id": "msx2_f12bec91",
+    "name": "Lupin Sansei - Cagliostro no Shiro (Japan) (Alt).rom",
+    "cid": "QmaBqZ5NWCBY1ZxNgi3Qto4sxJ1Secd4ZcBRAQQ6kLVxW4",
+    "crc": "f12bec91",
+    "md5": "4fefe2334038d0f2f189a8434b1c8bc2",
+    "sha1": "ae8172bcf76adfa3d401467cbc89cbec2db86ee2",
+    "sha256": "f5c367937ead7f59e746b58c1ea16d82f5ce1cfbf6be46f1424210dbb9740d88",
+    "size": 131072
+  },
+  "msx2_c4096e6b": {
+    "id": "msx2_c4096e6b",
+    "name": "Lupin Sansei - Cagliostro no Shiro (Japan).rom",
+    "cid": "QmT4wVPK1bYptLtSRTs3FTrGSQUUTsN4hBispgw1p8TudJ",
+    "crc": "c4096e6b",
+    "md5": "14c078a9ed5c14ac54a6eb5e94fa34d2",
+    "sha1": "e89fc7437d8f9aed1640689a32ebbf047699b147",
+    "sha256": "91d7dac4fe0c08052b77f0800d39a7f1e09ab0d5b4fce5b9becb4e081be5b53c",
+    "size": 131072
+  },
+  "msx2_dfc2a720": {
+    "id": "msx2_dfc2a720",
+    "name": "Mad Rider (Japan) (Alt).rom",
+    "cid": "QmQGUktfaSh8FShEWKcBWiDuDbVrRMqAFdny97Mb74qKXb",
+    "crc": "dfc2a720",
+    "md5": "668f400e33557d24c9413310634c8ace",
+    "sha1": "a53feafa4c70d2378998f0dcb837905e5070c541",
+    "sha256": "587bee14920df339c8c4f5a798a95cd20e69a54ba362e731064ccb8a9f884ca5",
+    "size": 131072
+  },
+  "msx2_f87bd172": {
+    "id": "msx2_f87bd172",
+    "name": "Mad Rider (Japan).rom",
+    "cid": "QmbhqGRyFkWsbm1qDZLsBGy71A3woE1foFLMkV2GwFTWYy",
+    "crc": "f87bd172",
+    "md5": "93c665dab6503b4ff2712adfeb3a8531",
+    "sha1": "4c44939a95a20d701f60830499254e5dabedeeaa",
+    "sha256": "6462e159111d5480a9b8cea160857c2ed54c7415cfe2da5f06a4b114c6ad167e",
+    "size": 131072
+  },
+  "msx2_94191aae": {
+    "id": "msx2_94191aae",
+    "name": "Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).rom",
+    "cid": "QmPsjmhgpynfuR84ur4jtwLg5E7qxAzbvpEr3grmp5uPFu",
+    "crc": "94191aae",
+    "md5": "ed5c5d1f0a3ccd435ac3d28668ee5ec9",
+    "sha1": "55fb4e3d3a762b613b635ee9745d92f0f3711272",
+    "sha256": "eadea2636651839a33a7220bc42a8567cab90a9dc9a5ca9774a300a521ab8ef4",
+    "size": 524288
+  },
+  "msx2_f4d127c0": {
+    "id": "msx2_f4d127c0",
+    "name": "Maison Ikkoku - Omoide no Photograph (Japan).rom",
+    "cid": "Qmb7hbcwys2RoG7MqaeL8WyNfi9Q2TUHtqHk7rN7gVqxDC",
+    "crc": "f4d127c0",
+    "md5": "68ee449de249d7b2cf0e1900a6cd319c",
+    "sha1": "ee501fde62b25ddd1c82798ee1b233b8813e717b",
+    "sha256": "f101434ec0891869d4424f06ca7b56c0ad84d11d7adbe8239f5bb7ff504d2188",
+    "size": 262144
+  },
+  "msx2_f7a9591d": {
+    "id": "msx2_f7a9591d",
+    "name": "Malaya no Hibou (Japan).rom",
+    "cid": "QmbVG572n4sPwjRojcz6q7tyfCHm8rUA4bk43hvE1WCYq7",
+    "crc": "f7a9591d",
+    "md5": "8153cc9023d0e38d7da0b359c47df5e8",
+    "sha1": "e6c01bd90cf0b2793282fc53e9a3150a6d7804c5",
+    "sha256": "c43f5cfc180393a15063655855cbf81b2fdc4c0b6b14a51b592979b0f3c084e4",
+    "size": 131072
+  },
+  "msx2_e85c5731": {
+    "id": "msx2_e85c5731",
+    "name": "Metal Gear (Europe).rom",
+    "cid": "QmVnzJx9bHMUL4zPkP6kS944ETJGgoTrLEuEGrWucMs7nu",
+    "crc": "e85c5731",
+    "md5": "e8c260a29aa082e5330827364aa86ba8",
+    "sha1": "b656bd19df58fc1ba4628342b87beeec5948e0b3",
+    "sha256": "d16fff4a59ce26b570851c7200f67e05f385978598dcad91c83bf9c671a295ae",
+    "size": 131072
+  },
+  "msx2_fafe1303": {
+    "id": "msx2_fafe1303",
+    "name": "Metal Gear (Japan).rom",
+    "cid": "Qmb4CaBRtJPT8sUJ6QQZ7XAda7eag8HqkEpTZQbXUaip1w",
+    "crc": "fafe1303",
+    "md5": "12e302954fa9b23c11ce7c8f5770b82a",
+    "sha1": "a52021f1b257c7c35d626d5d642134091c45e4f4",
+    "sha256": "e47df9bdad35adcba4e45675f632ae30b0bdde578b48c819a1e35d6c29f0a090",
+    "size": 131072
+  },
+  "msx2_dcee5080": {
+    "id": "msx2_dcee5080",
+    "name": "Metal Gear 2 - Solid Snake (Japan) (Demo).rom",
+    "cid": "QmWnaWFrXX2r1TfsLQmebcdVUVBahT8fc9tA1L9FsPsoP7",
+    "crc": "dcee5080",
+    "md5": "0b5fd35204aa279fb106e3761f90085e",
+    "sha1": "21ac0ae7da47abf30986b479489134c79405f95d",
+    "sha256": "49c48f513f71586ea40e01b2cbf9f1bec1bf6964bdf5fcb74765c47230e82c59",
+    "size": 131072
+  },
+  "msx2_18b1f34b": {
+    "id": "msx2_18b1f34b",
+    "name": "Metal Gear 2 - Solid Snake (Japan).rom",
+    "cid": "QmaKWjoR8TKcf1UXpFdADu66nbt8yxwdEBWKMPBspNthyt",
+    "crc": "18b1f34b",
+    "md5": "9f50d92d35e19d5de37d75a36a410588",
+    "sha1": "af567ea6e27912d6d5bf1c8e9bc18e9b393fd1ab",
+    "sha256": "43b7fab533abeb87313919ec1fc7bc732d7b0ebfacede1e4f89d8295160384f2",
+    "size": 524288
+  },
+  "msx2_70aa93cf": {
+    "id": "msx2_70aa93cf",
+    "name": "Mirai (Japan).rom",
+    "cid": "QmNc5DLzyJoEzCTELKZMgBbYcKtmDRoQvdqYfrgyTCvyMx",
+    "crc": "70aa93cf",
+    "md5": "f15a35b66270858d4c1c5d1351e04d6e",
+    "sha1": "1c17e58f1a602e07f185bce1aa8589fae76e8b44",
+    "sha256": "b694c3c333b0ed6dd535f8f19d97cd5eaada61b7255a93be54196982508fc224",
+    "size": 131072
+  },
+  "msx2_3f69a464": {
+    "id": "msx2_3f69a464",
+    "name": "Mississippi Satsujinjiken (Japan).rom",
+    "cid": "QmUW1h9LoZ6uZ2PSYYKMSALEMjgGucKUWugNVg1uKuuTQH",
+    "crc": "3f69a464",
+    "md5": "5564c666d127fa6765b756311a19f45d",
+    "sha1": "d53a8efefe3714269538a91e5256c2938fe13239",
+    "sha256": "39939767023c07cbe8abc26f525ffd1e18afc2044b4f58763fb30ef4536a6d29",
+    "size": 131072
+  },
+  "msx2_68745c64": {
+    "id": "msx2_68745c64",
+    "name": "Moero!! Nettou Yakyuu '88 (Japan).rom",
+    "cid": "QmZBSbyVsAdKhGmMgc3HDStV5vfULaqBLtdVRqZUv75NW1",
+    "crc": "68745c64",
+    "md5": "50b6f805f48865d0a0021d604be1c58e",
+    "sha1": "1cbd5c7849f97dea1e3375a842f784ff9283310c",
+    "sha256": "bb9003083aeb6342f5872a5dcba1b16807aa5a04724cd6c558ffde7a06b49c34",
+    "size": 262144
+  },
+  "msx2_ebccb796": {
+    "id": "msx2_ebccb796",
+    "name": "Monmon Kaibutsu (Japan).rom",
+    "cid": "QmVQvkeBjfkQep1FLWtcW79e1G434vqxnY6Vr8qCfeZt6U",
+    "crc": "ebccb796",
+    "md5": "924f7eb26bcdf28047ec4211eec5f8b7",
+    "sha1": "ab087d04eb5c2c8894758c7cee32ccafd80989a7",
+    "sha256": "dc3265104990e41bc14b0ead6e396d589188a4931aadbf7bd66edec7da2c977f",
+    "size": 131072
+  },
+  "msx2_fda1977a": {
+    "id": "msx2_fda1977a",
+    "name": "Nekketsu Juudou (Japan) (Alt).rom",
+    "cid": "QmSCFuqKFu6SZk8qf51D3hGktknqyoYu2KunitwWcP3F4V",
+    "crc": "fda1977a",
+    "md5": "0e2697ed7769d3aa3650b215808c5335",
+    "sha1": "1d97922a5ab63e73611d0edbe952f041af3385b3",
+    "sha256": "a4ea350f026ca4b34ea7cf5abee940a0eba88ca8e30280a4809b86e0093a0c8f",
+    "size": 262144
+  },
+  "msx2_758c6087": {
+    "id": "msx2_758c6087",
+    "name": "Nekketsu Juudou (Japan).rom",
+    "cid": "QmS2pYGkhhL46kBZKvThkcDbc81Fxgu7wUfGxpQ8QEYhHc",
+    "crc": "758c6087",
+    "md5": "7a3012784c5e42194c141edbf0f7a94d",
+    "sha1": "721a2ded692d34d864d0440ac347c60880942d19",
+    "sha256": "3a9a349a79aa93d846e8a38b721ae9da83abd63044209529d6020bb5c7efa423",
+    "size": 262144
+  },
+  "msx2_f56a00e6": {
+    "id": "msx2_f56a00e6",
+    "name": "Ninja-kun - Asura no Shou (Japan).rom",
+    "cid": "QmXJiDG6T3QSq9Sn8ZHNBGXBqCk1aQJk6QmoZzA9KP7sMb",
+    "crc": "f56a00e6",
+    "md5": "01d18e427d829e3f1aa3550ff15c107c",
+    "sha1": "5c278deb1390eb45c79b7667b1ea1c54183123ac",
+    "sha256": "8eb9ff2158f92a98711a5a54ed6169c9adadaad38fec88e944885f050622c705",
+    "size": 131072
+  },
+  "msx2_0ff8e2c7": {
+    "id": "msx2_0ff8e2c7",
+    "name": "Nobunaga no Yabou - Bushou Fuuun Roku (Japan).rom",
+    "cid": "QmdRtLSQX1DSaRWGPtqXTNUd9AAEfMQifnvHqvkynyBFbY",
+    "crc": "0ff8e2c7",
+    "md5": "65e30c8ef671b789fdc1c08780207e26",
+    "sha1": "cb6bd26961387def757c7faeec7563d77d404d01",
+    "sha256": "0ff6e614de315f70c80d0f382213bf35a60f8a720106310207e33481487899db",
+    "size": 1048576
+  },
+  "msx2_69c11d81": {
+    "id": "msx2_69c11d81",
+    "name": "Nobunaga no Yabou - Sengoku Gunyuuden (Japan).rom",
+    "cid": "QmNYzCb7mpcK5927eCGGL8ZWxHjenh3adQNyFYfsiF5RDB",
+    "crc": "69c11d81",
+    "md5": "c2cbcad9411b575e9291c3739118785c",
+    "sha1": "89943ae938fb308f4b5149ebc0cbea597b9b0223",
+    "sha256": "943864a9cb98ab87f61a269c979995713029ac288434a7d8d39ace5b59572ca2",
+    "size": 524288
+  },
+  "msx2_653f1c73": {
+    "id": "msx2_653f1c73",
+    "name": "Nobunaga no Yabou - Zenkoku Ban (Japan).rom",
+    "cid": "QmYwCnLmRJtjEmcpMpjP8qtTNPpxtbtRhm4xaYXUtYGnfg",
+    "crc": "653f1c73",
+    "md5": "4fe04555caed46046b80d5624d44151f",
+    "sha1": "fbfdd89ec183ceae63d3d66b0ab45faa951b525a",
+    "sha256": "feb39b9a72815c1d8d763caf6a55187539475b3bf01c29400ef6bdeb7ddc2f63",
+    "size": 524288
+  },
+  "msx2_b19e88aa": {
+    "id": "msx2_b19e88aa",
+    "name": "Ogre (Japan) (Alt).rom",
+    "cid": "QmSdZG4JuskyVe4Lb9qMTSpLiTxP6reEGzByivTcZB2Zz8",
+    "crc": "b19e88aa",
+    "md5": "a04139da653fc41fdc576a5ffa273cf7",
+    "sha1": "82397096d5ef436b99b943c2a52d6eff87694183",
+    "sha256": "7debe40cda3e326b233d6ce8ca1339058a8907a17859008a23a8d9abe6796315",
+    "size": 524288
+  },
+  "msx2_f2544e2e": {
+    "id": "msx2_f2544e2e",
+    "name": "Ogre (Japan).rom",
+    "cid": "Qmek4Bc3vCf9XQtMKnATZM5iHzkh33V9bqRBoYmVZDGhsu",
+    "crc": "f2544e2e",
+    "md5": "82cd46d7908c42417ff7f40b4d277e45",
+    "sha1": "c9c272ffa69d3e0af5be42e7636b02dc2af6ea8c",
+    "sha256": "27e9eaa0fec89438bb23592880c3bde76a2cf7ba8f7de6d416acd87a4bf67986",
+    "size": 131072
+  },
+  "msx2_774c70fc": {
+    "id": "msx2_774c70fc",
+    "name": "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).rom",
+    "cid": "QmWkSnLHawrspiUR9rQpeTr59npArxUKjUC7onDPqiaxLR",
+    "crc": "774c70fc",
+    "md5": "a94a47593514299cae379b974dc088f5",
+    "sha1": "2e0436303648097e8e936c5467574aff5e3f1517",
+    "sha256": "4fa7d0b88ca4cb88177fab7efaae07dffb43ef624779af6a1a38f944e2f267cb",
+    "size": 131072
+  },
+  "msx2_b1cb1052": {
+    "id": "msx2_b1cb1052",
+    "name": "Ouke no Tani - El Giza no Fuuin (Japan).rom",
+    "cid": "QmYUndxdNpsgnpmBDYywoTNNHuHiDVmXUPKMXnoByd3er7",
+    "crc": "b1cb1052",
+    "md5": "dfcaf859e699f8995d054622c5a561ba",
+    "sha1": "5ec8811254dc762c6852289a08acf22954404f0d",
+    "sha256": "c7f138f16ddb8c8bf7af2fbd136c1f949ab95c375205375a3509d8ad32e00d93",
+    "size": 131072
+  },
+  "msx2_0a9f8d6c": {
+    "id": "msx2_0a9f8d6c",
+    "name": "Out Run (Japan).rom",
+    "cid": "QmfEdYygq97SERHy1LKUKuhthNpRQ9HEV3QxGmicscrozP",
+    "crc": "0a9f8d6c",
+    "md5": "eff230804098ffe4d342f389b5209eac",
+    "sha1": "0f10d77d1536993b8455b3b47278ca5782ef9275",
+    "sha256": "5c619e4c73cccd3f79e807aea89611a015cfd6661bdd32547da3a407f63450d1",
+    "size": 262144
+  },
+  "msx2_7df16fc8": {
+    "id": "msx2_7df16fc8",
+    "name": "Pac-Mania (Japan).rom",
+    "cid": "QmQE13kbGYevAsdny6yReM9PPmth9bvD8FVPiSMVDu1uav",
+    "crc": "7df16fc8",
+    "md5": "45f9b96088f36697f779af7de373f8fe",
+    "sha1": "d5902afbd8dfb1ea96fc8cf4d62cf6e4fa40d4f7",
+    "sha256": "499c638f85de06f3caa803d13b3df03e9e9266ea5fe8ba740bed7db5f03a95a7",
+    "size": 262144
+  },
+  "msx2_252798f6": {
+    "id": "msx2_252798f6",
+    "name": "Pachi Pro Densetsu (Japan).rom",
+    "cid": "QmV5KUmPCqj3u1Bf1NJin9ujTm1GmHBQFpWevrFk28rwoN",
+    "crc": "252798f6",
+    "md5": "aee5bfde07da953eada70d618a933d06",
+    "sha1": "78507f3f8b8601d99bbedb6517bec6cddf0bd5b4",
+    "sha256": "06edcc48ab0407e9c46932b150bfd62746a07f6307d1898dbfec2b319d30b6af",
+    "size": 131072
+  },
+  "msx2_70dc14a6": {
+    "id": "msx2_70dc14a6",
+    "name": "Penguin-kun Wars 2 (Japan) (Alt).rom",
+    "cid": "Qmc6dvRYNk38ZphgYZMRiUK6YT61iPxSUi4XL4FwUhGijE",
+    "crc": "70dc14a6",
+    "md5": "415a5337eb46846cab8fc36390700e7d",
+    "sha1": "788c53657d9ea180d04f29ccaf1f1c29a9b75519",
+    "sha256": "a5c11e7c6b7ca9de92ab967dfd6a5dfdd2456c2791db8d164bea3be9db3bb26a",
+    "size": 262144
+  },
+  "msx2_b1b24da1": {
+    "id": "msx2_b1b24da1",
+    "name": "Penguin-kun Wars 2 (Japan).rom",
+    "cid": "QmYYhYtdpJjuaTdARMdMMy42VuFUFfEPAubvodqnEG14QL",
+    "crc": "b1b24da1",
+    "md5": "3db77573e81184156486fe743b828e58",
+    "sha1": "b7104477c8801fe54d1ba91f3a77ac6e4f399f52",
+    "sha256": "7815e5ac436521faeec24719d6edaaa820f07b8fb55ddafab4a0a08364cc766e",
+    "size": 262144
+  },
+  "msx2_e85a4a6b": {
+    "id": "msx2_e85a4a6b",
+    "name": "Predator (Japan).rom",
+    "cid": "QmWEoiUYjhyEzBM44igCssw55nFQA6C3n9kUM8tdhiwun2",
+    "crc": "e85a4a6b",
+    "md5": "3a3bef37cb175a665e7abbbc80b32e92",
+    "sha1": "ae6ad52d5ebcad7722ea070109a286fe13b06cb7",
+    "sha256": "b56d80334aba581eb12de83262df52bada524634534357223b14cc8939be406c",
+    "size": 131072
+  },
+  "msx2_356b7d2a": {
+    "id": "msx2_356b7d2a",
+    "name": "Pro Yakyuu Family Stadium - Pennant Race (Japan).rom",
+    "cid": "QmRPdc9SCV3vWzYovt36jRUCa2HkjRCCUGFeqP2DN7jqXw",
+    "crc": "356b7d2a",
+    "md5": "206945b66a897271269cdcf12070993b",
+    "sha1": "970e26f3c2c085e39267115991add6ccc6e9ff80",
+    "sha256": "7b5a2256f321398f67f6b1cc0408412cdca397534e4715b068bf1ab0f3c68eef",
+    "size": 262144
+  },
+  "msx2_c065bc29": {
+    "id": "msx2_c065bc29",
+    "name": "Pro Yakyuu Fan - Telenet Stadium (Japan).rom",
+    "cid": "QmcwedRMg2gkCcvazPtQMhpu9TvMdXdMC6jo4BKcb6QMsP",
+    "crc": "c065bc29",
+    "md5": "3cd4e9d0369842440ad5888a52cdcf9a",
+    "sha1": "f52690157a51c662ffdf4ae3592ada93d7be4032",
+    "sha256": "58b96074ad533a96da60cebd127dfd38c792fcf74433e850300377544e939aac",
+    "size": 262144
+  },
+  "msx2_2abb1ec4": {
+    "id": "msx2_2abb1ec4",
+    "name": "Professional Mahjong Gokuu (Japan).rom",
+    "cid": "QmfAkxiZxSZWGNXn8NyU9r6ni1r6kMKLhfdVkMz1Pi9mHZ",
+    "crc": "2abb1ec4",
+    "md5": "4f9c53d6f5ed2aa2876bb78408b39084",
+    "sha1": "81143d2a8ef7cc593a604f3cc890312b42bdff01",
+    "sha256": "5c05f1118e1f00a8f66c48caa7dc71b38faa90ec2d7f21f14972cdc6c4f36d2c",
+    "size": 131072
+  },
+  "msx2_1b285fe3": {
+    "id": "msx2_1b285fe3",
+    "name": "Project A2 - Shijousaidai no Hyouteki (Japan).rom",
+    "cid": "QmaQtBUABLikFNEnYYeuhvz5CPukTRx9iR2PbSoQt65h2V",
+    "crc": "1b285fe3",
+    "md5": "9ffa0d56003931c45b232521724b2b8b",
+    "sha1": "418f6248221c79039fe6c44fc5a9514842e3ec71",
+    "sha256": "d5b48ca819e722725297539d3abe14b4ae863666eb33186a58ff81167b64de4f",
+    "size": 131072
+  },
+  "msx2_c4ccb75f": {
+    "id": "msx2_c4ccb75f",
+    "name": "Quarth (Japan) (Demo).rom",
+    "cid": "Qme7hoMfcMmPM22YFDWo6JEM5KedAY1gesr2fy5gQiAzW7",
+    "crc": "c4ccb75f",
+    "md5": "a95a4348dfbb8c0d9e3e0a9da770031b",
+    "sha1": "1ccac7caeaaa1c5a89503221b0a5eec2f34b1c91",
+    "sha256": "50d77b9d852b1168470df6daf00edcf4360f2cf2e1c4de9e1cb4e6a71638f7ad",
+    "size": 131072
+  },
+  "msx2_a0014e7f": {
+    "id": "msx2_a0014e7f",
+    "name": "Quarth (Japan) (Wii U Virtual Console).rom",
+    "cid": "QmNdN24hLuJeWsuQLGvvnomYQ2kedVfw4gdrtvYM9GCpk9",
+    "crc": "a0014e7f",
+    "md5": "b34b756e16f07e26c2052823bab93592",
+    "sha1": "0c62591033aa4e5e6b9eeb21eb2e5e60dcd8ee8e",
+    "sha256": "5f6048c69de81c3d1fb74ab1e1fcf0c770977c3cbcbf46924a0d47d26aea9f0f",
+    "size": 131072
+  },
+  "msx2_6681d322": {
+    "id": "msx2_6681d322",
+    "name": "Quarth (Korea).rom",
+    "cid": "QmaFaW4uyNaCvRDbYQH58LQe6cGhBCMV4mPx2ugnhsqJrT",
+    "crc": "6681d322",
+    "md5": "384527f9303a9a7a632b33c05d738f63",
+    "sha1": "2312bff70c83e60d1ca0fb9ca78a50637d02771c",
+    "sha256": "50564f6efc65e8a51f4abbf604b6f0bd4a498c091a46848dbd39b9de12eea2d4",
+    "size": 131072
+  },
+  "msx2_8d94af7d": {
+    "id": "msx2_8d94af7d",
+    "name": "Quinpl (Japan).rom",
+    "cid": "QmSoXuUmbQuoyzpDGBpFKF2jV2hTV4qd9FpZfaSQQZbbRb",
+    "crc": "8d94af7d",
+    "md5": "bc946d90bd20e0805984f67bb4b93fc2",
+    "sha1": "c82c6e054313f4c8864e64897baea8b63776020d",
+    "sha256": "ac9c2b0aa7bc4f0051e3acadb6bc7f9f39ab1771495924de260ff4a524815684",
+    "size": 262144
+  },
+  "msx2_84461e73": {
+    "id": "msx2_84461e73",
+    "name": "Rastan Saga (Japan).rom",
+    "cid": "QmYksssoymDEmR8vwcQb13EjWCPFH3uownZ3HAuoDpjNmp",
+    "crc": "84461e73",
+    "md5": "114264bbcd0fdfa7bd083a983606a200",
+    "sha1": "f787271597abbcb1297e4e8a4a9561959a195649",
+    "sha256": "03fa40fa0fa58f252ad9cd9e78b2bc01a0127b5509fe1babdb5a9443ec1f705e",
+    "size": 262144
+  },
+  "msx2_babc68f2": {
+    "id": "msx2_babc68f2",
+    "name": "Relics (Japan).rom",
+    "cid": "QmNQckWrdZFF5M7GNDo5TKzG4JJcJLjPpaiPvDNdtdvvjV",
+    "crc": "babc68f2",
+    "md5": "dd3e2f7c437f00ac77eeb9e9975ed947",
+    "sha1": "02c3ec94190c6fce6fa4984d92be48b2697e7706",
+    "sha256": "c2a5fc228d2fb29c232c763d275cbee8443e20d21e3fcb1879300dd92f744507",
+    "size": 262144
+  },
+  "msx2_6eee12c4": {
+    "id": "msx2_6eee12c4",
+    "name": "Replicart (Japan).rom",
+    "cid": "QmNtis2JbVxEXc3jumzV6W8QaKW4tA6m6CjnqSRRJ8dg63",
+    "crc": "6eee12c4",
+    "md5": "7d4c77200788e78126b98a7d7ba53d3c",
+    "sha1": "afb693fd0a138cfc59a2bf81eabd7ca2abd4e162",
+    "sha256": "7906e71faed44134fcb1c0cd51cf645cbcc31e66233e137f63a400bcde258627",
+    "size": 131072
+  },
+  "msx2_8ee8212c": {
+    "id": "msx2_8ee8212c",
+    "name": "Return of Ishtar, The (Japan).rom",
+    "cid": "QmXFyToJnhwZNJMADEHkvE2z58GReEeAHhBjxrbyWJRep4",
+    "crc": "8ee8212c",
+    "md5": "795918ec755dbd76a8e1138f1c9abb73",
+    "sha1": "d17acc97bf2f853a5fff58da733e4cd53cdaa3ed",
+    "sha256": "c5f9fb0e38f15478850e0ccfecfe68e4bc5ab3a67565c4a7d483ef1d80a8d71f",
+    "size": 262144
+  },
+  "msx2_5ccc09ab": {
+    "id": "msx2_5ccc09ab",
+    "name": "Return of Jelda (Japan).rom",
+    "cid": "QmTWQ5TuHxtJ8PvXrYDGpBhRLJLJqYhftkVtzpto9WXoK7",
+    "crc": "5ccc09ab",
+    "md5": "50312d8faaef4ffa55f49feab5669b0c",
+    "sha1": "59f679c5ebf75de98b5e909da9182dbd80413364",
+    "sha256": "7ce147fd34dc69918f81457ab063a922e103cf95791f3e9dd47086ac0f1cd427",
+    "size": 131072
+  },
+  "msx2_e79aa962": {
+    "id": "msx2_e79aa962",
+    "name": "Rick to Mick no Daibouken (Japan).rom",
+    "cid": "QmT2XJk7eYJEuSQqBJEwfc8eFGk7Z6ZAsXWxzt9pKki167",
+    "crc": "e79aa962",
+    "md5": "9df54a16476239e572747cc9a83c5b32",
+    "sha1": "a57f8ec4f89ab84936f46821969de6bca9f46d8e",
+    "sha256": "7fa50a10db0e4e9a934746673249b7bb3beeb8a1dbb54cbb0c6faf182c186ea7",
+    "size": 131072
+  },
+  "msx2_fb9e42e1": {
+    "id": "msx2_fb9e42e1",
+    "name": "Royal Blood (Japan).rom",
+    "cid": "QmWRVEhf3sqgLcF3aFZxp8j4qfcXkC3hvuBesUVRLHWB7M",
+    "crc": "fb9e42e1",
+    "md5": "6a1571a643e6c34837535a3240f85ef2",
+    "sha1": "522a53034cf40448d441683f3308fcb4b65e6d7c",
+    "sha256": "73343c569af0b56d96e692edee100b0744f44dadc0d283666f744e4a96fd989a",
+    "size": 1048576
+  },
+  "msx2_b83aa6f5": {
+    "id": "msx2_b83aa6f5",
+    "name": "Sangokushi (Japan).rom",
+    "cid": "QmPqxpQZY5VaVpAvUF2iUxqCYDEyL1YLwnteBwGdZdiYgG",
+    "crc": "b83aa6f5",
+    "md5": "afe6a9160c79d579f18b2980f8874a6e",
+    "sha1": "dab5a9f93a35fcb92c01e4250b01928fe8bd294b",
+    "sha256": "621b499b69b9e38d35b8994cb6aad000b6ccce202d3438984e9b9d02c26b2e28",
+    "size": 524288
+  },
+  "msx2_c89b93b5": {
+    "id": "msx2_c89b93b5",
+    "name": "Sangokushi II (Japan).rom",
+    "cid": "QmeH8Cc8NZtQW7rwXBFjnFhtcB3xR4GSHoEJVE8U6BBjUq",
+    "crc": "c89b93b5",
+    "md5": "34301e3f3f3aa4e0cbd657caab003237",
+    "sha1": "25ffc7e8ca90274566c31e10b5998cca6522673a",
+    "sha256": "5d881f0aaafb4c385546934c5003cf79251bf2fe4c3c470021b71ee0bfa96a9d",
+    "size": 1048576
+  },
+  "msx2_226795e0": {
+    "id": "msx2_226795e0",
+    "name": "Scramble Formation (Japan).rom",
+    "cid": "QmdGgaa6WgNnEFb1A66FyU3wV9FX8hkPTJwvuZPyjzsCRm",
+    "crc": "226795e0",
+    "md5": "5951dc047c5a102e9cf9e1a59d2596d2",
+    "sha1": "24384e63bfe450bce6abd327eae3e27969025379",
+    "sha256": "75440136f941b2061c581b72dbe47574a6a4b716d30dbe094930a03f51c9cd13",
+    "size": 262144
+  },
+  "msx2_816aceb5": {
+    "id": "msx2_816aceb5",
+    "name": "Seikima II Special - Akuma no Gyakushuu (Japan) (Alt).rom",
+    "cid": "QmPR4MCUPkJ3QXoCozB8Uv52Wd8xmQykq6vkkzLnXMrgz1",
+    "crc": "816aceb5",
+    "md5": "76a2fd7f38d9fb6b5192115fc5182b7f",
+    "sha1": "510f6d854f813269f67ee15a4cc2ed77d96d2903",
+    "sha256": "341a09d92491bc1e662d56136ef9cb7d2bfb856029c8478595526d74326d9dec",
+    "size": 131072
+  },
+  "msx2_e37b681e": {
+    "id": "msx2_e37b681e",
+    "name": "Seikima II Special - Akuma no Gyakushuu (Japan).rom",
+    "cid": "Qmb6FSoXFcESm9y6vAzL1Xb41XTA2kMf8jYxb7HNdDM8CR",
+    "crc": "e37b681e",
+    "md5": "42b81e1c71ec8af3f37d90e4c020c697",
+    "sha1": "c74a5a6164536750d6b3ea90e19798ab6fad79d7",
+    "sha256": "c56c957f3e9bbb3c589553af170c49e9343966058298ddc8b5692907cb82a200",
+    "size": 131072
+  },
+  "msx2_3b815dc6": {
+    "id": "msx2_3b815dc6",
+    "name": "Shanghai (Japan).rom",
+    "cid": "QmZgcotkfjXc22VydwV8vPdDvLLyaEngvT4Lh9UdDa8eqs",
+    "crc": "3b815dc6",
+    "md5": "6429d308164ccb0aea2888f5cffa66aa",
+    "sha1": "77d95640c80bc4868d04a913f9dbf4b5f6d877d2",
+    "sha256": "ff10083963802ff90aa2e4f80d69d34d49750cf1f873c362d295f22dfa94e50e",
+    "size": 131072
+  },
+  "msx2_39e1c37a": {
+    "id": "msx2_39e1c37a",
+    "name": "Shiryou Sensen - War of the Dead (Japan).rom",
+    "cid": "QmVuJ9cLKHVR9cr2ywgsvAWpYRLtGip7mN2WUDBuWEa1Kk",
+    "crc": "39e1c37a",
+    "md5": "89db61d03a72aede925d79e02706f666",
+    "sha1": "3194153a9c93aa24b37804a764f112bdef091bf8",
+    "sha256": "bc621c8bdb5d9a721989dcf3a77158229869ca73fbbdcb796c43e98e2d27d084",
+    "size": 262144
+  },
+  "msx2_27405eed": {
+    "id": "msx2_27405eed",
+    "name": "Space Manbow (Japan) (Wii U Virtual Console).rom",
+    "cid": "QmQJ3Gs8rx8Eva6DyKkvBVpYcH5Y1w4hhcju7FEotATxEn",
+    "crc": "27405eed",
+    "md5": "f78b9f4ea885cf072e5b41dce9f15436",
+    "sha1": "f6199f48ff994fc9a8e33a8581bb3bb16dd301ab",
+    "sha256": "058f5768ad39a74dafc2dd4e3d7558b82117aee0b6735a02be379f1018694dc9",
+    "size": 262144
+  },
+  "msx2_441fc425": {
+    "id": "msx2_441fc425",
+    "name": "Star Virgin (Japan) (Alt).rom",
+    "cid": "Qma7RDfNypmMZe8tBGcD3sC22E2reHEstXum1wyxA9YxTc",
+    "crc": "441fc425",
+    "md5": "21eaba844f408c094c2d190d68df3842",
+    "sha1": "2bfa08db95502ee9bde61c5fe7b6557c0e4aef5a",
+    "sha256": "c56d4849fd2e9fbfab69d909502f6a5add98d96ecaebf91aea23ccc6e03aaaae",
+    "size": 131072
+  },
+  "msx2_cbdfcc35": {
+    "id": "msx2_cbdfcc35",
+    "name": "Star Virgin (Japan).rom",
+    "cid": "Qmdk57nTLV9o5Le6yUxBFJhtcWzqv8h3upvxfh6qWCU9EU",
+    "crc": "cbdfcc35",
+    "md5": "d2f51a8ac5b78d322d6ba404e962f07a",
+    "sha1": "2fc050dbc44ba9dfb72299129d48e5e5e1c892c3",
+    "sha256": "9efe539c0789eab12e4472dbe3afdd2ff4956a9607c88b6e2e77a63dba2a48ee",
+    "size": 131072
+  },
+  "msx2_4a3abb65": {
+    "id": "msx2_4a3abb65",
+    "name": "Strategic Mars (Japan).rom",
+    "cid": "QmTN1bSvopqAV7N9qU3Q33cUC3aPA9doqUNXQKNw2ZUSMv",
+    "crc": "4a3abb65",
+    "md5": "0f235700eecb79b0e5a517118d48112c",
+    "sha1": "dc56cff1211bacd94f59e188e44a58d6f40a0c26",
+    "sha256": "894a39c5c6c15e4bbf09e3e0b1e179cf973d0cc29609416f3d9989ac7e9b4bbc",
+    "size": 131072
+  },
+  "msx2_187d3a21": {
+    "id": "msx2_187d3a21",
+    "name": "Suikoden - Tenmei no Chikai (Japan).rom",
+    "cid": "QmXajRMqUQteSCgSTcTzcov8UkV8zugWvqdX47HpSpKfM5",
+    "crc": "187d3a21",
+    "md5": "22f48218a0db04edd8f90bc4355e2de9",
+    "sha1": "de251a0af1df3be18469578dc00d414e572ee33e",
+    "sha256": "92b9004897da2bf6708e695da29fbb72a36cd70feb79be37537db4b6d921e86d",
+    "size": 524288
+  },
+  "msx2_8df9945a": {
+    "id": "msx2_8df9945a",
+    "name": "Super Daisenryaku (Japan).rom",
+    "cid": "QmStkWAuh1bps6LhGbrhf9MVK36mdLBKfSoPsVystsjRyc",
+    "crc": "8df9945a",
+    "md5": "4350a658720a2e8f7ecc46fb99c2209e",
+    "sha1": "d1cc2a77fb17608d542c50e2a1404cf5b4231521",
+    "sha256": "579ffe556a9a4ac69f8c09f9871cef4dd72c4ea89601cc949b88f784d65abc9c",
+    "size": 262144
+  },
+  "msx2_80ecac11": {
+    "id": "msx2_80ecac11",
+    "name": "Super Load Runner (Japan).rom",
+    "cid": "QmQDeeJLD8VJaUfGK94GwsjwmM9tdB9T1UzLz8Ym2UbpXY",
+    "crc": "80ecac11",
+    "md5": "581fd0c7ab5d2e355c5bffa3946bdbf6",
+    "sha1": "4164dcdfe0613d0f4c53b6f3581548bbbad5eb43",
+    "sha256": "6c4cb9320b4627fe5e9b870b261802003221272657973509538f6fbc8306a734",
+    "size": 131072
+  },
+  "msx2_b2392ef3": {
+    "id": "msx2_b2392ef3",
+    "name": "Super Rambo Special (Japan).rom",
+    "cid": "QmZwg5rzrHZo7MtUUcamBt7SiGKcWNKxHhao8s9ivXXE4B",
+    "crc": "b2392ef3",
+    "md5": "1a504223fdc2476a57198f80e8410a2a",
+    "sha1": "2a3c7ad70e34989fa5170028bad760e65ebe9d57",
+    "sha256": "40b81d50c576a4e9d239cf759342ec6a87ca6362e9674b2467564953c783729b",
+    "size": 131072
+  },
+  "msx2_5a5be701": {
+    "id": "msx2_5a5be701",
+    "name": "Super Runner (Japan).rom",
+    "cid": "QmNbJH5xP9N8m2UjjivGyvQGtEJapGxdwuhYcsmZUQvYXf",
+    "crc": "5a5be701",
+    "md5": "a5fc4e9b290ee0e2e8ebb7f8b49d1ace",
+    "sha1": "3202af113265e67e130a0b948dc167a9f9e9cc79",
+    "sha256": "1335f2ee2a7aaa35a02b1ac6e3bd9880ca0ea26b70c5c8fbe2f3808e0011f7c7",
+    "size": 131072
+  },
+  "msx2_cbb00ef1": {
+    "id": "msx2_cbb00ef1",
+    "name": "Super Tritorn (Japan).rom",
+    "cid": "QmakBRco26tH6Q4cNaFgyFoiaTRcC2BR9KAWyuQ27AvFUK",
+    "crc": "cbb00ef1",
+    "md5": "3032194b7fbc4c7af47b140739e7ce84",
+    "sha1": "795d47c6aae378d0d5bedc9f104a597bcc1ee16b",
+    "sha256": "f876144a0d49ddd30a9304881ed4a2fa7232494e311c6f379898ed5bc6e31780",
+    "size": 131072
+  },
+  "msx2_7122e8e3": {
+    "id": "msx2_7122e8e3",
+    "name": "Synthe Saurus (Japan) (Program).rom",
+    "cid": "QmRfK5ArnesCqV1NC61nX1Be9mXyNWebATyhGcaP4iSkPw",
+    "crc": "7122e8e3",
+    "md5": "81404a245c25a421c8ec4dc629ec4952",
+    "sha1": "cf088b4eefe7f426e438dd2fe7a3433140abba52",
+    "sha256": "7feebf9a12f625e93f4b6af4b600f4b32034d56e13616b17beda55329a9be0b8",
+    "size": 65536
+  },
+  "msx2_ae82a874": {
+    "id": "msx2_ae82a874",
+    "name": "Taiyou no Shinden - Asteka II (Japan).rom",
+    "cid": "QmYqsCP5tZzf7JxAPKaadEWSE7QuY6dVLdHRvRZahMYxVN",
+    "crc": "ae82a874",
+    "md5": "3ea01c97fe0201aede87a3f772b1871a",
+    "sha1": "414fd2a22076f45502c2329b45bda9f8730dcaae",
+    "sha256": "1b7c3ebda70f1f5801fb793912f879c3c07f122b32cf6e8aa83b69160e52f4c1",
+    "size": 262144
+  },
+  "msx2_f640670c": {
+    "id": "msx2_f640670c",
+    "name": "Tanikawa Hiroshi no Shougi Shinan 2 (Japan).rom",
+    "cid": "QmUr1v7zVLRCk4JH3rGpoLY3XxPNUmF4mP5UF6dry87gqf",
+    "crc": "f640670c",
+    "md5": "29020908bafea060960ca7e65cdfe6ca",
+    "sha1": "39d500fbf22168be2a12ac89ff5a50131bb1c30b",
+    "sha256": "1aed39f88dfe8bf5156a23e279464f299564dcefac5a747bd8fde7e6401e3907",
+    "size": 131072
+  },
+  "msx2_c31f459c": {
+    "id": "msx2_c31f459c",
+    "name": "Teitoku no Ketsudan (Japan).rom",
+    "cid": "Qmavuxeaeepq4DKjTNaUwmoBF3FyYK38egWVa8tW23FyJD",
+    "crc": "c31f459c",
+    "md5": "5dee9db145d631a97bf4c645e76f3b20",
+    "sha1": "b2ce0bc86f82f727db956dfbbe2a3fd0cb72f5fc",
+    "sha256": "3ab1cbe89b89b909873de25410abfa8fb10b35144f57d426fb6919833ada6ed7",
+    "size": 1048576
+  },
+  "msx2_7e637801": {
+    "id": "msx2_7e637801",
+    "name": "Tengoku Yoitoko (Japan).rom",
+    "cid": "QmRwY9PowcgEBJfQ598EZHdKNxoopLRSLE3KcUNGJ497oU",
+    "crc": "7e637801",
+    "md5": "88e940bb5c15d201bf1779821c10d923",
+    "sha1": "00c70cf37c71cb8f99567ae407ff6dd52c4774c2",
+    "sha256": "2c21c034f303eb62a7dbb40383fa647d4dcd4d8e5d7117fbfd93492639099765",
+    "size": 131072
+  },
+  "msx2_aa598dfd": {
+    "id": "msx2_aa598dfd",
+    "name": "Tetris (Japan).rom",
+    "cid": "QmQ5DDpQt4fpR3Q98JZVEH4uyF8YrTS1t852Nbcu5ofprM",
+    "crc": "aa598dfd",
+    "md5": "3ae183edb7f89666b23f041fd592df3c",
+    "sha1": "af310ee21b5534f32ea92c0ae34a44d828d157a7",
+    "sha256": "9b450715a901ffb1e4d50087e08bc0b824a4a34621285188fdd03c32f573eced",
+    "size": 131072
+  },
+  "msx2_96b33497": {
+    "id": "msx2_96b33497",
+    "name": "Topple Zip (Japan).rom",
+    "cid": "QmfWqqivDggsiYy8CLEppQGg6B3ZKVRFpuTGM5JTwjZdt1",
+    "crc": "96b33497",
+    "md5": "d5ec6055da9a7acf301e3e7fd8ebee27",
+    "sha1": "e3036a7bc6ed3ece1c85d5e37fb2ff39ba98ba47",
+    "sha256": "c76527d6c6efef532b049376fbbdb6fb9dd2eb41342c89e9b7485367c680eedd",
+    "size": 131072
+  },
+  "msx2_1f1f1f26": {
+    "id": "msx2_1f1f1f26",
+    "name": "Treasure of Usas, The (Japan, Europe) (Alt).rom",
+    "cid": "QmPLJuQQ8y1uyacgXEWYpr3edN1G6WNM4FUAuvYbkCDd8G",
+    "crc": "1f1f1f26",
+    "md5": "750d755fa577e033754c95c6a850b878",
+    "sha1": "632cb0834441626d20cc113cfad2e3a7ec0e0dc7",
+    "sha256": "377cc75e785acc3e5809e3fd9dcbed37b6ea35811026cc92cd720a7392ba48fa",
+    "size": 131072
+  },
+  "msx2_30396650": {
+    "id": "msx2_30396650",
+    "name": "Treasure of Usas, The (Japan, Europe).rom",
+    "cid": "QmXHttYQpFkkbYeaKxMQfcgUpVzrBaQSNauaFMfJTbZLh7",
+    "crc": "30396650",
+    "md5": "9aab75984b06c21ed8e6214474d3a68e",
+    "sha1": "4ff2aad8371e382e203c7f29b665612a8c9d937c",
+    "sha256": "11e0b842a8bddbeafd1662cd102678a74415dad0f45b8f914cad11f1b344c809",
+    "size": 131072
+  },
+  "msx2_ff7395a3": {
+    "id": "msx2_ff7395a3",
+    "name": "Tsurikichi Sanpei - Blue Marine Hen (Japan).rom",
+    "cid": "QmU9FBqS6ZAAVSAH58duAwEXcFGGzY5ivKGrDTJmGfNst8",
+    "crc": "ff7395a3",
+    "md5": "ac309104c4bcc0cbf56ac1d2295f1119",
+    "sha1": "338460029d65ebce0d9119d811187a35c866a958",
+    "sha256": "1a3719490160602241964e0a725f9716bc88cc3eb6dfd18aecac1b32d25c6f97",
+    "size": 131072
+  },
+  "msx2_24238b21": {
+    "id": "msx2_24238b21",
+    "name": "Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).rom",
+    "cid": "QmWx5Jw9D7F1sUAbJ4eSLBVL5f1KRJYfT1eBT1zavVmXsp",
+    "crc": "24238b21",
+    "md5": "b94a21a6017844335f0ad989968f0786",
+    "sha1": "108e9164ef6cf1ffe6e3c5303bfbbc3bd807b6df",
+    "sha256": "890d360db8ec392786ee0fe42c37fd859aec702d4971566cbbc0d4646dc0c2a0",
+    "size": 262144
+  },
+  "msx2_37b9e10f": {
+    "id": "msx2_37b9e10f",
+    "name": "Ultima Exodus (Japan).rom",
+    "cid": "QmNaUgFxPCu3NcXnZE22i89CcTh8Jw9E4AmDV3coeupr4a",
+    "crc": "37b9e10f",
+    "md5": "dfd60916a37e37b3a5b36523f6349109",
+    "sha1": "18be429f8b5c7bc4775c99292110aa09341cd644",
+    "sha256": "98a6a96ea769ecf7b6fd118959f3a2fa2d04c3e4c150030531d2c174534f77cb",
+    "size": 262144
+  },
+  "msx2_e564a25f": {
+    "id": "msx2_e564a25f",
+    "name": "Urusei Yatsura - Koi no Survival Birthday (Japan).rom",
+    "cid": "QmNqWtR4V54GBiapBkak8u9EoF39SXqEvJPYRKLBmEBa2s",
+    "crc": "e564a25f",
+    "md5": "2b4f2b6eac82422eda32badf60aee213",
+    "sha1": "92bada2d019fcd6eee6d332a8068a9ddfa30d518",
+    "sha256": "a12a5512587e4924a049b0ee06be1f4183cd1b44db49532e5c0a429914fe7603",
+    "size": 524288
+  },
+  "msx2_038c250d": {
+    "id": "msx2_038c250d",
+    "name": "Vampire Killer (Japan, Europe) (Alt 2).rom",
+    "cid": "QmZkryu3rBNmS1MkkvCLtAYgDCxdMwUv6mcEcgm2K35GfP",
+    "crc": "038c250d",
+    "md5": "5d50c1c7bc164c3d01c41b0b8a501d72",
+    "sha1": "b58e77f819dfbde72845801cff4b4e0a2f20ef5f",
+    "sha256": "21613bbcc44cbb09ff779ad02e542ec176e9ed41a565d044e0c634c129452fd7",
+    "size": 131072
+  },
+  "msx2_217935d0": {
+    "id": "msx2_217935d0",
+    "name": "Vampire Killer (Japan, Europe) (Alt 3).rom",
+    "cid": "QmPbaV1b4Jjh1kUZcANUCXtFQT5G1He8SVgfzhkQGoeSXW",
+    "crc": "217935d0",
+    "md5": "273c3dff8315a6a4fced758f07d54aaa",
+    "sha1": "e78511a2b8cca37a96aa396c938863c92a20c797",
+    "sha256": "377d253d285b8a4776de1dc6bacaad9f326e0d9207433269441eac25fa776a4b",
+    "size": 131072
+  },
+  "msx2_0aedea40": {
+    "id": "msx2_0aedea40",
+    "name": "Vampire Killer (Japan, Europe) (Alt).rom",
+    "cid": "Qmc7spydjJkd6g91ffmomCfDW4XggozVkkD9WW8FLWY6hc",
+    "crc": "0aedea40",
+    "md5": "51d021af50c3a48124331a9fbc738b97",
+    "sha1": "5460a88c25386b1b950b57fc1325fd75587cc825",
+    "sha256": "e1b1a0cbb03a1e8a1129ed16df77188c9c5591b8df3be17aca1ba597621cb398",
+    "size": 131072
+  },
+  "msx2_5953d084": {
+    "id": "msx2_5953d084",
+    "name": "Vampire Killer (Japan, Europe).rom",
+    "cid": "QmXSnYogGVHom6eyK4NDiRm7qgidfpHWes3A6Z4Wb7VMXS",
+    "crc": "5953d084",
+    "md5": "92ba9dab3c7a4ac6c8a130f6ccbac91c",
+    "sha1": "5ef7d03b138a2023f6def241b671c666f97ed83b",
+    "sha256": "99eabaaeb2b6c02220e131043d5a6401d0d8c5f413d89204547adcc04d65e7e2",
+    "size": 131072
+  },
+  "msx2_94ebc319": {
+    "id": "msx2_94ebc319",
+    "name": "Victorious Nine II - Koukou Yakyuu Hen (Japan).rom",
+    "cid": "QmSyu4SACY4iULUZAaz75uNSoiWYtG7uBikjQd1yJHWzqP",
+    "crc": "94ebc319",
+    "md5": "4f4d65a9e3f86349abfcab82e52cd207",
+    "sha1": "7ed1308179c41ae62cfb46124ab0ce22d8b0513b",
+    "sha256": "b4704dc30e9958dc0fdaab0e152677baf46bfa89f9adaf1c45f667863c408298",
+    "size": 131072
+  },
+  "msx2_08a5ca60": {
+    "id": "msx2_08a5ca60",
+    "name": "Wizardry (Japan).rom",
+    "cid": "QmZL53nuFtj52TxbySzif2vUeuTxaeMYUK3AG9i3fyrty4",
+    "crc": "08a5ca60",
+    "md5": "53975cfff7a51f79e707e29e984d215a",
+    "sha1": "34635bf3518c7b33164f3d96da769c7a01102d28",
+    "sha256": "6e701658f0ba494529127243a5b0741a1b5281a6eabda4b3d5a8975368eafdbe",
+    "size": 524288
+  },
+  "msx2_d1621bae": {
+    "id": "msx2_d1621bae",
+    "name": "Woody Poco (Japan) (Alt).rom",
+    "cid": "QmVDTVWTAQMdctpBRWmj6CbzsWyLGWTmtzsxLh6qcvYyC8",
+    "crc": "d1621bae",
+    "md5": "24b443a15da41134a366f145fc336fab",
+    "sha1": "f2361230358bd945690ca1c2a9dcc1cbce83941b",
+    "sha256": "3a19aafd4a56f6f1f16f54f77f1c8d0f013d155844b98b8c6a001c3347a7f491",
+    "size": 131072
+  },
+  "msx2_aea8d064": {
+    "id": "msx2_aea8d064",
+    "name": "Woody Poco (Japan).rom",
+    "cid": "QmRo2B3RzBqkMQ8fpPXikU29EPSh6fAUa3SPxT2qQMpaA8",
+    "crc": "aea8d064",
+    "md5": "3d8c2a836a4b16a739003b07d76c0459",
+    "sha1": "ebe20c85c5314957fafc223c26bf393847e3bb03",
+    "sha256": "93d02db577b452240c2eb17773fcdda59b55c308cf01ddc6b082b5390126660c",
+    "size": 131072
+  },
+  "msx2_21489e1d": {
+    "id": "msx2_21489e1d",
+    "name": "Xevious - Fardraut Saga (Japan) (Alt).rom",
+    "cid": "QmazXeLgaCAmFLFUXc4RSKLLQK7EBdW7fe2WsdRCWL4fNT",
+    "crc": "21489e1d",
+    "md5": "72430889f4e5239a5ed9742a1b84c03a",
+    "sha1": "ab3f375b6890b2a9bb1b6124f0fa690950c749f2",
+    "sha256": "ee3405b9b81e95173266f2a53fac54733fcddaa96c588eeef25e3a8ed31e2de4",
+    "size": 262144
+  },
+  "msx2_97591725": {
+    "id": "msx2_97591725",
+    "name": "Xevious - Fardraut Saga (Japan).rom",
+    "cid": "QmajrrxCttwyBPXKNGfprnKqed5WugJ2LRteUjgnAan83X",
+    "crc": "97591725",
+    "md5": "261a860dee771ea77c2d813b97366f9e",
+    "sha1": "f84d7fc089b31440cac1f4fbee3d45b2f6c90e37",
+    "sha256": "12231b41ed31a2ab653df4612e792e0da549e926a529453614cca5367c5185aa",
+    "size": 262144
+  },
+  "msx2_ff974ee3": {
+    "id": "msx2_ff974ee3",
+    "name": "Yaksa (Japan).rom",
+    "cid": "QmQLxMWbzXPudf8WLpfWke3shH11oQN3dtEMd5rjWETsxB",
+    "crc": "ff974ee3",
+    "md5": "c271c503c50bbbba7efc04f5f9ac6dec",
+    "sha1": "3e57fad130be79223068ab29f1e77ecb7f2ad237",
+    "sha256": "a36dcb95a157f516c4823f9fbb52396c7febd83b12b96d9a2299b6c6f918fe97",
+    "size": 262144
+  },
+  "msx2_dcb1a61e": {
+    "id": "msx2_dcb1a61e",
+    "name": "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).rom",
+    "cid": "QmRayNb6h78q8UZzN5htUczNskBYZcnZE7LcJ75pkVUiLw",
+    "crc": "dcb1a61e",
+    "md5": "4140b44e0923026e50f88787e208ccb5",
+    "sha1": "f9486dd810d6321bad4bc9d7703a67d630167f98",
+    "sha256": "cf9eb8ef7b3b0a61e68e649b7b700ba31dd528c51925a16b2d98245805a65fa5",
+    "size": 262144
+  },
+  "msx2_712ae3c6": {
+    "id": "msx2_712ae3c6",
+    "name": "Yuurei-kun (Japan).rom",
+    "cid": "QmZ44YsgEQD14Lj7S5STifzcKrLh4YKKJPMHxXerY7kMGL",
+    "crc": "712ae3c6",
+    "md5": "fd325b9f4997d70397f59379e679e420",
+    "sha1": "efed48854beb2803d9f2b5644edff2aacf7c6af9",
+    "sha256": "7760cd8736a41226d6e52ca7773b1e3cee8ccf1b8f786d7d43da25efd5e91ff3",
+    "size": 262144
+  },
+  "msx2_089c8164": {
+    "id": "msx2_089c8164",
+    "name": "Zanac Ex (Japan) (Alt).rom",
+    "cid": "QmTh1tY2wTdiH878BVwRnU7SNR5kkkqjUUitWJm52jkiEv",
+    "crc": "089c8164",
+    "md5": "9bf8ee3fb42f475f6c6c1789f4b93c42",
+    "sha1": "9200fd6f1e92f78e3d9c6d082837f719ad0500d4",
+    "sha256": "e293fa22cbe9178f2e90fa5a5a70c6e76b787af1f1d55eae8737b0da9839f079",
+    "size": 131072
+  },
+  "msx2_d153b2f2": {
+    "id": "msx2_d153b2f2",
+    "name": "Zanac Ex (Japan).rom",
+    "cid": "QmcT57PjjGD8bcQNyZhmNanFDSa59ghXsobxJzWHuqw7Nq",
+    "crc": "d153b2f2",
+    "md5": "03d381a40baed2be60f09a91b52316cc",
+    "sha1": "23e702084e3031158a50a0560746767bbc1b7bee",
+    "sha256": "f8bc932ba35ee175547c7741e558d43211236e5825b8378162e37f794b537e4e",
+    "size": 131072
+  },
+  "msx2_2605031e": {
+    "id": "msx2_2605031e",
+    "name": "Zoids - Chuuou Tairiku no Tatakai (Japan).rom",
+    "cid": "QmT9QKemWpwcvF9V42k2Zg4oWNAXTJMmLCnBhNnS8QAbFp",
+    "crc": "2605031e",
+    "md5": "3ba77f331a92acf0d3e64847d4a2ca24",
+    "sha1": "d526249c1a35cf1174300df75bc28662f579290a",
+    "sha256": "20b03228be21ea3f8e305cbeeb7e49034527ecab75e0a89043b9b737324763a5",
+    "size": 131072
+  },
+  "msx2_a29e6ab4": {
+    "id": "msx2_a29e6ab4",
+    "name": "Zombie Hunter (Japan).rom",
+    "cid": "QmdUDrju9BZQFwKajw3quCZWdTPUuwGmkTcku3QzFM4DwJ",
+    "crc": "a29e6ab4",
+    "md5": "81a5853b8d046a8b3078283ac78bf2d1",
+    "sha1": "a322d4e572467be5e1b452214143f88db526b49f",
+    "sha256": "8f237f5bec056f4775786fac74d18974fa6194dd62b9ea24ac648e38dd3f590f",
+    "size": 131072
+  },
+  "msx2_4968e84e": {
+    "id": "msx2_4968e84e",
+    "name": "Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt).rom",
+    "cid": "QmSegPkgGHeTksxh2tJyir9LGy4YFgccyULDbbbfqSkB9U",
+    "crc": "4968e84e",
+    "md5": "ba2e644a68677cf42c116781579896d7",
+    "sha1": "06c527db4fbe929b4da005e7463078c05944f477",
+    "sha256": "48bc60f41a4b83ae0c143065dd25ec6142d3b4c43ef59e8e0e9b379c74e52969",
+    "size": 131072
+  },
+  "msx2_d0ececc6": {
+    "id": "msx2_d0ececc6",
+    "name": "Zukkoke Yajikita Onmitsu Douchuu (Japan).rom",
+    "cid": "QmesVA8VUr3gu4L328LvQJXAQRXffM24eW2ranEYFEDmJ9",
+    "crc": "d0ececc6",
+    "md5": "532c46b3f3b28ea4e1ddb215ba7ab5b0",
+    "sha1": "094d11ebf8a20b6bfc07902c7f136bdd18b1e7ca",
+    "sha256": "29a358a207c054ce962e6771f621b7988a395d7cf817689549d1b35182adea2b",
+    "size": 131072
+  }
+}
